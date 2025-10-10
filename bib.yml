@@ -2,6 +2,21 @@
 #
 # https://github.com/typst/hayagriva/blob/main/docs/file-format.md
 
+aro:
+  type: Book
+  title: "The Nature of Mind: The Dzogchen Instructions of Aro Yeshe Jungne"
+  author:
+    - role: writer
+      name: Rinpoche, Patrul
+    - role: translator
+      name: Harding, Sarah
+  serial-number:
+    isbn: 9781559394499
+    eisbn: 978-0-8348-4019-5
+    lccn: 2015019556
+  publisher: Snow Lion
+  date: 2016
+
 basic-space:
   type: Book
   title: The Precious Treasury of the Basic Space of Phenomena

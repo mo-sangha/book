@@ -1,6 +1,8 @@
 // The Meditation Online Handbook.
 
 // TODO: Can we get good-looking quote blocks for book quotes?
+// TODO: Split into multiple chapters following
+//       https://sitandr.github.io/typst-examples-book/book/basics/must_know/project_struct.html
 
 #let book_title = "The Meditation Online Handbook"
 
@@ -69,51 +71,71 @@
 #counter(page).update(1) // For the rest of the book, switch back to "1, 2, 3" page numbering.
 
 /////////////////////////////////////////////////////////////////////////////////
-// Body
+// Recognition
 /////////////////////////////////////////////////////////////////////////////////
 
 = Recognition
 
 == Revealing the Key Point
-
 === The Nature of Mind as Awareness
 
 == Discerning the Implications
-
-=== The Four Dzogchen Samayas
+=== The Nine Levels of Capability
+=== The Eight Consciousness Model
+=== Resolving Confusion
 
 == Embracing the Larger Scope
+=== The Eight Similes of Illusion
+=== The Four Foundations of Mindfulness
+=== Introduction to the Four Dzogchen Samayas
 
 == Coming to the Decisive Experience
+=== Pointing Out
+=== Short Sits
 
+/////////////////////////////////////////////////////////////////////////////////
+// Familiarization
+/////////////////////////////////////////////////////////////////////////////////
 
 = Familiarization
 
 == Revealing the Key Point
-
-=== Dzogchen Samatha
+=== Garab Dorje's Three Statements
 
 == Discerning the Implications
+=== The Three Modes of Liberation
+=== Tilopa's Six Words of Advice
 
 == Embracing the Larger Scope
+=== The Three Kayas
+=== The Four Chokshyaks
 
 == Coming to the Decisive Experience
+=== Dzogchen Samatha
+=== Ways of Pointing Out
 
+/////////////////////////////////////////////////////////////////////////////////
+// Effortlessness
+/////////////////////////////////////////////////////////////////////////////////
 
 = Complete Effortlessness
 
 == Revealing the Key Point
-
-=== The Self-Liberation of Phenomena
-
+=== The Third Mode of Liberation
 === Abiding in Unbinding, Nirvana
 
 == Discerning the Implications
 
 == Embracing the Larger Scope
+=== The Four Dzogchen Samayas
+=== Distinguishing Consciousness from Wisdom
 
 == Coming to the Decisive Experience
+=== Dzogchen Non-Meditation
 
+/////////////////////////////////////////////////////////////////////////////////
+// Liberation
+/////////////////////////////////////////////////////////////////////////////////
 
 = Complete Liberation
 
@@ -132,31 +154,21 @@ Test Citation for the Way of Abiding @way-of-abiding
 
 = Uncategorized
 
-// Taken from Phase 1.
-=== Pointing-Out Instructions
-=== Short Sits
-=== Inquiry Discussions
-
-// Taken from Phase 2.
-=== The Three Modes of Liberation
-=== The Four Chokshyaks
-=== Tilopa's Six Words of Advice
-=== Garab Dorje's Three Statements
-=== Stillness and Movement
-=== Integration Exercises
-=== Expanded Inquiry Discussions
 
 // Taken from Phase 3.
-=== The Third Mode of Liberation
-=== Dzogchen Non-Meditation
 === Resting in Presence
 === Reflective Inquiry
 === Dream Yoga (Getting Ahead of Myself Here)
 
 // Taken from Phase 4.
-=== Deep Relase Meditation
+=== Deep Release Meditation
 === Living in Liberation
 === Integration of All Experiences
+
+// Uncategorized
+=== The Ayatanas
+=== The Watcher
+=== Lineage
 
 
 /////////////////////////////////////////////////////////////////////////////////
@@ -167,3 +179,27 @@ Test Citation for the Way of Abiding @way-of-abiding
   "bib.yml",
   style: "ieee",
 )
+
+/////////////////////////////////////////////////////////////////////////////////
+// Notes
+/////////////////////////////////////////////////////////////////////////////////
+//
+// 2025-10-10:
+// Dharma Toolbox!
+//
+// Four main chapters:
+// Corresponding to the curriculum
+// NOT EMPHASIZED BY PEOPLE, BUT IN SCRIPTURES: Recognize Awareness (chapter 1)
+// 	All the ways to recognize awareness
+//
+// Introduction: which scriptures exactly emphasize this?
+//
+// Chapter 2: Familiarization / Stabliziation into awareness
+// 	Dzogchen shamata practice
+// Chapter 3: Effortless Abiding (Stabilized into awareness)
+// 	Now self-liberation and abiding in unbinding in nirvana
+// 	self-liberation, unbinding
+// Chapter 4: Liberation
+// 	In treasuries, what does it even look like?
+//
+// Looking for the mind: looking for the watcher
