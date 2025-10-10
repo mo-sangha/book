@@ -1,5 +1,7 @@
 // The Meditation Online Handbook.
 
+// TODO: Can we get good-looking quote blocks for book quotes?
+
 #let book_title = "The Meditation Online Handbook"
 
 #set document(
@@ -21,8 +23,9 @@
   numbering: "1",
 )
 
-// TODO: Letterpress Text Bold?
-// #set text(font: "New Computer Modern")
+// This font is in the fonts/ folder. The Makefile supplies that path by default.
+// This is the closest freely-licensed font that mimics the style of the Way of Abiding.
+#set text(font: "EB Garamond")
 
 /////////////////////////////////////////////////////////////////////////////////
 // Cover Page
@@ -37,7 +40,7 @@
   numbering: none,
   [
     #set align(center)
-    #text(32pt, book_title) // TODO: Positioning of these elements (author not far from bottom).
+    #text(32pt, weight: "bold", book_title) // TODO: Positioning of these elements (author not far from bottom).
     #image("thigle.png", width: 75%)
     #text(24pt, "Lama Dawai Gocha\n& Sangha")
 
