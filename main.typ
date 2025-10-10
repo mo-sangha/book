@@ -21,6 +21,7 @@
 #set page(
   paper: "uk-book-b", // 129mm x 198mm (~5" x 7.8")
   numbering: "1",
+  margin: 1.25cm,
 )
 
 // This font is in the fonts/ folder. The Makefile supplies that path by default.
@@ -38,12 +39,11 @@
     height: 100%
   ),
   numbering: none,
+  margin: auto,
   [
-    #set align(center)
-    #text(32pt, weight: "bold", book_title) // TODO: Positioning of these elements (author not far from bottom).
-    #image("thigle.png", width: 75%)
-    #text(24pt, "Lama Dawai Gocha\n& Sangha")
-
+    #place(top + center, text(32pt, weight: "bold", book_title))
+    #place(horizon + center, image("images/thigle.png", width: 90%))
+    #place(bottom + center, text(24pt, "Lama Dawai Gocha\n& Sangha"))
   ]
 )
 
