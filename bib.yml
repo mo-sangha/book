@@ -1,0 +1,29 @@
+# Bibliography in Hayagriva format.
+#
+# https://github.com/typst/hayagriva/blob/main/docs/file-format.md
+
+basic-space:
+  type: Book
+  title: The Precious Treasury of the Basic Space of Phenomena
+  author:
+    - role: writer
+      name: Rabjam, Longchen
+    - role: translator
+      name: Nyima, Chökyi
+  serial-number:
+    isbn: 1-881847-32-2
+  publisher: Padma Publishing
+  date: 2001
+
+way-of-abiding:
+  type: Book
+  title: The Precious Treasury of the Way of Abiding
+  author:
+    - role: writer
+      name: Rabjam, Longchen
+    - role: translator
+      name: Nyima, Chökyi
+  serial-number:
+    isbn: 1-881847-09-8
+  publisher: Padma Publishing
+  date: 1998
