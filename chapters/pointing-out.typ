@@ -87,7 +87,7 @@ as dharmakaya. Alternatively, you might say "Stay put!" when the student is on t
 or say "Go away!" only to say "Come back!" once he or she has gone a short distance.
 Then, have the student let go of what he or she experiences in turning back ---
 consciousness that is clear and involves no proliferation of thoughts ---
-and directly introduce the wakefulness thus exposed as dharmkaya.
+and directly introduce the wakefulness thus exposed as dharmakaya.
 
 
 ==== Zen: Alert Observation // Kensho, p.15
