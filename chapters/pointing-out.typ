@@ -21,6 +21,26 @@
 
 ==== #todo([Thinking As Many Thoughts as Possible])
 
+
+==== PoD: Mind in Stillness // pp.74-75
+From Khenchen Thrangu Rinpoche@pointing-out-dharmakaya:
+
+Allow your mind to come to rest in the state of shamatha.
+Then look at the mind in that state while continuing to rest in the mind
+or while looking at the mind.
+
+// The source text obviously has a bunch more elaborate explanation of details.
+
+
+==== #todo([PoD: Mind in Movement])
+
+
+==== #todo([PoD: Mind within Appearances])
+
+==== #todo([PoD: Body and Mind as Same or Different])
+
+==== #todo([PoD: Stillness and Movement as the Same or Different])
+
 ==== RoS: Focusing the Mind // Treasure Trove, p.177
 From Longchenpa's explanation of the _Reverberation of Sound_@treasure-trove:
 
