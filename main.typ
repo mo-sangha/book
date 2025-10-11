@@ -1,34 +1,7 @@
 // The Meditation Online Handbook.
 
-// TODO: Can we get good-looking quote blocks for book quotes?
-// TODO: Split into multiple chapters following
-//       https://sitandr.github.io/typst-examples-book/book/basics/must_know/project_struct.html
-
-#let book_title = "The Meditation Online Handbook"
-
-#set document(
-  title: book_title,
-  author: (),
-  description: none,
-  keywords: (),
-  date: auto,
-)
-
-#set heading(numbering: "1.1.")
-
-/////////////////////////////////////////////////////////////////////////////////
-// Style configuration
-/////////////////////////////////////////////////////////////////////////////////
-
-#set page(
-  paper: "uk-book-b", // 129mm x 198mm (~5" x 7.8")
-  numbering: "1",
-  margin: 1.25cm,
-)
-
-// This font is in the fonts/ folder. The Makefile supplies that path by default.
-// This is the closest freely-licensed font that mimics the style of the Way of Abiding.
-#set text(font: "EB Garamond")
+#import "template.typ": *
+#show: template
 
 /////////////////////////////////////////////////////////////////////////////////
 // Cover Page
@@ -78,6 +51,7 @@
 
 == Revealing the Key Point
 === The Nature of Mind as Awareness
+#include("chapters/nature-as-awareness.typ")
 
 == Discerning the Implications
 === The Nine Levels of Capability
@@ -112,7 +86,6 @@
 
 == Coming to the Decisive Experience
 === Dzogchen Samatha
-=== Ways of Pointing Out
 
 /////////////////////////////////////////////////////////////////////////////////
 // Effortlessness
@@ -179,27 +152,3 @@ Test Citation for the Way of Abiding @way-of-abiding
   "bib.yml",
   style: "ieee",
 )
-
-/////////////////////////////////////////////////////////////////////////////////
-// Notes
-/////////////////////////////////////////////////////////////////////////////////
-//
-// 2025-10-10:
-// Dharma Toolbox!
-//
-// Four main chapters:
-// Corresponding to the curriculum
-// NOT EMPHASIZED BY PEOPLE, BUT IN SCRIPTURES: Recognize Awareness (chapter 1)
-// 	All the ways to recognize awareness
-//
-// Introduction: which scriptures exactly emphasize this?
-//
-// Chapter 2: Familiarization / Stabliziation into awareness
-// 	Dzogchen shamata practice
-// Chapter 3: Effortless Abiding (Stabilized into awareness)
-// 	Now self-liberation and abiding in unbinding in nirvana
-// 	self-liberation, unbinding
-// Chapter 4: Liberation
-// 	In treasuries, what does it even look like?
-//
-// Looking for the mind: looking for the watcher
