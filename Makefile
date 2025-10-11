@@ -1,3 +1,3 @@
 .PHONY: all
 all:
-	typst watch --font-path ./fonts main.typ
+	typst watch main.typ book.pdf --font-path ./fonts
