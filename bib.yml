@@ -30,6 +30,30 @@ basic-space:
   publisher: Padma Publishing
   date: 2001
 
+kensho:
+  type: Book
+  title: "Kensho: The Heart of Zen"
+  author:
+    - role: translator
+      name: Cleary, Thomas
+  serial-number:
+    isbn: 1-57062-269-8
+  publisher: Shambhala
+  date: 1997
+
+treasure-trove:
+  type: Book
+  title: "A Treasure Trove of Scriptural Transmission: A Commentary on The Precious Treasury of the Basic Space of Phenomena"
+  author:
+    - role: writer
+      name: Rabjam, Longchen
+    - role: translator
+      name: Nyima, Chökyi
+  serial-number:
+    isbn: 1-881847-30-6
+  publisher: Padma Publishing
+  date: 2001
+
 way-of-abiding:
   type: Book
   title: The Precious Treasury of the Way of Abiding

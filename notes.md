@@ -4,6 +4,7 @@ A collection of notes from when this is discussed in the group.
 
 "introducing" -- tell your student to do this or that (from Masam)
 in the basic space of phenomena, in decisive experience chapter
+(page 177)
 
 first chapter must have something -- introduction to bindus
 introduce people to light rays and bindus

@@ -16,6 +16,7 @@
   numbering: none,
   margin: auto,
   [
+    #set par(justify: false)
     #place(top + center, text(32pt, weight: "bold", book_title))
     #place(horizon + center, image("images/thigle.png", width: 90%))
     #place(bottom + center, text(24pt, "Lama Dawai Gocha\n& Sangha"))
@@ -49,99 +50,100 @@
 
 = Recognition
 
-== Revealing the Key Point
-=== The Nature of Mind as Awareness
+== #todo([Revealing the Key Point])
+=== #todo([The Nature of Mind as Awareness])
 #include("chapters/nature-as-awareness.typ")
 
-== Discerning the Implications
-=== The Nine Levels of Capability
-=== The Eight Consciousness Model
-=== Resolving Confusion
+== #todo([Discerning the Implications])
+=== #todo([The Nine Levels of Capability])
+=== #todo([The Eight Consciousness Model])
+=== #todo([Resolving Confusion])
 
-== Embracing the Larger Scope
-=== The Eight Similes of Illusion
-=== The Four Foundations of Mindfulness
-=== Introduction to the Four Dzogchen Samayas
+== #todo([])#todo([Embracing the Larger Scope])
+=== #todo([The Eight Similes of Illusion])
+=== #todo([The Four Foundations of Mindfulness])
+=== #todo([Introduction to the Four Dzogchen Samayas])
 
-== Coming to the Decisive Experience
-=== Pointing Out
-=== Short Sits
+== #todo([Coming to the Decisive Experience])
+=== #todo([Pointing Out])
+#include("chapters/pointing-out.typ")
+=== #todo([Short Sits])
 
 /////////////////////////////////////////////////////////////////////////////////
 // Familiarization
 /////////////////////////////////////////////////////////////////////////////////
 
-= Familiarization
+= #todo([Familiarization])
 
-== Revealing the Key Point
-=== Garab Dorje's Three Statements
+== #todo([Revealing the Key Point])
+=== #todo([Garab Dorje's Three Statements])
 
-== Discerning the Implications
-=== The Three Modes of Liberation
-=== Tilopa's Six Words of Advice
+== #todo([Discerning the Implications])
+=== #todo([The Three Modes of Liberation])
+=== #todo([Tilopa's Six Words of Advice])
 
-== Embracing the Larger Scope
-=== The Three Kayas
-=== The Four Chokshyaks
+== #todo([Embracing the Larger Scope])
+=== #todo([The Three Kayas])
+=== #todo([The Four Chokshyaks])
 
-== Coming to the Decisive Experience
-=== Dzogchen Samatha
+== #todo([Coming to the Decisive Experience])
+=== #todo([Dzogchen Samatha])
 
 /////////////////////////////////////////////////////////////////////////////////
 // Effortlessness
 /////////////////////////////////////////////////////////////////////////////////
 
-= Complete Effortlessness
+= #todo([Complete Effortlessness])
 
-== Revealing the Key Point
-=== The Third Mode of Liberation
-=== Abiding in Unbinding, Nirvana
+== #todo([Revealing the Key Point])
+=== #todo([The Third Mode of Liberation])
+=== #todo([Abiding in Unbinding, Nirvana])
 
-== Discerning the Implications
+== #todo([Discerning the Implications])
 
-== Embracing the Larger Scope
-=== The Four Dzogchen Samayas
-=== Distinguishing Consciousness from Wisdom
+== #todo([Embracing the Larger Scope])
+=== #todo([The Four Dzogchen Samayas])
+=== #todo([Distinguishing Consciousness from Wisdom])
 
-== Coming to the Decisive Experience
-=== Dzogchen Non-Meditation
+== #todo([Coming to the Decisive Experience])
+=== #todo([Dzogchen Non-Meditation])
 
 /////////////////////////////////////////////////////////////////////////////////
 // Liberation
 /////////////////////////////////////////////////////////////////////////////////
 
-= Complete Liberation
+= #todo([Complete Liberation])
 
-== Revealing the Key Point
+== #todo([Revealing the Key Point])
 
-== Discerning the Implications
+== #todo([Discerning the Implications])
 
-== Embracing the Larger Scope
+== #todo([Embracing the Larger Scope])
 
-== Coming to the Decisive Experience
+== #todo([Coming to the Decisive Experience])
 
 Test Citation for the Basic Space of Phenomena @basic-space
 
 Test Citation for the Way of Abiding @way-of-abiding
 
 
-= Uncategorized
+= #todo([Uncategorized])
 
 
 // Taken from Phase 3.
-=== Resting in Presence
-=== Reflective Inquiry
-=== Dream Yoga (Getting Ahead of Myself Here)
+=== #todo([Resting in Presence])
+=== #todo([Reflective Inquiry])
+=== #todo([Dream Yoga (Getting Ahead of Myself Here)])
 
 // Taken from Phase 4.
-=== Deep Release Meditation
-=== Living in Liberation
-=== Integration of All Experiences
+=== #todo([Deep Release Meditation])
+=== #todo([Living in Liberation])
+=== #todo([Integration of All Experiences])
 
 // Uncategorized
-=== The Ayatanas
-=== The Watcher
-=== Lineage
+=== #todo([The Ayatanas])
+=== #todo([The Watcher])
+=== #todo([Lineage])
 
 
 /////////////////////////////////////////////////////////////////////////////////
