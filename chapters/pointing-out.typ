@@ -21,6 +21,23 @@
 
 ==== #todo([Thinking As Many Thoughts as Possible])
 
+==== Describing Awareness
+
+In whatever state of mind, speak aloud a spontaneous description of your
+current experience of awareness. Speak only about awareness itself,
+not about the objective content of awareness.
+Speak from your actual present experience of awareness, not from memory.
+
+For example: "Awareness is spacious," "Awareness does not change,"
+"Awareness is a luminous clarity," or "Awareness is like a trust fall."
+
+
+Describe awareness in this way over and over again, never repeating a description,
+always finding a fresh way to describe it. If it seems you've run out of descriptions,
+keep going.
+
+This method can also be done in a group setting, taking turns.
+
 
 ==== PoD: Mind in Stillness // pp.74-75
 From Khenchen Thrangu Rinpoche@pointing-out-dharmakaya:
