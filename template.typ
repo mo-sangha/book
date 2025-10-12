@@ -19,8 +19,6 @@
 // Style and Layout
 /////////////////////////////////////////////////////////////////////////////////
 
-// TODO: Can we get good-looking quote blocks for book quotes?
-
 #let template(doc) = {
   set document(
     title: book_title,
@@ -48,6 +46,10 @@
   set par(
     justify: true,
   )
+
+  // Modify #quote blocks so that they appear as just indented paragraphs,
+  // without additional spacing above and below.
+  show quote: set pad(top: -1.25em, bottom: -0.4em)
 
   // Fix spacing around em-dashes. Use em-dashes like this: "a --- b".
   // Source: https://www.flother.is/til/typst-em-dash-show-rule/
