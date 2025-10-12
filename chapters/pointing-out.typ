@@ -1,7 +1,9 @@
 // Pointing Out, including a catalogue of all the various ways of pointing out.
 #import "../template.typ": *
 
-#todo([TODO: Introductory description of pointing out, prior to introducing the various ways.])
+The most direct method is a silent mind-to-mind abiding from an authentic awareness holder.
+
+Here are some others...
 
 ==== #todo([Looking into the Nature of Thought])
 

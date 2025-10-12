@@ -57,15 +57,18 @@
 #include("chapters/pointing-out.typ")
 
 == #todo([Discerning the Implications])
+#include("chapters/recognition-implications.typ")
 === #todo([The Eight Consciousness Model])
 === #todo([Resolving Confusion])
 
 == #todo([])#todo([Embracing the Larger Scope])
+#include("chapters/recognition-embracing.typ")
 === #todo([The Eight Similes of Illusion])
 === #todo([The Four Foundations of Mindfulness])
 === #todo([Introduction to the Four Dzogchen Samayas])
 
 == #todo([Coming to the Decisive Experience])
+#include("chapters/recognition-decisive.typ")
 === #todo([The Nine Levels of Capability])
 === #todo([Short Sits])
 
@@ -74,6 +77,7 @@
 /////////////////////////////////////////////////////////////////////////////////
 
 = #todo([Familiarization])
+#include("chapters/familiarization-intro.typ")
 
 == #todo([Revealing the Key Point])
 === #todo([Garab Dorje's Three Statements])
