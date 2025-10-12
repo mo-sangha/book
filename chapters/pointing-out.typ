@@ -22,6 +22,7 @@
 ==== #todo([Thinking As Many Thoughts as Possible])
 
 ==== Describing Awareness
+From Dorje Lekpa, who learned this from Eric L:
 
 In whatever state of mind, speak aloud a spontaneous description of your
 current experience of awareness. Speak only about awareness itself,
