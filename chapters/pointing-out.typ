@@ -129,7 +129,9 @@ alert observation.
 From Chinul's _Straightforward Explanation of the True Mind_@kensho:
 
 When you work, do not think of good or bad. When the mind is aroused, stop right away;
-when you encounter objects, cease and desist. An ancient said, "Be like a piece of white silk;
+when you encounter objects, cease and desist.
+
+An ancient said, "Be like a piece of white silk;
 be cool; be like the censer in an abandoned temple." Then you are free from vagueness and
 detached from false discrimination. Be like an ignoramus or a dunce, and then you will attain
 some accord. This is working on stopping illusion by putting the mind to rest.
