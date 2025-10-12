@@ -30,17 +30,6 @@ basic-space:
   publisher: Padma Publishing
   date: 2001
 
-kensho:
-  type: Book
-  title: "Kensho: The Heart of Zen"
-  author:
-    - role: translator
-      name: Cleary, Thomas
-  serial-number:
-    isbn: 1-57062-269-8
-  publisher: Shambhala
-  date: 1997
-
 pointing-out-dharmakaya:
   type: Book
   title: Pointing out the Dharmakaya
