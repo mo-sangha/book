@@ -1,4 +1,4 @@
-// Pointing Out, including a catalogue of all the various ways of pointing out.
+// Pointing Out, including a catalog of all the various ways of pointing out.
 #import "../template.typ": *
 
 The most direct method is a silent mind-to-mind abiding from an authentic awareness holder.

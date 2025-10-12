@@ -10,6 +10,6 @@ The four foundations of mindfulness are permeated by awareness---emotions,
 mental formations, the body and environment.
 So one is introduced to an alternative, a silver lining which is pure present within all of reality.
 These states of consciousness can be compared to ice drifting on the waters of awareness,
-being more dense, they are none other than awareness (cognition, rigpa, vidya, etc.).
+being more contracted, they are none other than awareness (cognition, rigpa, vidya, etc.).
 
 In the next section are several ways one is introduced to the nature of mind.

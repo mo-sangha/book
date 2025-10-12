@@ -1,1 +1,5 @@
+# Output files.
 *.pdf
+
+# Temporary files.
+*.bak

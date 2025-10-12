@@ -1,5 +1,9 @@
 A collection of notes from when this is discussed in the group.
 
+# 2025-10-11 (Evening):
+
+Complementary practices for Phase 2 and Phase 3, like Ngondro
+
 # 2025-10-11 (Morning):
 
 "introducing" -- tell your student to do this or that (from Masam)
