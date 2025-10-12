@@ -53,9 +53,10 @@
 == #todo([Revealing the Key Point])
 === #todo([The Nature of Mind as Awareness])
 #include("chapters/nature-as-awareness.typ")
+=== #todo([Pointing Out])
+#include("chapters/pointing-out.typ")
 
 == #todo([Discerning the Implications])
-=== #todo([The Nine Levels of Capability])
 === #todo([The Eight Consciousness Model])
 === #todo([Resolving Confusion])
 
@@ -65,8 +66,7 @@
 === #todo([Introduction to the Four Dzogchen Samayas])
 
 == #todo([Coming to the Decisive Experience])
-=== #todo([Pointing Out])
-#include("chapters/pointing-out.typ")
+=== #todo([The Nine Levels of Capability])
 === #todo([Short Sits])
 
 /////////////////////////////////////////////////////////////////////////////////
