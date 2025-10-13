@@ -15,6 +15,11 @@
   text(fill: blue, [#words])
 }
 
+// Colors the words, signifying that Dawai has approved a section.
+#let approved(words) = {
+  text(fill: purple, [#words])
+}
+
 /////////////////////////////////////////////////////////////////////////////////
 // Style and Layout
 /////////////////////////////////////////////////////////////////////////////////
@@ -49,7 +54,7 @@
 
   // Modify #quote blocks so that they appear as just indented paragraphs,
   // without additional spacing above and below.
-  show quote: set pad(top: -1.25em, bottom: -0.4em)
+  show quote: set pad(top: -1.25em)
 
   // Fix spacing around em-dashes. Use em-dashes like this: "a --- b".
   // Source: https://www.flother.is/til/typst-em-dash-show-rule/

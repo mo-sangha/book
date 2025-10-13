@@ -19,7 +19,44 @@ Here are some others...
 
 ==== #todo([The Space Which Holds Stillness and Movement])
 
-==== #todo([Phet!])
+==== Phet!
+Shouting _PHET!_, the practitioner utterly shocks conceptual mind.
+
+(The seed syllable _phet_ (Tib. ཕཏ་, Wyl. _phat_) is pronounced like the English word "pet"
+with extra aspiration on the "p".)
+
+#quote(block: true, attribution: [Longchenpa, citing the _Reverberation of Sound_ @genuine-meaning])[ // p.239
+  Let the mind become distracted and then shout a forceful _phet_,
+  at which time cognition will become lucid and nonconceptual.
+]
+
+#quote(block: true, attribution: [Khenpo Tsewang Dongyal Rinpoche @inborn-realization])[ // p.212
+  When you are alone you can shout the PHET syllable, as taught by the great master
+  Patrul Rinpoche in his famous Dzogchen teaching, _The Wise and Glorious King_.
+  Shouting PHET instantly puts you in the natural state.
+  It also wonderfully clarifies a dull and tired mind.
+]
+
+#quote(block: true, attribution: [Patrul Rinpoche, _The Wise and Glorious King_ @wise-and-glorious-king])[ // p.1
+  First, relax your mind and stay there,
+  neither elaborating nor concentrating, without discursive thought.
+
+  While in the state relaxed and dwelling evenly,
+  suddenly strike rational bind by exclaiming a PHAT---
+  its force is delivered sharp and short, E MA HO!
+
+  Nothing whatsoever, blankness; blankness has transparency;
+  the transparency's inexpressible.
+  Identify the dharmakaya rigpa!
+]
+
+#quote(block: true, attribution: [Jigmed Lingpa, _Yeshe Lama_ @yeshe-lama])[ // p.58.
+  The master suddenly shouts _phet_ with great intensity and at that very instant deliberately
+  inquires three times, "What is the mind?" When the disciples are speechless and without focus,
+  left in a state of shock, this immediate, uncontrived pristine awareness is known as
+  _the great seeing of that which was previously unseen_.
+  This is also called _the descent of dharmakaya wisdom_.
+]
 
 ==== #todo([Thinking As Many Thoughts as Possible])
 

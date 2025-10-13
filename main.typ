@@ -36,10 +36,17 @@
 
 #page(
   numbering: "i", // Use a different numbering for the table of contents.
-  outline(
-    title: [Table of Contents],
-    target: heading,
-  )
+  [
+    Drafting notes:
+    
+    - Sections #todo[in this color] are still in need of development.
+    - Sections #approved[in this color] have been explicitly approved by Dawai.
+  
+    #outline(
+      title: [Table of Contents],
+      target: heading,
+    )
+  ]
 )
 #pagebreak(weak: true)
 #counter(page).update(1) // For the rest of the book, switch back to "1, 2, 3" page numbering.

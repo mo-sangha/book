@@ -30,6 +30,32 @@ basic-space:
   publisher: Padma Publishing
   date: 2001
 
+genuine-meaning:
+  type: Book
+  title: The Precious Treasury of the Genuine Meaning
+  author:
+    - role: writer
+      name: Rabjam, Longchen
+    - role: translator
+      name: Chönam, Lama
+    - role: translator
+      name: Khandro, Sangye
+  serial-number:
+    isbn: 978-0-9888645-4-2
+  publisher: Berotsana
+  date: 2015
+
+inborn-realization:
+  type: Book
+  title: "Inborn Realization: A Commentary on His Holiness Dudjom Rinpoche's Mountain Retreat Instructions"
+  author:
+    - role: writer
+      name: Rinpoche, Khenpo Tsewang Dongyal
+  serial-number:
+    isbn-13: 978-0-9834074-5-4
+  publisher: Dharma Samudra
+  date: 2016
+
 pointing-out-dharmakaya:
   type: Book
   title: Pointing out the Dharmakaya
@@ -68,3 +94,29 @@ way-of-abiding:
     isbn: 1-881847-09-8
   publisher: Padma Publishing
   date: 1998
+
+wise-and-glorious-king:
+  type: Book
+  title: "The Feature of the Expert, Glorious King: Three Lines That Hit the Key Points"
+  author:
+    - role: writer
+      name: Rinpoche, Patrul
+    - role: translator
+      name: Duff, Tony
+  publisher: Padma Karpo Translation Committee
+  date: 1998
+
+yeshe-lama:
+  type: Book
+  title: Yeshe Lama
+  author:
+    - role: writer
+      name: Lingpa, Jigmed
+    - role: translator
+      name: Chönam, Lama
+    - role: translator
+      name: Khandro, Sangye
+  serial-number:
+    isbn: 9781611807318
+  publisher: Snow Lion
+  date: 2020
