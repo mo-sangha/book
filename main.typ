@@ -97,6 +97,7 @@
 == #todo([Embracing the Larger Scope])
 === #todo([The Three Kayas])
 === #todo([The Four Chokshyaks])
+#include("chapters/chokshyaks.typ")
 
 == #todo([Coming to the Decisive Experience])
 === #todo([Dzogchen Samatha])
