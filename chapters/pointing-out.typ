@@ -19,7 +19,7 @@ Here are some others...
 
 ==== #todo([The Space Which Holds Stillness and Movement])
 
-==== Phet!
+==== #approval[Phet!]
 Shouting _PHET!_, the practitioner utterly shocks conceptual mind.
 
 (The seed syllable _phet_ (Tib. ཕཏ་, Wyl. _phat_) is pronounced like the English word "pet"
@@ -61,7 +61,7 @@ with extra aspiration on the "p".)
 ==== #todo([Thinking As Many Thoughts as Possible])
 
 
-==== PoD: Mind in Stillness // pp.74-75
+==== #approval[PoD: Mind in Stillness] // pp.74-75
 #quote(block: true, attribution: [Khenchen Thrangu Rinpoche @pointing-out-dharmakaya])[
   Allow your mind to come to rest in the state of shamatha.
   Then look at the mind in that state while continuing to rest in the mind
@@ -79,7 +79,7 @@ with extra aspiration on the "p".)
 
 ==== #todo([PoD: Stillness and Movement as the Same or Different])
 
-==== RoS: Focusing the Mind // Treasure Trove, p.177
+==== #approval[RoS: Focusing the Mind] // Treasure Trove, p.177
 From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 
 #quote(block: true)[
@@ -91,7 +91,7 @@ From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 ]
 
 
-==== RoS: Letting the Mind Rest // Treasure Trove, p.177
+==== #approval[RoS: Letting the Mind Rest] // Treasure Trove, p.177
 From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 
 
@@ -103,7 +103,7 @@ From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 ]
 
 
-==== RoS: Getting to the Root of the Matter // Treasure Trove, p.177
+==== #approval[RoS: Getting to the Root of the Matter] // Treasure Trove, p.177
 From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 
 #quote(block:true)[
@@ -116,7 +116,7 @@ From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 ]
 
 
-==== RoS: Eliminating the Sense of Reality // Treasure Trove, p.177
+==== #approval[RoS: Eliminating the Sense of Reality] // Treasure Trove, p.177
 From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 
 #quote(block:true)[
@@ -131,7 +131,7 @@ From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 ]
 
 
-==== RoS: The Gap Between Objects and Consciousness // Treasure Trove, pp.177-178
+==== #approval[RoS: The Gap Between Objects and Consciousness] // Treasure Trove, pp.177-178
 From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 
 #quote(block:true)[
@@ -143,7 +143,7 @@ From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 ]
 
 
-==== RoS: Inducing Distraction // Treasure Trove, p.178
+==== #approval[RoS: Inducing Distraction] // Treasure Trove, p.178
 From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 
 #quote(block:true)[

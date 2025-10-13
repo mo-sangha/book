@@ -39,8 +39,9 @@
   [
     Drafting notes:
     
-    - Sections #todo[in this color] are still in need of development.
-    - Sections #approved[in this color] have been explicitly approved by Dawai.
+    - Sections #todo[in this color] are still in development.
+    - Sections #approval[in this color] need review by Dawai.
+    - Sections in this color have been explicitly approved by Dawai.
   
     #outline(
       title: [Table of Contents],
@@ -55,7 +56,7 @@
 // Recognition
 /////////////////////////////////////////////////////////////////////////////////
 
-= Recognition
+= #todo[Recognition]
 
 == #todo([Revealing the Key Point])
 === #todo([The Nature of Mind as Awareness])

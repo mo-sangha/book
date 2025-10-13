@@ -15,8 +15,8 @@
   text(fill: blue, [#words])
 }
 
-// Colors the words, signifying that Dawai has approved a section.
-#let approved(words) = {
+// Colors the words, signifying that approval from Dawai is needed.
+#let approval(words) = {
   text(fill: purple, [#words])
 }
 
