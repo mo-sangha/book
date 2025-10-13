@@ -62,7 +62,8 @@ with extra aspiration on the "p".)
 
 
 ==== #approval[PoD: Mind in Stillness] // pp.74-75
-#quote(block: true, attribution: [Khenchen Thrangu Rinpoche @pointing-out-dharmakaya])[
+From the Kagyu school, in _Pointing Out the Dharmakaya_ @pointing-out-dharmakaya:
+#quote(block: true, attribution: [Khenchen Thrangu Rinpoche])[
   Allow your mind to come to rest in the state of shamatha.
   Then look at the mind in that state while continuing to rest in the mind
   or while looking at the mind.
