@@ -42,7 +42,7 @@ with extra aspiration on the "p".)
   neither elaborating nor concentrating, without discursive thought.
 
   While in the state relaxed and dwelling evenly,
-  suddenly strike rational bind by exclaiming a PHAT---
+  suddenly strike rational mind by exclaiming a PHAT---
   its force is delivered sharp and short, E MA HO!
 
   Nothing whatsoever, blankness; blankness has transparency;
