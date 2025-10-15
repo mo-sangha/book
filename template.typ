@@ -41,6 +41,7 @@
 
   set heading(numbering: "1.1.")
 
+  // FIXME: The Tibetan text doesn't render on GitHub: need to explicitly load a font there.
   // This font is in the fonts/ folder. The Makefile supplies that path by default.
   // This is the closest freely-licensed font that mimics the style of The Way of Abiding.
   set text(

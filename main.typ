@@ -101,6 +101,7 @@
 
 == #todo([Coming to the Decisive Experience])
 === #todo([Dzogchen Samatha])
+#include ("chapters/dzogchen-samatha.typ")
 
 /////////////////////////////////////////////////////////////////////////////////
 // Effortlessness
@@ -134,29 +135,6 @@
 == #todo([Embracing the Larger Scope])
 
 == #todo([Coming to the Decisive Experience])
-
-Test Citation for the Basic Space of Phenomena @basic-space
-
-Test Citation for the Way of Abiding @way-of-abiding
-
-
-= #todo([Uncategorized])
-
-
-// Taken from Phase 3.
-=== #todo([Resting in Presence])
-=== #todo([Reflective Inquiry])
-=== #todo([Dream Yoga (Getting Ahead of Myself Here)])
-
-// Taken from Phase 4.
-=== #todo([Deep Release Meditation])
-=== #todo([Living in Liberation])
-=== #todo([Integration of All Experiences])
-
-// Uncategorized
-=== #todo([The Ayatanas])
-=== #todo([The Watcher])
-=== #todo([Lineage])
 
 
 /////////////////////////////////////////////////////////////////////////////////
