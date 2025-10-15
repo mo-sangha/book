@@ -120,3 +120,19 @@ yeshe-lama:
     isbn: 9781611807318
   publisher: Snow Lion
   date: 2020
+
+you-are-the-eyes-of-the-world:
+  type: Book
+  title: You Are the Eyes of the World
+  author:
+    - role: writer
+      name: Rabjam, Longchen
+    - role: translator
+      name: Lipman, Kennard
+    - role: translator
+      name: Peterson, Merrill
+  serial-number:
+    isbn: 978-1-55939-367-6
+  publisher: Snow Lion
+  date: 2010
+  

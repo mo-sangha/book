@@ -110,6 +110,7 @@
 = #todo([Complete Effortlessness])
 
 == #todo([Revealing the Key Point])
+#include("chapters/effortlessness-key-point.typ")
 === #todo([The Third Mode of Liberation])
 === #todo([Abiding in Unbinding, Nirvana])
 
