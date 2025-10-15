@@ -38,15 +38,17 @@ with extra aspiration on the "p".)
 ]
 
 #quote(block: true, attribution: [Patrul Rinpoche, _The Wise and Glorious King_ @wise-and-glorious-king])[ // p.1
-  First, relax your mind and stay there,
-  neither elaborating nor concentrating, without discursive thought.
+  First, relax your mind and stay there,\
+  Neither elaborating nor concentrating,\
+  Without discursive thought.
 
-  While in the state relaxed and dwelling evenly,
-  suddenly strike rational mind by exclaiming a PHAT---
-  its force is delivered sharp and short, E MA HO!
+  While in the state relaxed and dwelling evenly,\
+  Suddenly strike rational mind by exclaiming a PHAT---\
+  Its force is delivered sharp and short, E MA HO!
 
-  Nothing whatsoever, blankness; blankness has transparency;
-  the transparency's inexpressible.
+  Nothing whatsoever, blankness;\
+  Blankness has transparency;\
+  The transparency's inexpressible.\
   Identify the dharmakaya rigpa!
 ]
 
