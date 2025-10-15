@@ -22,8 +22,8 @@ Here are some others...
 ==== #approval[Phet!]
 Shouting _PHET!_, the practitioner utterly shocks conceptual mind.
 
-(The seed syllable _phet_ (Tib. ཕཏ་, Wyl. _phat_) is pronounced like the English word "pet"
-with extra aspiration on the "p".)
+(The seed syllable _phet_ (Tib. ཕཊ, EWYL. _phaT_) is pronounced like the English word "pet"
+with extra aspiration on the "p" and with the tongue curled or pulled back on the "t".)
 
 #quote(block: true, attribution: [Longchenpa, citing the _Reverberation of Sound_ @genuine-meaning])[ // p.239
   Let the mind become distracted and then shout a forceful _phet_,
