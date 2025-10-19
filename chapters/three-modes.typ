@@ -41,5 +41,5 @@ Tulku Urgyen Rinpoche explains the three modes as follows:
   or perfection in training. A thief entering an empty house does not gain anything
   and the house does not lose anything. All thought activity is naturally liberated
   without any risk or gain whatsoever. That is the ultimate achievement and is,
-  therefore, the third of the three [modes]. This is confidence in [self-]liberation.
+  therefore, the third of the three [modes]. This is confidence in liberation.
 ]
