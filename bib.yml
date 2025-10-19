@@ -82,6 +82,22 @@ treasure-trove:
   publisher: Padma Publishing
   date: 2001
 
+vajra-heart-revisited:
+  type: Book
+  title: "Vajra Heart Revisited: Teachings on the Path of Trekchö"
+  author:
+    - role: writer
+      name: Rinpoche, Tulku Urgyen
+    - role: translator
+      name: Kunsang, Erik Pema
+    - role: translator
+      name: Schmidt, Marcia Binder
+  serial-number:
+    isbn-13: 978-1-7328717-7-9
+  publisher:
+    Rangjung Yeshe Publications
+  date: 2006
+
 way-of-abiding:
   type: Book
   title: The Precious Treasury of the Way of Abiding

@@ -88,10 +88,13 @@
 #include("chapters/familiarization-intro.typ")
 
 == #todo([Revealing the Key Point])
+#include("chapters/familiarization-key-point.typ")
 === #todo([Garab Dorje's Three Statements])
+#include("chapters/garab-dorje.typ")
 
 == #todo([Discerning the Implications])
 === #todo([The Three Modes of Liberation])
+#include("chapters/three-modes.typ")
 === #todo([Tilopa's Six Words of Advice])
 
 == #todo([Embracing the Larger Scope])
