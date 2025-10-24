@@ -51,6 +51,12 @@
 
   set par(
     justify: true,
+    justification-limits: (
+      // How much can the width of spaces between words be adjusted?
+      "spacing": ("min": 90% - 0.01em, "max": 100% + 0.02em),
+      // How much can the spacing between letters be adjusted?
+      "tracking": ("min": -0.01em, "max": 0.02em),
+    )
   )
 
   // Modify #quote blocks so that they appear as just indented paragraphs,
