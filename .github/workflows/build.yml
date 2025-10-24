@@ -21,7 +21,7 @@ jobs:
       - name: Install
         uses: typst-community/setup-typst@v4
         with:
-          typst-version: 0.13.1
+          typst-version: 0.14.0
           allow-prereleases: false
 
       # Compile the source files, producing "book.pdf".
