@@ -1,7 +1,7 @@
 // Pointing Out, including a catalog of all the various ways of pointing out.
 #import "../template.typ": *
 
-The most direct method is a silent mind-to-mind abiding from an authentic awareness holder.
+The most direct method is a silent mind-to-mind reminder from an authentic awareness holder.
 
 Here are some others...
 
@@ -50,14 +50,6 @@ with extra aspiration on the "p".)
   Blankness has transparency;\
   The transparency's inexpressible.\
   Identify the dharmakaya rigpa!
-]
-
-#quote(block: true, attribution: [Jigmed Lingpa, _Yeshe Lama_ @yeshe-lama])[ // p.58.
-  The master suddenly shouts _phet_ with great intensity and at that very instant deliberately
-  inquires three times, "What is the mind?" When the disciples are speechless and without focus,
-  left in a state of shock, this immediate, uncontrived pristine awareness is known as
-  _the great seeing of that which was previously unseen_.
-  This is also called _the descent of dharmakaya wisdom_.
 ]
 
 ==== #todo([Thinking As Many Thoughts as Possible])

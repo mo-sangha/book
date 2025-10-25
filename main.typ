@@ -56,63 +56,60 @@
 // Recognition
 /////////////////////////////////////////////////////////////////////////////////
 
-= #todo[Recognition]
+= #todo[Revealing the Nature of Mind]
 
-== #todo([Revealing the Key Point])
-=== #todo([The Nature of Mind as Awareness])
+== #todo([Key Point])
+=== #todo([The Practitioner is Pointed to the Nature of Mind as Awareness])
 #include("chapters/nature-as-awareness.typ")
 === #todo([Pointing Out])
 #include("chapters/pointing-out.typ")
 
 == #todo([Discerning the Implications])
 #include("chapters/recognition-implications.typ")
-=== #todo([The Eight Consciousness Model])
-=== #todo([Resolving Confusion])
 
 == #todo([])#todo([Embracing the Larger Scope])
 #include("chapters/recognition-embracing.typ")
-=== #todo([The Eight Similes of Illusion])
-=== #todo([The Four Foundations of Mindfulness])
-=== #todo([Introduction to the Four Dzogchen Samayas])
 
-== #todo([Coming to the Decisive Experience])
+== #todo([Coming to the Decisive Conclusion])
 #include("chapters/recognition-decisive.typ")
-=== #todo([The Nine Levels of Capability])
-=== #todo([Short Sits])
 
 /////////////////////////////////////////////////////////////////////////////////
 // Familiarization
 /////////////////////////////////////////////////////////////////////////////////
 
-= #todo([Familiarization])
+= #todo([Familiarizing With the View and Effortlessness])
 #include("chapters/familiarization-intro.typ")
 
-== #todo([Revealing the Key Point])
+== #todo([Key Point])
 #include("chapters/familiarization-key-point.typ")
 === #todo([Garab Dorje's Three Statements])
 #include("chapters/garab-dorje.typ")
 
 == #todo([Discerning the Implications])
+=== #todo([The Eight Consciousness Model])
+=== #todo([Resolving Confusion])
 === #todo([The Three Modes of Liberation])
 #include("chapters/three-modes.typ")
 === #todo([Tilopa's Six Words of Advice])
+=== #todo([The Eight Similes of Illusion])
 
 == #todo([Embracing the Larger Scope])
 === #todo([The Three Kayas])
 === #todo([The Four Chokshyaks])
 #include("chapters/chokshyaks.typ")
 
-== #todo([Coming to the Decisive Experience])
+== #todo([Coming to the Decisive Conclusion])
 === #todo([Dzogchen Samatha])
 #include ("chapters/dzogchen-samatha.typ")
+=== #todo([Short Sits])
 
 /////////////////////////////////////////////////////////////////////////////////
 // Effortlessness
 /////////////////////////////////////////////////////////////////////////////////
 
-= #todo([Complete Effortlessness])
+= #todo([Pure Effortlessness])
 
-== #todo([Revealing the Key Point])
+== #todo([Key Point])
 #include("chapters/effortlessness-key-point.typ")
 === #todo([The Third Mode of Liberation])
 === #todo([Abiding in Unbinding, Nirvana])
@@ -123,7 +120,7 @@
 === #todo([The Four Dzogchen Samayas])
 === #todo([Distinguishing Consciousness from Wisdom])
 
-== #todo([Coming to the Decisive Experience])
+== #todo([Coming to the Decisive Conclusion])
 === #todo([Dzogchen Non-Meditation])
 
 /////////////////////////////////////////////////////////////////////////////////
@@ -132,13 +129,13 @@
 
 = #todo([Complete Liberation])
 
-== #todo([Revealing the Key Point])
+== #todo([Key Point])
 
 == #todo([Discerning the Implications])
 
 == #todo([Embracing the Larger Scope])
 
-== #todo([Coming to the Decisive Experience])
+== #todo([Coming to the Decisive Conclusion])
 
 
 /////////////////////////////////////////////////////////////////////////////////

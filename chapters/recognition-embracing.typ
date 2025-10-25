@@ -6,3 +6,5 @@ adjusting to effortlessness and familiarizing with your whole mind, the heart es
 
 Here we begin allowing natural wisdom and compassion to blossom while releasing karmic conditioning,
 allowing it to liberate in its own place without interference.
+
+The practitioner is introduced to the four great dzogchen samayas as qualities of mind.
