@@ -1,8 +1,7 @@
 // Garab Dorje's Three Statements
 #import "../template.typ": *
 
-The final testament of Garab Dorje, the first human Dzogchen master,
-contains the following pith instruction known as the _Three Statements that Strike the Vital Point_:
+The _Three Statements that Strike the Vital Point_ are:
 
 #quote(block: true)[
   Introducing directly the face of rigpa itself.\
