@@ -81,24 +81,23 @@
 #include("chapters/familiarization-intro.typ")
 
 == #todo([Key Point])
-#include("chapters/familiarization-key-point.typ")
+#include("chapters/2-1.typ")
 === #todo([Garab Dorje's Three Statements])
 #include("chapters/garab-dorje.typ")
 
 == #todo([Discerning the Implications])
-=== #todo([The Eight Consciousness Model])
-=== #todo([Resolving Confusion])
+#include("chapters/familiarization-discerning.typ")
 === #todo([The Three Modes of Liberation])
 #include("chapters/three-modes.typ")
 === #todo([Tilopa's Six Words of Advice])
-=== #todo([The Eight Similes of Illusion])
 
 == #todo([Embracing the Larger Scope])
-=== #todo([The Three Kayas])
+#include("chapters/familiarization-embracing.typ")
 === #todo([The Four Chokshyaks])
 #include("chapters/chokshyaks.typ")
 
 == #todo([Coming to the Decisive Conclusion])
+#include("chapters/familiarization-conclusion.typ")
 === #todo([Dzogchen Samatha])
 #include ("chapters/dzogchen-samatha.typ")
 === #todo([Short Sits])
@@ -108,6 +107,7 @@
 /////////////////////////////////////////////////////////////////////////////////
 
 = #todo([Pure Effortlessness])
+#include("chapters/effortlessness-intro.typ")
 
 == #todo([Key Point])
 #include("chapters/effortlessness-key-point.typ")
@@ -115,12 +115,16 @@
 === #todo([Abiding in Unbinding, Nirvana])
 
 == #todo([Discerning the Implications])
+The implications are that conditioning is allowed to be freed in its own place.
 
 == #todo([Embracing the Larger Scope])
+Once karmic cycles are liberated, the enlightened mind is revealed.
+
 === #todo([The Four Dzogchen Samayas])
 === #todo([Distinguishing Consciousness from Wisdom])
 
 == #todo([Coming to the Decisive Conclusion])
+Effortlessness is the ultimate remedy.
 === #todo([Dzogchen Non-Meditation])
 
 /////////////////////////////////////////////////////////////////////////////////
@@ -130,13 +134,18 @@
 = #todo([Complete Liberation])
 
 == #todo([Key Point])
+You are enlightened.
 
 == #todo([Discerning the Implications])
+The five wisdoms are now in full fruition.
 
 == #todo([Embracing the Larger Scope])
+Internal, external, day, and night are pure liberation.
 
 == #todo([Coming to the Decisive Conclusion])
+Enlightenment.
 
+=== #todo([The Eight Consciousness Model])
 
 /////////////////////////////////////////////////////////////////////////////////
 // Bibliography
