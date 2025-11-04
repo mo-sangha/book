@@ -98,9 +98,12 @@
 
 == #todo([Coming to the Decisive Conclusion])
 #include("chapters/familiarization-conclusion.typ")
-=== #todo([Dzogchen Samatha])
+=== #todo([Dzogchen Samatha-Vipassana])
 #include ("chapters/dzogchen-samatha.typ")
 === #todo([Short Sits])
+=== #todo([Complementary Practices])
+==== #todo([Tögal])
+==== #todo([Shifting]) // From recognizing images as awareness, sounds, thoughts, etc etc.
 
 /////////////////////////////////////////////////////////////////////////////////
 // Effortlessness
