@@ -10,4 +10,8 @@ are all permeated by awareness.
 But also, for the practitioner, the four foundations of mindfulness are permeated by awareness---emotions,
 mental formations, the body and environment.
 
-NEEDED! Citation: Why it's important to be pointed out, that it's the prerequisite for practice.
+#quote(block: true, attribution: [Tulku Urgyen Rinpoche @as-it-is-2])[
+  Shantideva said, "Unless you know the secret key point, whatever you do will miss the mark."
+  The secret key point of mind is that its nature is a self-existing, original wakefulness.
+  To identify the key point we need to receive the pointing-out instruction.
+]

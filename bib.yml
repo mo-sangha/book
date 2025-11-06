@@ -17,6 +17,19 @@ aro:
   publisher: Snow Lion
   date: 2016
 
+as-it-is-2:
+  type: Book
+  title: As it Is, Vol. 2
+  author:
+    - role: writer
+      name: Rinpoche, Tulku Urgyen
+    - role: translator
+      name: Kunsang, Erik Pema
+  serial-number:
+    isbn: 9627341398
+  publisher: Rangjung Yeshe Publications
+  year: 2000
+
 basic-space:
   type: Book
   title: The Precious Treasury of the Basic Space of Phenomena
