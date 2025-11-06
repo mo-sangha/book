@@ -67,7 +67,7 @@
 == #todo([Discerning the Implications])
 #include("chapters/recognition-implications.typ")
 
-== #todo([])#todo([Embracing the Larger Scope])
+== #todo([Embracing the Larger Scope])
 #include("chapters/recognition-embracing.typ")
 
 == #todo([Coming to the Decisive Conclusion])
