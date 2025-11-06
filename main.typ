@@ -90,6 +90,7 @@
 === #todo([The Three Modes of Liberation])
 #include("chapters/three-modes.typ")
 === #todo([Tilopa's Six Words of Advice])
+#include("chapters/six-nails.typ")
 
 == #todo([Embracing the Larger Scope])
 #include("chapters/familiarization-embracing.typ")
