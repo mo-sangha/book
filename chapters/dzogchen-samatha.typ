@@ -3,6 +3,11 @@
 
 Pith instructions:
 
+// From the Way of Abiding, p. 131, on the theme of Ineffability.
+#quote(block: true, attribution: [_Kunjed Gyalpo_ @way-of-abiding])[
+  Rest nonconceptually in equipoise, without thinking about anything.
+]
+
 // From Longchenpa, in the context of no need for any mental analysis whatsoever.
 #quote(block: true, attribution: [_The Basic Space of Phenomena_, p. 75 @basic-space])[
   Let whatever happens happen and whatever manifests manifest.\
