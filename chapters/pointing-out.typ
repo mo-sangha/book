@@ -17,7 +17,41 @@ Here are some others...
 
 ==== #todo([The Space Between Thoughts])
 
-==== #todo([The Space Which Holds Stillness and Movement])
+==== #approval([The Space Which Holds Stillness and Movement])
+
+#quote(block: true, attribution: [_The Flight of the Garuda_, Song 15 @flight-of-the-garuda-kunsang])[
+  Rest your mind loosely in naturalness and\
+  See how the mind is when calm.\
+  Observed, it rests calmly in the continuity of awareness.\
+  Calm and yet empty, thus is the state of awareness.\
+  Fortunate heart-children, you must understand this.\
+  This is how calm resting is the mind's ornament.
+
+  Give rise to a thought and observe how it arises.\
+  Since it does not depart even in the slightest\
+  From the state of empty and luminous awareness,\
+  Arising and yet being empty is thus the state of awareness itself.
+  Fortunate heart-children, you must understand this.\
+  This is how arising is the play of the mind.
+
+  To illustrate this, no matter how many waves may rise,\
+  They never depart from the ocean even in the slightest.\
+  Similarly, whether still or in movement,\
+  The mind never departs from awareness and emptiness even in the slightest.\
+  So rest, since whatever rests calmly is the state of awareness.\
+  Rest, since whatever arises is the manifestation of awareness.
+
+  // To believe that meditation is only when the mind rests quiet,\
+  // And maintain that there is no meditation when the mind moves\
+  // Is proof of not knowing the core of stillness and movement,\
+  // And of not having mingled stillness, occurrence and awareness.
+
+  // For this reason, fortunate and noble heart-children,\
+  // Whether moving or still, mind is the continuity of awareness.
+  // So, when you have fully comprehended stillness, occurrence, and awareness,\
+  // Then practice these three as one.\
+  // This is how stillness and thought occurrence are nondual.
+]
 
 ==== #approval[Phet!]
 Shouting _PHET!_, the practitioner utterly shocks conceptual mind.

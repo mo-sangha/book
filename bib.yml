@@ -30,6 +30,19 @@ basic-space:
   publisher: Padma Publishing
   date: 2001
 
+flight-of-the-garuda-kunsang:
+  type: Book
+  title: The Flight of the Garuda
+  author:
+    - role: writer
+      name: Shabkar, Lama
+    - role: writer
+      name: Rangdrol, Jatang Tsogdruk
+    - role: translator
+      name: Kunsang, Erik Pema
+  publisher: Rangjung Yeshe Publications
+  date: 1988
+
 genuine-meaning:
   type: Book
   title: The Precious Treasury of the Genuine Meaning
