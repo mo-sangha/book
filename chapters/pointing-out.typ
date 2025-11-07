@@ -86,8 +86,15 @@ with extra aspiration on the "p".)
   Identify the dharmakaya rigpa!
 ]
 
-==== #todo([Thinking As Many Thoughts as Possible])
-
+==== #approval([Thinking As Many Thoughts As Possible])
+#quote(block: true, attribution: [_The Flight of the Garuda_, Song 21 @flight-of-the-garuda-kunsang])[
+  When people of lesser capacity cannot remain in the natural state,
+  they should push thoughts to their breaking point,
+  generating desirable or undesirable thoughts,
+  in various ways, one after another,
+  until their minds have become exhausted.
+  Finally, not desiring to continue this further, they should rest loosely.
+]
 
 ==== #approval[PoD: Mind in Stillness] // pp.74-75
 From the Kagyu school, in _Pointing Out the Dharmakaya_ @pointing-out-dharmakaya:
