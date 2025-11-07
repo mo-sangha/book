@@ -108,6 +108,19 @@ treasure-trove:
   publisher: Padma Publishing
   date: 2001
 
+trilogy-of-rest-vol-1:
+  type: Book
+  title: "Finding Rest in the Nature of the Mind: The Trilogy of Rest, Volume 1"
+  author:
+    - role: writer
+      name: Rabjam, Longchen
+    - role: translator
+      name: The Padmakara Translation Group
+  serial-number:
+    eisbn: 9780834841161
+  publisher: Shambhala
+  date: 2017
+
 vajra-heart-revisited:
   type: Book
   title: "Vajra Heart Revisited: Teachings on the Path of Trekchö"
