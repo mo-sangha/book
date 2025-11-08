@@ -1,7 +1,11 @@
 // Effortlessness: Revealing the Key Point
 #import "../template.typ": *
 
-The key point in phase 3 is pure effortless abiding in self-liberation.
+The key point in phase 3 is pure effortless abiding as self-liberation.
+
+The practitioner has familiarized with effortless abiding without the need
+for any other practices. With this comes self-liberation of conditioning and
+the revelation of enlightenment.
 
 // In the section "Making Your Free Behavior the Path"
 #quote(block: true, attribution: [Longchenpa, _The Jewel Ship_ @you-are-the-eyes-of-the-world])[

@@ -61,6 +61,8 @@
 == #todo([Key Point])
 === #todo([The Practitioner is Pointed to the Nature of Mind as Awareness])
 #include("chapters/nature-as-awareness.typ")
+=== #todo([MO Pointing Out Methods])
+=== #todo([Preferred Methods])
 === #todo([Pointing Out])
 #include("chapters/pointing-out.typ")
 
@@ -87,15 +89,16 @@
 
 == #todo([Discerning the Implications])
 #include("chapters/familiarization-discerning.typ")
-=== #todo([The Three Modes of Liberation])
+=== #approval([The Three Modes of Liberation])
 #include("chapters/three-modes.typ")
-=== #todo([Tilopa's Six Words of Advice])
+=== #approval([Tilopa's Six Words of Advice])
 #include("chapters/six-nails.typ")
 
 == #todo([Embracing the Larger Scope])
 #include("chapters/familiarization-embracing.typ")
 === #todo([The Four Chokshyaks])
 #include("chapters/chokshyaks.typ")
+=== #todo([Distinguishing Consciousness from Wisdom])
 
 == #todo([Coming to the Decisive Conclusion])
 #include("chapters/familiarization-conclusion.typ")
@@ -116,20 +119,30 @@
 == #todo([Key Point])
 #include("chapters/effortlessness-key-point.typ")
 === #todo([The Third Mode of Liberation])
-=== #todo([Abiding in Unbinding, Nirvana])
+The three modes of liberation are taking place naturally, and one
+enters into the stream of nirvana for the natural exhaustion of conditioning.
 
 == #todo([Discerning the Implications])
 The implications are that conditioning is allowed to be freed in its own place.
+Due to a lack of effort, there is a lack of karma.
+The ultimate implication is that one becomes free of karma altogether,
+unbinding from conditioned existence.
 
 == #todo([Embracing the Larger Scope])
 Once karmic cycles are liberated, the enlightened mind is revealed.
+This includes the four samayas and the five wisdoms in their full fruition.
 
 === #todo([The Four Dzogchen Samayas])
-=== #todo([Distinguishing Consciousness from Wisdom])
 
 == #todo([Coming to the Decisive Conclusion])
 Effortlessness is the ultimate remedy.
-=== #todo([Dzogchen Non-Meditation])
+One has full confidence in self-liberation. The evidence has presented itself
+in the lack of conditioning. So one continues to release and trust until the
+appearance of an inversion occurs. What was once self-liberating is now seen
+as pure luminosity within a threshold.
+
+This is pure Dzogchen, non-meditation.
+
 
 /////////////////////////////////////////////////////////////////////////////////
 // Liberation
@@ -138,17 +151,43 @@ Effortlessness is the ultimate remedy.
 = #todo([Complete Liberation])
 
 == #todo([Key Point])
-You are enlightened.
+Enlightenment in its full fruition.
+
+The taproot of conditioned existence, which is the conditioned self, has been uprooted.
+The ignorance/confusion that initiates cyclic existence has been exhausted.
+One's mind is no longer fabricating wisdom-luminosity into the reifications of the elements.
+One is embraced within the tathagatagarbha, the womb and the very basis, which becomes
+so familiar that it is just as safe as we once thought our sense indulgences were.
+
+This is traditionally known as the heart essence because non-referential compassion
+naturally unveils itself. Wisdom and compassion have come to their full fruition.
 
 == #todo([Discerning the Implications])
-The five wisdoms are now in full fruition.
+The five wisdoms are now in full fruition, which includes non-referential wisdom of equality,
+discernment, all-accomplishing, mirror-like, and dharmadhatu as a counterpart to the five
+poisons and the reifications of conditioned mind.
+
+The lucid, intuitive mind is no longer nascent, now in the forefront, fully actualized.
+
 
 == #todo([Embracing the Larger Scope])
 Internal, external, day, and night are pure liberation.
+There is complete freedom from the cycle of re-becoming, which includes
+birth, sickness, injury, and death.
+One is no longer bound to conditioned existence, traditionally called samsara,
+or cyclic existence.
+Due to the heart essence, benefit for beings still ensnared within illusory existence
+is ensured.
+
 
 == #todo([Coming to the Decisive Conclusion])
-Enlightenment.
+The decisive conclusion is complete freedom.
+The mind is no longer bound by cognitive and emotional obscurations.
+The very last cognitive obscurations have exhausted, including the apprehension
+of emptiness.
 
+
+= #todo([Unused Sections])
 === #todo([The Eight Consciousness Model])
 
 /////////////////////////////////////////////////////////////////////////////////
