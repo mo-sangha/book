@@ -61,9 +61,8 @@
 == #todo([Key Point])
 === #todo([The Practitioner is Pointed to the Nature of Mind as Awareness])
 #include("chapters/nature-as-awareness.typ")
-=== #todo([MO Pointing Out Methods])
-=== #todo([Preferred Methods])
-=== #todo([Pointing Out])
+
+// Pointing out includes many subsections, all of which are in the chapter file.
 #include("chapters/pointing-out.typ")
 
 == #todo([Discerning the Implications])

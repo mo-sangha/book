@@ -1,9 +1,15 @@
 // Pointing Out, including a catalog of all the various ways of pointing out.
 #import "../template.typ": *
 
-The most direct method is a silent mind-to-mind reminder from an authentic awareness holder.
+=== #todo([Preferred Pointing-Out Methods])
 
-Here are some others...
+==== #approval([Mind-to-Mind Reminder])
+
+The most direct method is a silent mind-to-mind reminder from an authentic awareness-holder.
+
+=== #todo([Meditation Online Pointing-Out Methods])
+
+=== #todo([Other Pointing-Out Methods])
 
 ==== #todo([Looking into the Nature of Thought])
 
@@ -56,8 +62,8 @@ Here are some others...
 ==== #approval[Phet!]
 Shouting _PHET!_, the practitioner utterly shocks conceptual mind.
 
-(The seed syllable _phet_ (Tib. ཕཊ, EWTS. _phaT_) is pronounced like the English word "pet"
-with extra aspiration on the "p".)
+The seed syllable _phet_ (Tib. ཕཊ, EWTS. _phaT_) is pronounced like the English word "pet"
+with extra aspiration on the "p".
 
 #quote(block: true, attribution: [Longchenpa, citing the _Reverberation of Sound_ @genuine-meaning])[ // p.239
   Let the mind become distracted and then shout a forceful _phet_,
