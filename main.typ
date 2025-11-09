@@ -1,5 +1,3 @@
-// The Meditation Online Handbook.
-
 #import "template.typ": *
 #show: template
 
