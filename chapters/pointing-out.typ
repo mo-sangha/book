@@ -9,11 +9,25 @@ The most direct method is a silent mind-to-mind reminder from an authentic aware
 
 === #todo([Meditation Online Pointing-Out Methods])
 
-=== #todo([Other Pointing-Out Methods])
+=== #todo([Lineage Pointing-Out Methods])
 
 ==== #todo([Looking into the Nature of Thought])
 
-==== #todo([Looking at the Watcher])
+==== #approval([Looking at the Watcher])
+
+#quote(block:true, attribution: [_The Flight of the Garuda_, Song 19 @flight-of-the-garuda-kunsang])[ // p.70
+  There are a number of different viewpoints,\
+  But in the present wakefulness, self-existing wisdom,\
+  There is no duality between the viewer and that which is viewed.\
+  So, do not watch the view, but look to the watcher.\
+  When the watcher is not found after searching,\
+  That is the time of bringing the view to the stage of exhaustion.
+
+  This view without anything to be viewed,\
+  Which has not strayed into a complete void and blank nothingness,\
+  Is the present wakefulness, vivid and unfabricated.\
+  This is precisely the view of the Great Perfection.
+]
 
 ==== #todo([Looking at Who is Happy, Sad, etc.])
 
