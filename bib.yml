@@ -43,6 +43,15 @@ basic-space:
   publisher: Padma Publishing
   date: 2001
 
+enlightened-vagabond:
+  type: Book
+  title: "Enlightened Vagabond: The Life and Teachings of Patrul Rinpoche"
+  author:
+    - role: writer
+      name: Ricard, Matthieu
+  publisher: Shambhala
+  date: 2017
+
 flight-of-the-garuda-kunsang:
   type: Book
   title: The Flight of the Garuda

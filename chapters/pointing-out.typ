@@ -31,7 +31,19 @@ The most direct method is a silent mind-to-mind reminder from an authentic aware
 
 ==== #todo([Looking at Who is Happy, Sad, etc.])
 
-==== #todo([Being Aware of Awareness])
+==== #approval([Being Aware of Awareness])
+
+#quote(block: true, attribution: [Patrul Rinpoche @enlightened-vagabond])[
+  Don't ruminate about the past!\
+  Don't anticipate the future!\
+  Don't cogitate about the present!\
+  Not tampering with it\
+  Leave mind just as it is\
+  This very instant\
+  Aware\
+  Relaxed\
+  Beyond this, there's not a damn thing!
+]
 
 ==== #todo([The Top and Bottom of the Breath])
 
