@@ -1,8 +1,24 @@
 // The first Key Point of the Recognition chapter: the nature of mind is Awareness.
 #import "../template.typ": *
 
+If pointing out to awareness "as the nature of mind" is successful then there will be an "Ah-ha!" moment,
+even if it's very subtle. Like noticing something that has always been there, we can discern an acknowledgement.
+The recognition could also settle in like an emotional "Ah-ha!", but it's undeniable when one
+has recognized naked awareness.
+
+There are many indicators we may use for evidence to verify recognition.
+Beings typically, immediately, apprehend this recognition, and without guidance could delay
+their familiarization for a significant time. "Apprehend" means we're not leaving it alone
+as naked awareness but we form concepts, tell stories about awareness, lay claim to awareness
+as typical patterned tendencies get mingled in.
+This is why we have a second phase, which is to familiarize with the recognition.
+
+If pointing out to bindus (light spheres within light rays) as the "nature of reality" is successful,
+the practitioner will see tiny light spheres inside light rays which appear to have rainbow halos.
+This further leads into pure vision.
+
 The key point here as the trekcho aspect is that the practitioner is pointed to
-awareness as the nature of mind: the very nature of mind and reality.
+awareness as the nature of mind, permeating all experiences.
 
 The togal aspect
 involves introduction to clear light but also to light rays, bindus, and vajra chains,
@@ -11,16 +27,17 @@ the conditioned mind with pure luminous mind.
 Then conditioned mind is essentially turning in on itself, like water pouring into water,
 as mind recognizing mind.
 
+This phase corresponds with the 3rd of the 5 paths as stated by Patrul Rinpoche:
+
+#quote(block: true, attribution: [_A Brief Guide to the Stages and Paths of the Bodhisattvas_ @lotsawa-bodhisattva-stages])[
+  The path of seeing is so called because it is the stage at which we first see
+  the supermundane wisdom of the noble ones.
+]
+
 This phase corresponds with the 3rd of the 5 paths: "The path of seeing is the direct
 perception of the truth of reality through nonconceptual samadhi concurrent with intelligence
 that immediately follows the supreme attribute. The path of seeing is said to mark the point
 at which one becomes an Arya, or a noble one." #todo([TODO: this is a quotation from Mipham's "The Entrance to the Way of the Wise" aka "Introduction to Scholarship", hunt down that text.])
-
-According to Patrul Rinpoche, "It is called the path of seeing because it is here that one first
-sees the supermundane wisdom of the noble ones." It is the entrance to the first bhumi, known
-as Perfect Joy. (It is said in the pith instructions that the path of accumulation is the stage
-of understanding, the path of joining is the stage of experience, and the path of seeing
-is the stage of realization.) #todo([TODO: This text is copied from a wiki, we probably have to cite that if we're keeping this text. Might be better to find the original?])
 
 In phase 1 we are introduced to the fruit (11th bhumi) as the path.
 
