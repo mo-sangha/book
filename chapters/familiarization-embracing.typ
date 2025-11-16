@@ -52,3 +52,13 @@ to include all four postures, day, and night.
   Mind as a pure expanse of space, in which things vanish naturally and leave no trace,
   arises with intensity from within, pristinely lucid.
 ]
+
+// TODO: I can't find this book. The bib has a version from 2024, but Dawai has one from 1999.
+#quote(block: true, attribution: [_The Cuckoo of Awareness_ @cuckoo-of-rigpa])[ // p. 174
+  The nature of the variety of phenomena is non-dual,\
+  Yet each phenomenon is beyond the limits of the mind.\
+  The authentic condition as it is does not become a concept,\
+  Yet it manifests totally in form, always good.\
+  All being already perfect, overcome the sickness of effort\
+  And remain naturally in self-perfection: this is Meditation.
+]
