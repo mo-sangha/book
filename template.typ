@@ -67,6 +67,12 @@
   // Source: https://www.flother.is/til/typst-em-dash-show-rule/
   show " — ": [\u{202F}#sym.dash.em\u{202F}]
 
+  // Renditions of common Pali words.
+  show "shamatha": [samatha] // Standardize on the Pali, not the Sanskrit.
+  show "Shamatha": [Samatha] // Standardize on the Pali, not the Sanskrit.
+  show "vipassana": [vipassanā]
+  show "Vipassana": [Vipassanā]
+
   // Renditions of common Sanskrit words.
   show "dharmakaya": [dharmakāya]
   show "Dharmakaya": [Dharmakāya]
