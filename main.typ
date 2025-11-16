@@ -57,14 +57,11 @@
 = #todo[Revealing the Nature of Mind]
 
 == #todo([Key Point])
-=== #todo([The Practitioner is Pointed to the Nature of Mind as Awareness])
+=== #todo([The Practitioner is Pointed to the Nature of Mind])
 #include("chapters/nature-as-awareness.typ")
 
 // Pointing out includes many subsections, all of which are in the chapter file.
-=== #todo([Introduction via Trekcho])
 #include("chapters/pointing-out.typ")
-
-=== #todo([Introduction via Togal])
 
 == #todo([Discerning the Implications])
 #include("chapters/recognition-implications.typ")

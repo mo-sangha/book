@@ -1,19 +1,15 @@
 // Pointing Out, including a catalog of all the various ways of pointing out.
 #import "../template.typ": *
 
-==== #todo([Preferred Pointing-Out Methods])
+=== #todo([Pointing-Out Methods])
 
-===== #approval([Mind-to-Mind Reminder])
+==== #approval([Mind-to-Mind Reminder])
 
 The most direct method is a silent mind-to-mind reminder from an authentic awareness-holder.
 
-==== #todo([Meditation Online Pointing-Out Methods])
+==== #todo([Looking into the Nature of Thought])
 
-==== #todo([Lineage Pointing-Out Methods])
-
-===== #todo([Looking into the Nature of Thought])
-
-===== #approval([Looking at the Watcher])
+==== #approval([Looking at the Watcher])
 
 #quote(block:true, attribution: [_The Flight of the Garuda_, Song 19 @flight-of-the-garuda-kunsang])[ // p.70
   There are a number of different viewpoints,\
@@ -29,9 +25,9 @@ The most direct method is a silent mind-to-mind reminder from an authentic aware
   This is precisely the view of the Great Perfection.
 ]
 
-===== #todo([Looking at Who is Happy, Sad, etc.])
+==== #todo([Looking at Who is Happy, Sad, etc.])
 
-===== #approval([Being Aware of Awareness])
+==== #approval([Being Aware of Awareness])
 
 #quote(block: true, attribution: [Patrul Rinpoche @enlightened-vagabond])[
   Don't ruminate about the past!\
@@ -45,11 +41,11 @@ The most direct method is a silent mind-to-mind reminder from an authentic aware
   Beyond this, there's not a damn thing!
 ]
 
-===== #todo([The Top and Bottom of the Breath])
+==== #todo([The Top and Bottom of the Breath])
 
-===== #todo([The Space Between Thoughts])
+==== #todo([The Space Between Thoughts])
 
-===== #approval([Settling in Natural Luminosity])
+==== #approval([Settling in Natural Luminosity])
 
 #quote(block: true, attribution: [Pema Karpo @lotsawa-casket])[
   The great Deshek of Kham said in his Mahamudra pointing-out instruction:
@@ -60,7 +56,7 @@ The most direct method is a silent mind-to-mind reminder from an authentic aware
   This is how you will see your own nature.
 ]
 
-===== #approval([The Space Which Holds Stillness and Movement])
+==== #approval([The Space Which Holds Stillness and Movement])
 
 #quote(block: true, attribution: [_The Flight of the Garuda_, Song 15 @flight-of-the-garuda-kunsang])[
   Rest your mind loosely in naturalness and\
@@ -96,7 +92,7 @@ The most direct method is a silent mind-to-mind reminder from an authentic aware
   // This is how stillness and thought occurrence are nondual.
 ]
 
-===== #approval[Phet!]
+==== #approval[Phet!]
 Shouting _PHET!_, the practitioner utterly shocks conceptual mind.
 
 The seed syllable _phet_ (Tib. ཕཊ, EWTS. _phaT_) is pronounced like the English word "pet"
@@ -129,7 +125,7 @@ with extra aspiration on the "p".
   Identify the dharmakaya rigpa!
 ]
 
-===== #approval([Thinking As Many Thoughts As Possible])
+==== #approval([Thinking As Many Thoughts As Possible])
 #quote(block: true, attribution: [_The Flight of the Garuda_, Song 21 @flight-of-the-garuda-kunsang])[
   When people of lesser capacity cannot remain in the natural state,
   they should push thoughts to their breaking point,
@@ -139,7 +135,7 @@ with extra aspiration on the "p".
   Finally, not desiring to continue this further, they should rest loosely.
 ]
 
-===== #approval[PoD: Mind in Stillness] // pp.74-75
+==== #approval[PoD: Mind in Stillness] // pp.74-75
 From the Kagyu school, in _Pointing Out the Dharmakaya_ @pointing-out-dharmakaya:
 #quote(block: true, attribution: [Khenchen Thrangu Rinpoche])[
   Allow your mind to come to rest in the state of shamatha.
@@ -149,16 +145,16 @@ From the Kagyu school, in _Pointing Out the Dharmakaya_ @pointing-out-dharmakaya
 // The source text obviously has a bunch more elaborate explanation of details.
 
 
-===== #todo([PoD: Mind in Movement])
+==== #todo([PoD: Mind in Movement])
 
 
-===== #todo([PoD: Mind within Appearances])
+==== #todo([PoD: Mind within Appearances])
 
-===== #todo([PoD: Body and Mind as Same or Different])
+==== #todo([PoD: Body and Mind as Same or Different])
 
-===== #todo([PoD: Stillness and Movement as the Same or Different])
+==== #todo([PoD: Stillness and Movement as the Same or Different])
 
-===== #approval[RoS: Focusing the Mind] // Treasure Trove, p.177
+==== #approval[RoS: Focusing the Mind] // Treasure Trove, p.177
 From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 
 #quote(block: true)[
@@ -170,7 +166,7 @@ From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 ]
 
 
-===== #approval[RoS: Letting the Mind Rest] // Treasure Trove, p.177
+==== #approval[RoS: Letting the Mind Rest] // Treasure Trove, p.177
 From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 
 
@@ -182,7 +178,7 @@ From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 ]
 
 
-===== #approval[RoS: Getting to the Root of the Matter] // Treasure Trove, p.177
+==== #approval[RoS: Getting to the Root of the Matter] // Treasure Trove, p.177
 From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 
 #quote(block:true)[
@@ -195,7 +191,7 @@ From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 ]
 
 
-===== #approval[RoS: Eliminating the Sense of Reality] // Treasure Trove, p.177
+==== #approval[RoS: Eliminating the Sense of Reality] // Treasure Trove, p.177
 From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 
 #quote(block:true)[
@@ -210,7 +206,7 @@ From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 ]
 
 
-===== #approval[RoS: The Gap Between Objects and Consciousness] // Treasure Trove, pp.177-178
+==== #approval[RoS: The Gap Between Objects and Consciousness] // Treasure Trove, pp.177-178
 From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 
 #quote(block:true)[
@@ -222,7 +218,7 @@ From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 ]
 
 
-===== #approval[RoS: Inducing Distraction] // Treasure Trove, p.178
+==== #approval[RoS: Inducing Distraction] // Treasure Trove, p.178
 From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 
 #quote(block:true)[
