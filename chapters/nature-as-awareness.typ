@@ -34,11 +34,6 @@ This phase corresponds with the 3rd of the 5 paths as stated by Patrul Rinpoche:
   the supermundane wisdom of the noble ones.
 ]
 
-This phase corresponds with the 3rd of the 5 paths: "The path of seeing is the direct
-perception of the truth of reality through nonconceptual samadhi concurrent with intelligence
-that immediately follows the supreme attribute. The path of seeing is said to mark the point
-at which one becomes an Arya, or a noble one." #todo([TODO: this is a quotation from Mipham's "The Entrance to the Way of the Wise" aka "Introduction to Scholarship", hunt down that text.])
-
 In phase 1 we are introduced to the fruit (11th bhumi) as the path.
 
 #quote(block: true, attribution: [Tulku Urgyen Rinpoche @as-it-is-2])[
