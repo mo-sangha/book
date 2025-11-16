@@ -8,6 +8,23 @@ The Three Modes of Liberation are:
 2. Liberation where the thought liberates itself, or self-liberation,\ like a snake untying its own knots.
 3. Liberation of thoughts as dharmakaya, without benefit or harm,\ like a thief entering an empty house.
 
+[TODO: It seems like the quote below was intended to be broken up across multiple phases?
+ That probably requires some editorialization towards the end of layout, like making those sub-titles of
+ the main phases.]
+
+#quote(block: true, attribution: [Patrul Rinpoche @dalai-lama-dzogchen])[ // p.83
+  At that juncture, the way that thoughts, the energy of rigpa, arise as joy and sorrow,
+  hope and fear, may be similar as in an ordinary person. Yet with ordinary people,
+  their experience is a very solid one of suppressing or indulging, with the result that they
+  accumulate karmic formations and fall prey to attachment and aggression.
+  On the other hand, for a Dzogchen yogin, thoughts are liberated the moment they arise:
+
+  ---at the beginning, arising thoughts are liberated upon being recognized, like meeting an old friend;\
+  ---in the middle, thoughts are liberated by themselves, like a snake uncoiling its own knots;\
+  ---at the end, arising thoughts are liberated without being of either benefit or harm,
+  like a thief breaking into an empty house.
+]
+
 // In the sangha, these are referenced using the shorthand:
 
 // 1. Old friend

@@ -12,3 +12,10 @@ You have recognized the nature of mind and are confident enough to move to phase
   that very essence, free of elaboration, experienced in all its nakedness.
   Thus, it is nondual, naturally occurring timeless awareness.
 ]
+
+#quote(block: true, attribution: [Jigme Lingpa @lotsawa-directly-seeing])[
+  Yet by being mindful, not with a tight, deliberate mindfulness but simply
+  not forgetting to keep recognizing your own nature, eventually at some point the
+  ultimate truth beyond conceptual elaboration will dawn, transcending all
+  analogies or definitions.
+]

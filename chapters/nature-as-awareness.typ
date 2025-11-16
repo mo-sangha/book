@@ -29,6 +29,11 @@ In phase 1 we are introduced to the fruit (11th bhumi) as the path.
   To identify the key point we need to receive the pointing-out instruction.
 ]
 
+#quote(block: true, attribution: [Jigme Lingpa @lotsawa-directly-seeing])[
+  The essential point of the Great Perfection is this clear, naked awareness---our mind,
+  right now, unaltered, relaxed, and without even the slightest change. And that's it.
+]
+
 #quote(block: true, attribution: [Saraha @lotsawa-concise-mahamudra-preliminaries])[
   Mind is the root of all samsara and nirvana.\
   Once it is realized, there is nothing to cultivate, so rest at ease.
