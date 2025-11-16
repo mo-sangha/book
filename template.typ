@@ -67,6 +67,23 @@
   // Source: https://www.flother.is/til/typst-em-dash-show-rule/
   show " — ": [\u{202F}#sym.dash.em\u{202F}]
 
+  // Renditions of common Sanskrit words.
+  show "dharmakaya": [dharmakāya]
+  show "sambhogakaya": [sambhogakāya]
+  show "nirmanakaya": [nirmāṇakāya]
+  show "kaya": [kāya]
+  show "samsara": [saṃsāra]
+  show "nirvana": [nirvāṇa]
+  show "Mahamudra": [Mahāmudrā]
+  show "sutra": [sūtra]
+  show "samadhi": [samādhi]
+
+  // Renditions of common Tibetan words.
+  show "trekcho": [trekchö]
+  show "Trekcho": [Trekchö]
+  show "togal": [tögal]
+  show "Togal": [Tögal]
+
   doc
 }
 

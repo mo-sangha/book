@@ -43,6 +43,17 @@ basic-space:
   publisher: Padma Publishing
   date: 2001
 
+dalai-lama-dzogchen:
+  type: Book
+  title: "Dzogchen: The Heart Essence of the Great Perfection"
+  author:
+    - role: writer
+      name: "The Dalai Lama, His Holiness"
+  serial-number:
+    isbn: 1-55939-157-x
+  publisher: Snow Lion
+  date: 2000
+
 enlightened-vagabond:
   type: Book
   title: "Enlightened Vagabond: The Life and Teachings of Patrul Rinpoche"
@@ -88,6 +99,42 @@ inborn-realization:
     isbn-13: 978-0-9834074-5-4
   publisher: Dharma Samudra
   date: 2016
+
+lotsawa-casket:
+  type: Web
+  title: A Casket of Sacred Dharma
+  author: Karpo, Pema
+  url: https://www.lotsawahouse.org/tibetan-masters/pema-karpo/casket-of-sacred-dharma
+
+lotsawa-concise-mahamudra-preliminaries:
+  type: Web
+  title: Concise Mahāmudrā Preliminaries
+  author: Chakmé, Karma
+  url: https://www.lotsawahouse.org/tibetan-masters/karma-chakme/concise-mahamudra-preliminaries
+
+lotsawa-excellent-path:
+  type: Web
+  title: The Excellent Path of Devotion
+  author: Khandro, Sera
+  url: https://www.lotsawahouse.org/tibetan-masters/sera-khandro/excellent-path-of-devotion
+
+lotsawa-naturally-liberating:
+  type: Web
+  title: Naturally Liberating Whatever You Meet
+  author: Gangshar, Khenpo
+  url: https://www.lotsawahouse.org/tibetan-masters/khenpo-gangshar/liberating-whatever-you-meet-concise
+
+lotsawa-vajra-verses:
+  type: Web
+  title: Vajra Verses on the Natural State
+  author: Jigme Lingpa, Rigdzin
+  url: https://www.lotsawahouse.org/tibetan-masters/jigme-lingpa/vajra-verses-on-the-natural-state
+
+lotsawa-vajra-verses-commentary:
+  type: Web
+  title: Commentary on Vajra Verses
+  author: Chatralwa Chöying Rangdrol, Yukhok
+  url: https://www.lotsawahouse.org/tibetan-masters/yukhok-chatralwa/commentary-on-vajra-verses
 
 pointing-out-dharmakaya:
   type: Book
