@@ -18,7 +18,7 @@ but effortless abiding is the key point of self-liberation.
   of enlightenment, the very essence of the nine progressive approaches.
 ]
 
-#quote(block: true, attribution: [The Two Segments (Hevajra Tantra) TODO])[
+#quote(block: true, attribution: [_The Two Segments (Hevajra Tantra)_ @lotsawa-casket])[
   Thus, not meditating with the conceptual mind\
   is how everyone should meditate.
 ]
