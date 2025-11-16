@@ -135,6 +135,19 @@ with extra aspiration on the "p".
   Finally, not desiring to continue this further, they should rest loosely.
 ]
 
+==== #approval([Three Considerations])
+#quote(block: true, attribution: [Padmasambhava @self-liberation-through-seeing])[
+  The method for entering into it involves three considerations:
+  1. Thoughts in the past are clear and empty and leave no traces behind.
+  2. Thoughts in the future are fresh and unconditioned by anything.
+  3. And in the present moment, when (your mind) remains in its own condition without constructing anything,
+     awareness at that moment in itself is quite ordinary.
+
+  And when you look into yourself in this way nakedly (without any discursive thoughts),
+  since there is only this pure observing, there will be found a lucid clarity without
+  anyone being there who is the observer; only a naked manifest awareness is present.
+]
+
 ==== #approval[PoD: Mind in Stillness] // pp.74-75
 From the Kagyu school, in _Pointing Out the Dharmakaya_ @pointing-out-dharmakaya:
 #quote(block: true, attribution: [Khenchen Thrangu Rinpoche])[
