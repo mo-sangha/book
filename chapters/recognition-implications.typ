@@ -18,7 +18,7 @@ and the conceptual mind, taking awareness as the path.
   the Sugata has stated that they all come from the nonrecognition of awareness.
 ]
 
-#quote(block: true, attribution: [Longchenpa @basic-space])[
+#quote(block: true, attribution: [Longchenpa, _The Basic Space of Phenomena_ @basic-space])[
   The world of myriad ways in which beings perceive---and
   even the kayas and timeless awareness of pure buddhahood---all
   that permeates the realm of basic space as a continuous display

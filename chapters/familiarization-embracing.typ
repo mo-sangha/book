@@ -39,7 +39,7 @@ to include all four postures, day, and night.
   There is sky-like clarity, free of thoughts.
 ]
 
-#quote(block: true, attribution: [Longchenpa @basic-space])[ // p.105
+#quote(block: true, attribution: [Longchenpa, _The Basic Space of Phenomena_ @basic-space])[ // p.105
   When something unwanted falls into your lap, you have a negative reaction,
   such as anger, dislike, envy, upset, irritation, anxiety, depression,
   mental anguish, or fear of death and rebirth.

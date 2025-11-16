@@ -129,7 +129,7 @@ TODO: "bindus and vajra chains via dream yoga, sky gazing, etc."
 The three modes of liberation are taking place naturally, and one
 enters into the stream of nirvana for the natural exhaustion of conditioning.
 
-#quote(block: true, attribution: [Longchenpa @way-of-abiding])[
+#quote(block: true, attribution: [Longchenpa, _The Way of Abiding_ @way-of-abiding])[
   Whatever appears and whatever arises,\
   all things that proliferate and abide as dynamic expressions of awareness---such
   as the five emotional poisons---no matter how they arise, even as they do so
