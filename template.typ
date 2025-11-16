@@ -69,14 +69,25 @@
 
   // Renditions of common Sanskrit words.
   show "dharmakaya": [dharmakāya]
+  show "Dharmakaya": [Dharmakāya]
   show "sambhogakaya": [sambhogakāya]
+  show "Sambhogakaya": [Sambhogakāya]
   show "nirmanakaya": [nirmāṇakāya]
+  show "Nirmanakaya": [Nirmāṇakāya]
   show "kaya": [kāya]
+  show "Kaya": [Kāya]
   show "samsara": [saṃsāra]
+  show "Samsara": [Saṃsāra]
   show "nirvana": [nirvāṇa]
+  show "Nirvana": [Nirvāṇa]
+  show "mahamudra": [mahāmudrā]
   show "Mahamudra": [Mahāmudrā]
   show "sutra": [sūtra]
+  show "Sutra": [Sūtra]
   show "samadhi": [samādhi]
+  show "Samadhi": [Samādhi]
+  show "bhumi": [bhūmi]
+  show "Bhumi": [Bhūmi]
 
   // Renditions of common Tibetan words.
   show "trekcho": [trekchö]
