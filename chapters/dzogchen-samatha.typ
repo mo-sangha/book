@@ -14,3 +14,8 @@ Pith instructions:
   Let whatever occurs occur and whatever is be.\
   Let whatever is anything at all be nothing at all.
 ]
+
+#quote(block: true, attribution: [Padmasambhava @self-liberation-through-seeing])[
+  Even though these appearances that you perceive do arise,\
+  if you do not grasp at them, then that is Buddhahood.
+]
