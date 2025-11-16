@@ -3,23 +3,26 @@
 
 The nature of mind is the nature of all experiences and appearances.
 
-The key point here is that the practitioner is pointed to awareness as the nature of mind:
-the very nature of the 80 cognitive states, which include aversion (33), attachment (40)
-and ignorance (7)---things like sadness, states of peace, fear, sensations
-are all permeated by awareness.
-But also, for the practitioner, the four foundations of mindfulness are permeated by awareness---emotions,
-mental formations, the body and environment.
+The key point here as the trekcho aspect is that the practitioner is pointed to
+awareness as the nature of mind: the very nature of mind and reality.
+
+The togal aspect
+involves introduction to clear light but also to light rays, bindus, and vajra chains,
+which are mind-light phenomena seen by conditioned mind, thereby bridging
+the conditioned mind with pure luminous mind.
+Then conditioned mind is essentially turning in on itself, like water pouring into water,
+as mind recognizing mind.
 
 This phase corresponds with the 3rd of the 5 paths: "The path of seeing is the direct
 perception of the truth of reality through nonconceptual samadhi concurrent with intelligence
 that immediately follows the supreme attribute. The path of seeing is said to mark the point
-at which one becomes an Arya, or a noble one." [TODO: Who is the quote attributed to? Patrul Rinpoche? From where?]
+at which one becomes an Arya, or a noble one." #todo([TODO: this is a quotation from Mipham's "The Entrance to the Way of the Wise" aka "Introduction to Scholarship", hunt down that text.])
 
 According to Patrul Rinpoche, "It is called the path of seeing because it is here that one first
 sees the supermundane wisdom of the noble ones." It is the entrance to the first bhumi, known
 as Perfect Joy. (It is said in the pith instructions that the path of accumulation is the stage
 of understanding, the path of joining is the stage of experience, and the path of seeing
-is the stage of realization.)
+is the stage of realization.) #todo([TODO: This text is copied from a wiki, we probably have to cite that if we're keeping this text. Might be better to find the original?])
 
 In phase 1 we are introduced to the fruit (11th bhumi) as the path.
 
