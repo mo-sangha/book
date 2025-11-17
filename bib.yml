@@ -183,6 +183,16 @@ self-liberation-through-seeing:
   publisher: Snow Lion
   date: 2010
 
+star-light:
+  type: Book
+  title: "Star Light: Eight Early Tantras of the Space Section"
+  author:
+    - role: translator
+      name: Wilkinson, Christopher
+  serial-number:
+    isbn: 9798658853505
+  date: 2020
+
 treasure-trove:
   type: Book
   title: "A Treasure Trove of Scriptural Transmission: A Commentary on The Precious Treasury of the Basic Space of Phenomena"

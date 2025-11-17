@@ -74,6 +74,8 @@
   show "Vipassana": [Vipassanā]
 
   // Renditions of common Sanskrit words.
+  show "dakini": [ḍākinī]
+  show "Dakini": [Ḍākinī]
   show "dharmakaya": [dharmakāya]
   show "Dharmakaya": [Dharmakāya]
   show "sambhogakaya": [sambhogakāya]
