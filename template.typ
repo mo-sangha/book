@@ -104,6 +104,8 @@
   show "Trekcho": [Trekchö]
   show "togal": [tögal]
   show "Togal": [Tögal]
+  show "togyal": [tögal]
+  show "Togyal": [Tögal]
 
   doc
 }

@@ -23,12 +23,12 @@ the conditioned mind with pure luminous mind.
 Then conditioned mind is essentially turning in on itself, like water pouring into water,
 as mind recognizing mind.
 
-If pointing out to bindus (light spheres within light rays) as the "nature of reality" is successful,
-the practitioner will see tiny light spheres inside light rays which appear to have rainbow halos.
-This further leads into pure vision.
+This first phase corresponds to the first of Garab Dorje's three statements:
+"Introducing directly the face of rigpa itself."
+If the practitioner notices bindus (small light spheres within rays) with togal introduction,
+then it corresponds with the first togal vision.
 
-
-This phase corresponds with the 3rd of the 5 paths as stated by Patrul Rinpoche:
+In Mahayana context, this phase corresponds with the 3rd of the 5 paths as stated by Patrul Rinpoche:
 
 #quote(block: true, attribution: [_A Brief Guide to the Stages and Paths of the Bodhisattvas_ @lotsawa-bodhisattva-stages])[
   The path of seeing is so called because it is the stage at which we first see
