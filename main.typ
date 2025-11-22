@@ -67,7 +67,7 @@ This text is self-secret and self-protected.
 // Recognition
 /////////////////////////////////////////////////////////////////////////////////
 
-= #todo[Revealing the Nature of Mind]
+= Revealing the Nature of Mind
 
 == Key Point
 
@@ -78,19 +78,19 @@ This text is self-secret and self-protected.
 ]
 
 
-=== #todo([The Practitioner is Pointed to the Nature of Mind])
+=== The Practitioner is Pointed to the Nature of Mind
 #include("chapters/nature-as-awareness.typ")
 
 // Pointing out includes many subsections, all of which are in the chapter file.
 #include("chapters/pointing-out.typ")
 
-== #todo([Discerning the Implications])
+== Discerning the Implications
 #include("chapters/recognition-implications.typ")
 
-== #todo([Embracing the Larger Scope])
+== Embracing the Larger Scope
 #include("chapters/recognition-embracing.typ")
 
-== #todo([Coming to the Decisive Conclusion])
+== Coming to the Decisive Conclusion
 #include("chapters/recognition-decisive.typ")
 
 /////////////////////////////////////////////////////////////////////////////////

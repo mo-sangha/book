@@ -1,20 +1,20 @@
 // Pointing Out, including a catalog of all the various ways of pointing out.
 #import "../template.typ": *
 
-=== #todo([Pointing-Out Methods])
+=== Pointing-Out Methods
 
-==== #approval([Mind-to-Mind Reminder])
+==== Mind-to-Mind Reminder
 
 The most direct method is a silent mind-to-mind reminder from an authentic awareness-realizer.
 
-==== #todo([Looking into the Nature of Thought])
+==== Looking into the Nature of Thought
 
 When a thought arises, or when thoughts are proliferating, use awareness
 to look into them. When they disappear, rest in that presence.
 This is like water being poured into water, since awareness itself
 is cognition looking into cognition.
 
-==== #approval([Looking at the Watcher])
+==== Looking at the Watcher
 
 Just like looking at a thought, there is a feeling of a watcher, an observer,
 which can also be looked at with awareness.
@@ -52,7 +52,7 @@ simply settle into presence without effort as the way of abiding.
   anyone being there who is the observer; only a naked manifest awareness is present.
 ]
 
-==== #approval([Being Aware of Awareness])
+==== Being Aware of Awareness
 
 This is the very simple act of noticing or recognizing ever-present awareness.
 One can be seeing and be aware of awareness. Just like that, one can be thinking,
@@ -84,7 +84,7 @@ Bring that presence with you on your next inhalation.
 
 This is the pure presence of mind.
 
-==== #todo[The Space Between Thoughts]
+==== The Space Between Thoughts
 
 When doing a thought experiment, like thought isolation,
 where we isolate a single thought within awareness,
@@ -107,7 +107,7 @@ Settle into natural luminosity.
   This is how you will see your own nature.
 ]
 
-==== #approval([The Space Which Holds Stillness and Movement])
+==== The Space Which Holds Stillness and Movement
 
 Known in Dzogchen and Mahamudra as a technique for recognizing the nature of mind,
 your Buddha-nature, the very space which holds the movement and stillness of mind
@@ -151,7 +151,7 @@ Therefore, it holds as the basis for stillness and movement.
   // This is how stillness and thought occurrence are nondual.
 ]
 
-==== #approval[Phet!]
+==== Phet
 Shouting _PHET!_, a fierce exclamation of the seed syllable, immediately stops the flow
 of thoughts, stops emotional activity, and brings the practitioner directly into the pure presence
 of their enlightened mind.
@@ -184,7 +184,7 @@ of their enlightened mind.
 //   Identify the dharmakaya rigpa!
 // ]
 
-==== #approval([Thinking As Many Thoughts As Possible])
+==== Thinking As Many Thoughts As Possible
 While in a relaxed posture, begin thinking as many thoughts as possible in rapid succession, to the point of exhaustion.
 
 Here the conceptual mind gets crowded out to the point of silence as pure presence.
@@ -200,7 +200,7 @@ Here the conceptual mind gets crowded out to the point of silence as pure presen
 
 // The Reverberation of Sound quotes are taken out: they're for the teacher, not for the reader.
 
-// ==== #approval[Introduction with the Mind Focused] // Treasure Trove, p.177
+// ==== ntroduction with the Mind Focused] // Treasure Trove, p.1
 // From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 //
 // #quote(block: true)[
@@ -212,7 +212,7 @@ Here the conceptual mind gets crowded out to the point of silence as pure presen
 // ]
 
 
-// ==== #approval[Introduction with the Mind at Rest] // Treasure Trove, p.177
+// ==== ntroduction with the Mind at Rest] // Treasure Trove, p.1
 // From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 //
 // #quote(block: true)[
@@ -223,7 +223,7 @@ Here the conceptual mind gets crowded out to the point of silence as pure presen
 // ]
 
 
-// ==== #approval[Getting to the Root of the Matter] // Treasure Trove, p.177
+// ==== etting to the Root of the Matter] // Treasure Trove, p.1
 // From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 //
 // #quote(block:true)[
@@ -236,7 +236,7 @@ Here the conceptual mind gets crowded out to the point of silence as pure presen
 // ]
 
 
-// ==== #approval[Eliminating the Sense of Reality] // Treasure Trove, p.177
+// ==== liminating the Sense of Reality] // Treasure Trove, p.1
 // From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 //
 // #quote(block:true)[
@@ -251,7 +251,7 @@ Here the conceptual mind gets crowded out to the point of silence as pure presen
 // ]
 
 
-// ==== #approval[The Gap Between Objects and Consciousness] // Treasure Trove, pp.177-178
+// ==== he Gap Between Objects and Consciousness] // Treasure Trove, pp.177-1
 // From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 //
 // #quote(block:true)[
@@ -263,7 +263,7 @@ Here the conceptual mind gets crowded out to the point of silence as pure presen
 // ]
 
 
-// ==== #approval[Inducing Distraction] // Treasure Trove, p.178
+// ==== nducing Distraction] // Treasure Trove, p.1
 // From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 //
 // #quote(block:true)[
