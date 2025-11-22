@@ -1,10 +1,15 @@
 // Recognition: Embracing the Larger Scope (section intro)
 #import "../template.typ": *
 
-In our approach, this means building trust in awareness as the path,
-adjusting to effortlessness and familiarizing with your whole mind, the heart essence.
+In our approach, this recognition sets the precedent and premise for all further engagement,
+including effortlessness and familiarization with your whole mind as the heart essence.
 
-Here we begin allowing natural wisdom and compassion to blossom while releasing karmic conditioning,
-allowing it to liberate in its own place without interference.
 
-The practitioner is introduced to the four great dzogchen samayas as qualities of mind.
+Here we are introduced to ultimate wisdom and compassion, bodhicitta, which in turn blossoms with familiarization
+while karmic conditioning is self-liberated.
+
+
+Even if the practitioner only has a slight glimpse, they are introduced to their enlightened
+mind and to the four great Dzogchen samayas. They have fully recognized empty cognizance.
+
+Although true recognition has been ensured, in many cases the view will be apprehended by conditioned mind.

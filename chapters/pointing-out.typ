@@ -5,19 +5,34 @@
 
 ==== #approval([Mind-to-Mind Reminder])
 
-The most direct method is a silent mind-to-mind reminder from an authentic awareness-holder.
+The most direct method is a silent mind-to-mind reminder from an authentic awareness-realizer.
 
 ==== #todo([Looking into the Nature of Thought])
 
+When a thought arises, or when thoughts are proliferating, use awareness
+to look into them. When they disappear, rest in that presence.
+This is like water being poured into water, since awareness itself
+is cognition looking into cognition.
+
 ==== #approval([Looking at the Watcher])
+
+Just like looking at a thought, there is a feeling of a watcher, an observer,
+which can also be looked at with awareness.
+This corresponds to the 7th aspect of consciousness in the Abhidhamma, known
+as manas-vijnana.
+When this aspect of consciousness settles in its own place, it's like water
+being poured into water, since awareness is cognition looking at cognition.
+When the watcher itself has exhausted,
+simply settle into presence without effort as the way of abiding.
 
 #quote(block:true, attribution: [_The Flight of the Garuda_, Song 19 @flight-of-the-garuda-kunsang])[ // p.70
   There are a number of different viewpoints,\
   But in the present wakefulness, self-existing wisdom,\
   There is no duality between the viewer and that which is viewed.\
   So, do not watch the view, but look to the watcher.\
-  When the watcher is not found after searching,\
-  That is the time of bringing the view to the stage of exhaustion.
+  [...]
+  // When the watcher is not found after searching,\
+  // That is the time of bringing the view to the stage of exhaustion.
 
   This view without anything to be viewed,\
   Which has not strayed into a complete void and blank nothingness,\
@@ -25,27 +40,63 @@ The most direct method is a silent mind-to-mind reminder from an authentic aware
   This is precisely the view of the Great Perfection.
 ]
 
-==== #todo([Looking at Who is Happy, Sad, etc.])
+#quote(block: true, attribution: [Padmasambhava @self-liberation-through-seeing])[
+  // The method for entering into it involves three considerations:
+  // 1. Thoughts in the past are clear and empty and leave no traces behind.
+  // 2. Thoughts in the future are fresh and unconditioned by anything.
+  // 3. And in the present moment, when (your mind) remains in its own condition without constructing anything,
+  //    awareness at that moment in itself is quite ordinary.
+
+  And when you look into yourself in this way nakedly (without any discursive thoughts),
+  since there is only this pure observing, there will be found a lucid clarity without
+  anyone being there who is the observer; only a naked manifest awareness is present.
+]
 
 ==== #approval([Being Aware of Awareness])
 
-#quote(block: true, attribution: [Patrul Rinpoche @enlightened-vagabond])[
-  Don't ruminate about the past!\
-  Don't anticipate the future!\
-  Don't cogitate about the present!\
-  Not tampering with it\
-  Leave mind just as it is\
-  This very instant\
-  Aware\
-  Relaxed\
-  Beyond this, there's not a damn thing!
-]
+This is the very simple act of noticing or recognizing ever-present awareness.
+One can be seeing and be aware of awareness. Just like that, one can be thinking,
+feeling, smelling, touching, etc. and be aware of awareness in the midst of these
+experiences.
 
-==== #todo([The Top and Bottom of the Breath])
 
-==== #todo([The Space Between Thoughts])
+// Taken out: Dawai says there's no word "damn" in Tibetan.
+// #quote(block: true, attribution: [Patrul Rinpoche @enlightened-vagabond])[
+//   Don't ruminate about the past!\
+//   Don't anticipate the future!\
+//   Don't cogitate about the present!\
+//   Not tampering with it\
+//   Leave mind just as it is\
+//   This very instant\
+//   Aware\
+//   Relaxed\
+//   Beyond this, there's not a damn thing!
+// ]
 
-==== #approval([Settling in Natural Luminosity])
+==== The Top and Bottom of the Breath
+
+With a relaxed posture, breathing mindfully, pause at the top of the breath after inhalation,
+then exhale, pausing at the bottom of the breath after every last bit of air has been released.
+
+Rest in the presence at the bottom of the breath.
+
+Bring that presence with you on your next inhalation.
+
+This is the pure presence of mind.
+
+==== #todo[The Space Between Thoughts]
+
+When doing a thought experiment, like thought isolation,
+where we isolate a single thought within awareness,
+ we can notice a thought coming and going.
+
+Notice the space in which it comes.
+
+Notice the space where thoughts are abiding.
+
+Notice the space after it's gone.
+
+Settle into natural luminosity.
 
 #quote(block: true, attribution: [Pema Karpo @lotsawa-casket])[
   The great Deshek of Kham said in his Mahamudra pointing-out instruction:
@@ -57,6 +108,14 @@ The most direct method is a silent mind-to-mind reminder from an authentic aware
 ]
 
 ==== #approval([The Space Which Holds Stillness and Movement])
+
+Known in Dzogchen and Mahamudra as a technique for recognizing the nature of mind,
+your Buddha-nature, the very space which holds the movement and stillness of mind
+is the very basis for all experiences.
+
+When you're having thoughts, awareness can be recognized.
+When thoughts cease, awareness can also be recognized.
+Therefore, it holds as the basis for stillness and movement.
 
 #quote(block: true, attribution: [_The Flight of the Garuda_, Song 15 @flight-of-the-garuda-kunsang])[
   Rest your mind loosely in naturalness and\
@@ -93,10 +152,9 @@ The most direct method is a silent mind-to-mind reminder from an authentic aware
 ]
 
 ==== #approval[Phet!]
-Shouting _PHET!_, the practitioner utterly shocks conceptual mind.
-
-The seed syllable _phet_ (Tib. ཕཊ, EWTS. _phaT_) is pronounced like the English word "pet"
-with extra aspiration on the "p".
+Shouting _PHET!_, a fierce exclamation of the seed syllable, immediately stops the flow
+of thoughts, stops emotional activity, and brings the practitioner directly into the pure presence
+of their enlightened mind.
 
 #quote(block: true, attribution: [Longchenpa, citing the _Reverberation of Sound_ @genuine-meaning])[ // p.239
   Let the mind become distracted and then shout a forceful _phet_,
@@ -110,22 +168,27 @@ with extra aspiration on the "p".
   It also wonderfully clarifies a dull and tired mind.
 ]
 
-#quote(block: true, attribution: [Patrul Rinpoche, _The Wise and Glorious King_ @wise-and-glorious-king])[ // p.1
-  First, relax your mind and stay there,\
-  Neither elaborating nor concentrating,\
-  Without discursive thought.
+// Taken out: "They should look it up themselves."
+// #quote(block: true, attribution: [Patrul Rinpoche, _The Wise and Glorious King_ @wise-and-glorious-king])[ // p.1
+//   First, relax your mind and stay there,\
+//   Neither elaborating nor concentrating,\
+//   Without discursive thought.
 
-  While in the state relaxed and dwelling evenly,\
-  Suddenly strike rational mind by exclaiming a PHAT---\
-  Its force is delivered sharp and short, E MA HO!
+//   While in the state relaxed and dwelling evenly,\
+//   Suddenly strike rational mind by exclaiming a PHAT---\
+//   Its force is delivered sharp and short, E MA HO!
 
-  Nothing whatsoever, blankness;\
-  Blankness has transparency;\
-  The transparency's inexpressible.\
-  Identify the dharmakaya rigpa!
-]
+//   Nothing whatsoever, blankness;\
+//   Blankness has transparency;\
+//   The transparency's inexpressible.\
+//   Identify the dharmakaya rigpa!
+// ]
 
 ==== #approval([Thinking As Many Thoughts As Possible])
+While in a relaxed posture, begin thinking as many thoughts as possible in rapid succession, to the point of exhaustion.
+
+Here the conceptual mind gets crowded out to the point of silence as pure presence.
+
 #quote(block: true, attribution: [_The Flight of the Garuda_, Song 21 @flight-of-the-garuda-kunsang])[
   When people of lesser capacity cannot remain in the natural state,
   they should push thoughts to their breaking point,
@@ -135,115 +198,84 @@ with extra aspiration on the "p".
   Finally, not desiring to continue this further, they should rest loosely.
 ]
 
-==== #approval([Three Considerations])
-#quote(block: true, attribution: [Padmasambhava @self-liberation-through-seeing])[
-  The method for entering into it involves three considerations:
-  1. Thoughts in the past are clear and empty and leave no traces behind.
-  2. Thoughts in the future are fresh and unconditioned by anything.
-  3. And in the present moment, when (your mind) remains in its own condition without constructing anything,
-     awareness at that moment in itself is quite ordinary.
+// The Reverberation of Sound quotes are taken out: they're for the teacher, not for the reader.
 
-  And when you look into yourself in this way nakedly (without any discursive thoughts),
-  since there is only this pure observing, there will be found a lucid clarity without
-  anyone being there who is the observer; only a naked manifest awareness is present.
-]
-
-==== #approval[PoD: Mind in Stillness] // pp.74-75
-From the Kagyu school, in _Pointing Out the Dharmakaya_ @pointing-out-dharmakaya:
-#quote(block: true, attribution: [Khenchen Thrangu Rinpoche])[
-  Allow your mind to come to rest in the state of shamatha.
-  Then look at the mind in that state while continuing to rest in the mind
-  or while looking at the mind.
-]
-// The source text obviously has a bunch more elaborate explanation of details.
+// ==== #approval[Introduction with the Mind Focused] // Treasure Trove, p.177
+// From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
+//
+// #quote(block: true)[
+//   _Direct introduction to awareness with the mind focused:_ Have the student sit
+//   cross-legged, breathing gently, with eyes wide open and mind resting without concepts.
+//   At that point, have the student disregard both the clarity and stability that are present
+//   when one abides in an extremely clear state of mind (for these are but meditative experiences),
+//   and directly introduce the naked wakefulness of awareness as dharmakaya.
+// ]
 
 
-==== #todo([PoD: Mind in Movement])
+// ==== #approval[Introduction with the Mind at Rest] // Treasure Trove, p.177
+// From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
+//
+// #quote(block: true)[
+//   _Direct introduction to awareness with the mind at rest:_
+//   Without any focusing of his or her mind, but while it is very present and settled
+//   in its own place, have the student let go of its abiding quality, and directly
+//   introduce lucid wakefulness as dharmakaya.
+// ]
 
 
-==== #todo([PoD: Mind within Appearances])
-
-==== #todo([PoD: Body and Mind as Same or Different])
-
-==== #todo([PoD: Stillness and Movement as the Same or Different])
-
-==== #approval[RoS: Focusing the Mind] // Treasure Trove, p.177
-From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
-
-#quote(block: true)[
-  _Direct introduction to awareness with the mind focused:_ Have the student sit
-  cross-legged, breathing gently, with eyes wide open and mind resting without concepts.
-  At that point, have the student disregard both the clarity and stability that are present
-  when one abides in an extremely clear state of mind (for these are but meditative experiences),
-  and directly introduce the naked wakefulness of awareness as dharmakaya.
-]
+// ==== #approval[Getting to the Root of the Matter] // Treasure Trove, p.177
+// From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
+//
+// #quote(block:true)[
+//   _Direct introduction to awareness by getting to the root of the matter:_
+//   Have the student direct his or her attention inwardly, examining specifically
+//   where the mind comes from or is located. When (without anything actually being
+//   found) the mind becomes lucid in all its nakedness, have the student let go
+//   of the tendency to fall into some entirely nonconceptual state, and directly
+//   introduce naked wakefulness, beyond any label or meaning, as dharmakaya.
+// ]
 
 
-==== #approval[RoS: Letting the Mind Rest] // Treasure Trove, p.177
-From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
+// ==== #approval[Eliminating the Sense of Reality] // Treasure Trove, p.177
+// From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
+//
+// #quote(block:true)[
+//   _Direct introduction to awareness through elimination of the sense that anything is real:_
+//   When the student's mind is lost in response to sense objects, have the student
+//   eliminate any sense of ordinary mind relating in some way to those objects ---
+//   for example, by reducing them to their components. When he or she is thus abiding in
+//   pristine emptiness, which is inexpressible and in which there is no sense of either
+//   objects or mind, have the student let go of that sense of abiding, in which there is
+//   no tendency whatsoever for thoughts to proliferate or resolve, and directly introduce
+//   the quality of awareness in all its pristine nakedness as dharmakaya.
+// ]
 
 
-#quote(block: true)[
-  _Direct introduction to awareness with the mind at rest:_
-  Without any focusing of his or her mind, but while it is very present and settled
-  in its own place, have the student let go of its abiding quality, and directly
-  introduce lucid wakefulness as dharmakaya.
-]
+// ==== #approval[The Gap Between Objects and Consciousness] // Treasure Trove, pp.177-178
+// From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
+//
+// #quote(block:true)[
+//   _Direct introduction to awareness in the gap between sense objects and consciousness of them:_
+//   Have the student rest contentedly while remaining conscious of a sense object. Then, without
+//   directing attention outwardly to the object or inwardly to the mind, he or she arrives at a
+//   seamless state of bare perception. Have the student let go of the sense of dwelling in that bare state,
+//   and directly introduce bare awareness, vivid and lucid, as dharmakaya.
+// ]
 
 
-==== #approval[RoS: Getting to the Root of the Matter] // Treasure Trove, p.177
-From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
-
-#quote(block:true)[
-  _Direct introduction to awareness by getting to the root of the matter:_
-  Have the student direct his or her attention inwardly, examining specifically
-  where the mind comes from or is located. When (without anything actually being
-  found) the mind becomes lucid in all its nakedness, have the student let go
-  of the tendency to fall into some entirely nonconceptual state, and directly
-  introduce naked wakefulness, beyond any label or meaning, as dharmakaya.
-]
-
-
-==== #approval[RoS: Eliminating the Sense of Reality] // Treasure Trove, p.177
-From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
-
-#quote(block:true)[
-  _Direct introduction to awareness through elimination of the sense that anything is real:_
-  When the student's mind is lost in response to sense objects, have the student
-  eliminate any sense of ordinary mind relating in some way to those objects ---
-  for example, by reducing them to their components. When he or she is thus abiding in
-  pristine emptiness, which is inexpressible and in which there is no sense of either
-  objects or mind, have the student let go of that sense of abiding, in which there is
-  no tendency whatsoever for thoughts to proliferate or resolve, and directly introduce
-  the quality of awareness in all its pristine nakedness as dharmakaya.
-]
-
-
-==== #approval[RoS: The Gap Between Objects and Consciousness] // Treasure Trove, pp.177-178
-From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
-
-#quote(block:true)[
-  _Direct introduction to awareness in the gap between sense objects and consciousness of them:_
-  Have the student rest contentedly while remaining conscious of a sense object. Then, without
-  directing attention outwardly to the object or inwardly to the mind, he or she arrives at a
-  seamless state of bare perception. Have the student let go of the sense of dwelling in that bare state,
-  and directly introduce bare awareness, vivid and lucid, as dharmakaya.
-]
-
-
-==== #approval[RoS: Inducing Distraction] // Treasure Trove, p.178
-From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
-
-#quote(block:true)[
-  _Direct introduction to awareness by inducing distraction:_
-  Have the student spend a short time being idle; then deliberately cause him or her to
-  become distracted by talking or whatever. At that point you might say,
-  "What does 'harasaki' mean? Tell me! Tell me!" (A nonsense word.) Having no idea what it means,
-  the student will experience mild astonishment and wonder. Then, have him or her let go of the sense
-  of dwelling on that astonishment, and directly introduce the lucid wakefulness that is thus exposed
-  as dharmakaya. Alternatively, you might say "Stay put!" when the student is on the point of going,
-  or say "Go away!" only to say "Come back!" once he or she has gone a short distance.
-  Then, have the student let go of what he or she experiences in turning back ---
-  consciousness that is clear and involves no proliferation of thoughts ---
-  and directly introduce the wakefulness thus exposed as dharmakaya.
-]
+// ==== #approval[Inducing Distraction] // Treasure Trove, p.178
+// From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
+//
+// #quote(block:true)[
+//   _Direct introduction to awareness by inducing distraction:_
+//   Have the student spend a short time being idle; then deliberately cause him or her to
+//   become distracted by talking or whatever. At that point you might say,
+//   "What does 'harasaki' mean? Tell me! Tell me!" (A nonsense word.) Having no idea what it means,
+//   the student will experience mild astonishment and wonder. Then, have him or her let go of the sense
+//   of dwelling on that astonishment, and directly introduce the lucid wakefulness that is thus exposed
+//   as dharmakaya. Alternatively, you might say "Stay put!" when the student is on the point of going,
+//   or say "Go away!" only to say "Come back!" once he or she has gone a short distance.
+//   Then, have the student let go of what he or she experiences in turning back ---
+//   consciousness that is clear and involves no proliferation of thoughts ---
+//   and directly introduce the wakefulness thus exposed as dharmakaya.
+// ]

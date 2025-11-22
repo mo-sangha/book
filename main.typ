@@ -25,6 +25,17 @@
 #counter(page).update(1) // Don't count the cover page.
 
 /////////////////////////////////////////////////////////////////////////////////
+// Copyright and publication information
+/////////////////////////////////////////////////////////////////////////////////
+
+Draft copy.
+
+Published #datetime.today().display("[year]-[month]-[day]").
+
+#pagebreak()
+#counter(page).update(1) // Don't count this page either
+
+/////////////////////////////////////////////////////////////////////////////////
 // Table of Contents
 /////////////////////////////////////////////////////////////////////////////////
 
@@ -50,13 +61,24 @@
 #pagebreak(weak: true)
 #counter(page).update(1) // For the rest of the book, switch back to "1, 2, 3" page numbering.
 
+#todo[Introduction]
+This text is self-secret and self-protected.
+
 /////////////////////////////////////////////////////////////////////////////////
 // Recognition
 /////////////////////////////////////////////////////////////////////////////////
 
 = #todo[Revealing the Nature of Mind]
 
-== #todo([Key Point])
+== Key Point
+
+#quote(block: true, attribution: [Tulku Urgyen Rinpoche @as-it-is-2])[
+  Shantideva said, "Unless you know the secret key point, whatever you do will miss the mark."
+  The secret key point of mind is that its nature is a self-existing, original wakefulness.
+  To identify the key point we need to receive the pointing-out instruction.
+]
+
+
 === #todo([The Practitioner is Pointed to the Nature of Mind])
 #include("chapters/nature-as-awareness.typ")
 
