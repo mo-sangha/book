@@ -10,6 +10,19 @@ The key point of the second phase is familiarization with the nature of mind and
 There are several provisional methods we can use to familiarize with the view,
 but effortless abiding is the key point of self-liberation.
 
+// Note that Dawai has changed the order of these sentences, almost in reverse order,
+// but the edit makes the point a little more strongly. Not sure we can present this
+// as a quote as it currently stands, though.
+#quote(block: true, attribution: [Tulku Urgyen Rinpoche #todo[(sentence order changed)] @as-it-is-2])[ // p.84
+  In one instant of remaining in unfabricated naturalness, a kalpa of negative karma is purified.
+  Remain in uncontrived naturalness for short moments, repeated many times.
+  You _can_ become accustomed to this.
+  The short moment _can_ grow longer.
+  To get carried away by a thought is the state of a sentient being.
+  Rather than that, recognize your basic state as being the essence, nature, and capacity
+  that are the three kayas of the buddhas.
+]
+
 #quote(block: true, attribution: [Longchenpa, _The Basic Space of Phenomena_ @basic-space])[ // p.131
   If, through the key point of effortlessness, there is familiarity
   with the very essence of enlightenment---the spontaneous presence of phenomena---although
