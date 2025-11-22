@@ -96,6 +96,8 @@
   show "Samadhi": [Samādhi]
   show "bhumi": [bhūmi]
   show "Bhumi": [Bhūmi]
+  show "manas-vijnana": [mānas-vijñāna]
+  show "Manas-vijnana": [Mānas-vijñāna]
 
   // Renditions of common Tibetan words.
   show "trekcho": [trekchö]
