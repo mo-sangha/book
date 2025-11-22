@@ -32,6 +32,8 @@ Draft copy.
 
 Published #datetime.today().display("[year]-[month]-[day]").
 
+This text is self-secret and self-protected.
+
 #pagebreak()
 #counter(page).update(1) // Don't count this page either
 
@@ -60,9 +62,6 @@ Published #datetime.today().display("[year]-[month]-[day]").
 )
 #pagebreak(weak: true)
 #counter(page).update(1) // For the rest of the book, switch back to "1, 2, 3" page numbering.
-
-#todo[Introduction]
-This text is self-secret and self-protected.
 
 /////////////////////////////////////////////////////////////////////////////////
 // Recognition
