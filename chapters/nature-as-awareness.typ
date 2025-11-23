@@ -7,9 +7,9 @@ The recognition could also settle in like an emotional "Ah-ha!", but it's undeni
 has recognized naked awareness.
 
 There are many indicators we may use for evidence to verify recognition.
-Beings typically, immediately, apprehend this recognition, and without guidance could delay
+Beings typically immediately apprehend this recognition, and without guidance could delay
 their familiarization for a significant time. "Apprehend" means we're not leaving it alone
-as naked awareness but we form concepts, tell stories about awareness, lay claim to awareness
+as naked awareness but we form concepts, tell stories about awareness, and lay claim to awareness
 as typical patterned tendencies get mingled in.
 This is why we have a second phase, which is to familiarize with the recognition.
 
