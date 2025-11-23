@@ -107,6 +107,20 @@ Settle into natural luminosity.
   This is how you will see your own nature.
 ]
 
+==== Thinking As Many Thoughts As Possible
+While in a relaxed posture, begin thinking as many thoughts as possible in rapid succession, to the point of exhaustion.
+
+Here the conceptual mind gets crowded out to the point of silence as pure presence.
+
+#quote(block: true, attribution: [_The Flight of the Garuda_, Song 21 @flight-of-the-garuda-kunsang])[
+  When people of lesser capacity cannot remain in the natural state,
+  they should push thoughts to their breaking point,
+  generating desirable or undesirable thoughts,
+  in various ways, one after another,
+  until their minds have become exhausted.
+  Finally, not desiring to continue this further, they should rest loosely.
+]
+
 ==== The Space Which Holds Stillness and Movement
 
 Known in Dzogchen and Mahamudra as a technique for recognizing the nature of mind,
@@ -183,20 +197,6 @@ of their enlightened mind.
 //   The transparency's inexpressible.\
 //   Identify the dharmakaya rigpa!
 // ]
-
-==== Thinking As Many Thoughts As Possible
-While in a relaxed posture, begin thinking as many thoughts as possible in rapid succession, to the point of exhaustion.
-
-Here the conceptual mind gets crowded out to the point of silence as pure presence.
-
-#quote(block: true, attribution: [_The Flight of the Garuda_, Song 21 @flight-of-the-garuda-kunsang])[
-  When people of lesser capacity cannot remain in the natural state,
-  they should push thoughts to their breaking point,
-  generating desirable or undesirable thoughts,
-  in various ways, one after another,
-  until their minds have become exhausted.
-  Finally, not desiring to continue this further, they should rest loosely.
-]
 
 // The Reverberation of Sound quotes are taken out: they're for the teacher, not for the reader.
 
