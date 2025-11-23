@@ -107,6 +107,8 @@ This text is self-secret and self-protected.
 
 == #todo([Discerning the Implications])
 #include("chapters/familiarization-discerning.typ")
+=== #todo([During Daily Activities])
+#todo([TODO: how does familiarization look throughout the day (post-meditation)? Happy states, sad states, etc.])
 === #approval([The Three Modes of Liberation])
 #include("chapters/three-modes.typ")
 === #approval([Tilopa's Six Words of Advice])
