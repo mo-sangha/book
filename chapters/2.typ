@@ -2,6 +2,30 @@
 
 = #todo([Familiarizing With the View and Effortlessness])
 
+#quote(block: true, attribution: [Dudjom Rinpoche, _Heart Jewel of the Fortunate_ @counsels-from-my-heart])[
+  "Oh, in that case," you might think, "there's no need for meditation."
+  Well, I can assure you that there is a need!
+  The mere recognition of awareness will not liberate you.
+  Throughout your lives from beginningless time, you have been enveloped
+  in false beliefs and deluded habits. From then until now you have spent every
+  moment as a miserable, pathetic slave of your thoughts! And when you die,
+  it's not at all certain where you will go. You will follow your karma,
+  and you will have to suffer.
+
+  This is the reason why you must meditate, continuously preserving the state
+  of awareness you have been introduced to.
+  The omniscient Longchenpa has said,
+  "You may recognize your own nature, but if you do not meditate and get used to it,
+  you will be like a baby left on a battlefield: you'll be carried off by the enemy,
+  the hostile army of your own thoughts!"
+
+  In general terms, meditation means _becoming familiar_ with the state of resting
+  in the primordial uncontrived nature, through being spontaneously,
+  naturally, constantly mindful.
+  It means getting used to leaving the state of awareness alone, divested
+  of all distraction and clinging.
+]
+
 /////////////////////////////////////////////////////////////////////////////////
 == #todo([Key Point])
 /////////////////////////////////////////////////////////////////////////////////
