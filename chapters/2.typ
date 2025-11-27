@@ -265,7 +265,7 @@ Pith instructions:
   if you do not grasp at them, then that is Buddhahood.
 ]
 
-=== #todo([Tögal])
+=== #todo([Togal])
 TODO: "bindus and vajra chains via dream yoga, sky gazing, etc."
 
 #quote(block: true, attribution: [_Reverberation of Sound_ @genuine-meaning])[ // p.158

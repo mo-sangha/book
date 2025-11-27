@@ -200,7 +200,7 @@ of their enlightened mind.
 
 // The Reverberation of Sound quotes are taken out: they're for the teacher, not for the reader.
 
-// ==== ntroduction with the Mind Focused] // Treasure Trove, p.1
+// ==== Introduction with the Mind Focused] // Treasure Trove, p.1
 // From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 //
 // #quote(block: true)[
@@ -212,7 +212,7 @@ of their enlightened mind.
 // ]
 
 
-// ==== ntroduction with the Mind at Rest] // Treasure Trove, p.1
+// ==== Introduction with the Mind at Rest] // Treasure Trove, p.1
 // From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 //
 // #quote(block: true)[
@@ -223,7 +223,7 @@ of their enlightened mind.
 // ]
 
 
-// ==== etting to the Root of the Matter] // Treasure Trove, p.1
+// ==== Getting to the Root of the Matter] // Treasure Trove, p.1
 // From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 //
 // #quote(block:true)[
@@ -236,7 +236,7 @@ of their enlightened mind.
 // ]
 
 
-// ==== liminating the Sense of Reality] // Treasure Trove, p.1
+// ==== Eliminating the Sense of Reality] // Treasure Trove, p.1
 // From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 //
 // #quote(block:true)[
@@ -251,7 +251,7 @@ of their enlightened mind.
 // ]
 
 
-// ==== he Gap Between Objects and Consciousness] // Treasure Trove, pp.177-1
+// ==== The Gap Between Objects and Consciousness] // Treasure Trove, pp.177-1
 // From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 //
 // #quote(block:true)[
@@ -263,7 +263,7 @@ of their enlightened mind.
 // ]
 
 
-// ==== nducing Distraction] // Treasure Trove, p.1
+// ==== Inducing Distraction] // Treasure Trove, p.1
 // From Longchenpa's explanation of the _Reverberation of Sound_ @treasure-trove:
 //
 // #quote(block:true)[
