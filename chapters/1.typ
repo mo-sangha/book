@@ -15,7 +15,7 @@
 === The Practitioner is Pointed to the Nature of Mind
 
 If pointing out to awareness "as the nature of mind" is successful then there will be an "Ah-ha!" moment,
-even if it's very subtle. Like noticing something that has always been there, we can discern an acknowledgement.
+even if it's very subtle. Like noticing something that has always been there, we can discern an acknowledgment.
 The recognition could also settle in like an emotional "Ah-ha!", but it's undeniable when one
 has recognized naked awareness.
 

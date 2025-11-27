@@ -101,7 +101,7 @@ Commenting on the above lines by Jigme Lingpa:
   occur simultaneously, then we come to master the great wisdom in which there is no division between
   stillness and movement. The ceaseless arising of the display from the king-like dharmakaya beyond
   transference is said to be the nirmanakaya. The "three-kaya rigpa" is what we call
-  the inseparabality of these qualities.
+  the inseparability of these qualities.
 ]
 
 === #todo([The Four Dzogchen Samayas])
