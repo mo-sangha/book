@@ -26,7 +26,7 @@ When the watcher itself has exhausted,
 simply settle into presence without effort as the way of abiding.
 
 #quote(block:true, attribution: [_The Flight of the Garuda_, Song 19 @flight-of-the-garuda-kunsang])[ // p.70
-  There are a number of different viewpoints,\
+  There are a vast number of different viewpoints,\
   But in the present wakefulness, self-existing wisdom,\
   There is no duality between the viewer and that which is viewed.\
   So, do not watch the view, but look to the watcher.\
