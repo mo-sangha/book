@@ -2,15 +2,17 @@
 
 = #todo([Familiarizing With the View and Effortlessness])
 
+It's most important to remember the recognition you had before.
+
 #quote(block: true, attribution: [Dudjom Rinpoche, _Heart Jewel of the Fortunate_ @counsels-from-my-heart])[
-  "Oh, in that case," you might think, "there's no need for meditation."
-  Well, I can assure you that there is a need!
-  The mere recognition of awareness will not liberate you.
-  Throughout your lives from beginningless time, you have been enveloped
-  in false beliefs and deluded habits. From then until now you have spent every
-  moment as a miserable, pathetic slave of your thoughts! And when you die,
-  it's not at all certain where you will go. You will follow your karma,
-  and you will have to suffer.
+  // "Oh, in that case," you might think, "there's no need for meditation."
+  // Well, I can assure you that there is a need!
+  // The mere recognition of awareness will not liberate you.
+  // Throughout your lives from beginningless time, you have been enveloped
+  // in false beliefs and deluded habits. From then until now you have spent every
+  // moment as a miserable, pathetic slave of your thoughts! And when you die,
+  // it's not at all certain where you will go. You will follow your karma,
+  // and you will have to suffer.
 
   This is the reason why you must meditate, continuously preserving the state
   of awareness you have been introduced to.
@@ -34,27 +36,25 @@ The key point is integrating the four foundations of mindfulness into recognitio
 via effortless abiding, gaining confidence in self-liberation. What appears to be liberating?
 The 8 aspects of consciousness, 5 afflictions, 5 elements, 3 poisons, self, and other.
 
-The key point of the second phase is familiarization with the nature of mind and effortless abiding.
-
 There are several provisional methods we can use to familiarize with the view,
 but effortless abiding is the key point of self-liberation.
 
 #quote(block: true, attribution: [Tulku Urgyen Rinpoche @as-it-is-2])[ // p.84
-  To get carried away by a thought is the state of a sentient being.
-  Rather than that, recognize your basic state as being the essence, nature, and capacity
-  that are the three kayas of the buddhas.
+  // To get carried away by a thought is the state of a sentient being.
+  // Rather than that, recognize your basic state as being the essence, nature, and capacity
+  // that are the three kayas of the buddhas.
   Remain in uncontrived naturalness for short moments, repeated many times.
   You _can_ become accustomed to this.
   The short moment _can_ grow longer.
-  In one instant of remaining in unfabricated naturalness, a kalpa of negative karma is purified.
+  // In one instant of remaining in unfabricated naturalness, a kalpa of negative karma is purified.
 ]
 
 #quote(block: true, attribution: [Longchenpa, _The Basic Space of Phenomena_ @basic-space])[ // p.131
   If, through the key point of effortlessness, there is familiarity
   with the very essence of enlightenment---the spontaneous presence of phenomena---although
   buddhahood is timeless, there is awakening to buddhahood anew.
-  This is the unsurpassable pinnacle of the vajra heart essence---the vast expanse
-  of enlightenment, the very essence of the nine progressive approaches.
+  // This is the unsurpassable pinnacle of the vajra heart essence---the vast expanse
+  // of enlightenment, the very essence of the nine progressive approaches.
 ]
 
 #quote(block: true, attribution: [_The Two Segments (Hevajra Tantra)_ @lotsawa-casket])[
@@ -80,6 +80,7 @@ but effortless abiding is the key point of self-liberation.
   "Rest in the aspect of awareness, beyond all description."
 ]
 
+
 === #todo([Garab Dorje's Three Statements])
 #include("garab-dorje.typ")
 
@@ -91,8 +92,8 @@ but effortless abiding is the key point of self-liberation.
 The implications are that we are becoming familiar with the view and effortless abiding,
 which facilitates self-liberation.
 
-Things are starting to liberate in its own place, and this serves as evidence
-for self-liberation, building confidence in the practitioner.
+Things are starting to liberate in their own place, and this serves as evidence
+for self-liberation, unveiling confidence in the practitioner.
 
 #quote(block: true, attribution: [_Naturally Arising Awareness_ @treasure-trove])[ // p.117
   In atiyoga, great perfection,\
