@@ -170,7 +170,7 @@ Shouting _PHET!_, a fierce exclamation of the seed syllable, immediately stops t
 of thoughts, stops emotional activity, and brings the practitioner directly into the pure presence
 of their enlightened mind.
 
-#quote(block: true, attribution: [Longchenpa, citing the _Reverberation of Sound_ @genuine-meaning])[ // p.239
+#quote(block: true, attribution: [Longchenpa @genuine-meaning])[ // p.239
   Let the mind become distracted and then shout a forceful _phet_,
   at which time cognition will become lucid and nonconceptual.
 ]
