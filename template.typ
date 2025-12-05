@@ -100,6 +100,8 @@
   show "Manas-vijnana": [Mānas-vijñāna]
   show "Dignaga": [Dignāga]
   show "Mahayana": [Mahāyāna]
+  show "vidya": [vidyā]
+  show "Vidya": [Vidyā]
 
   // Renditions of common Tibetan words.
   show "trekcho": [trekchö]

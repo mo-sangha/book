@@ -244,21 +244,44 @@ to include all four postures, day, and night.
   state, and confusion to enhance the path is simply to rest in the natural state.
 ]
 
-// #quote(block: true, attribution: [Longchenpa, _Finding Rest in the Nature of the Mind_ @trilogy-of-rest-vol-1])[
-//   When I watch the thoughts as they arise,\
-//   The watcher vanishes.\
-//   I search for it but nowhere is it found.\
-//   Neither is the searcher seen---\
-//   There is just a freedom from conceptual elaboration.\
-//   There's no agent; there's no object of its action.
-// ]
+Awareness is now naturally discerning conditioned consciousness (sem, marigpa, avidya)
+from spacious clear wisdom mind (semnyi, rigpa, vidya), self-resolving.
+Spontaneous presence as empty lucidity or empty cognition begins unveiling ultimate truth,
+mind free from division (bodhicitta).
+At first, mind is not empty of subject/object, which are conditioned patterns with momentum.
+When these patterns exhaust, there is freedom in oneness.
 
-// #quote(block: true, attribution: [Pema Karpo @lotsawa-casket])[
-//   When settling naturally and without contrivance, realization dawns.
-//   When maintaining that state, like the flow of a river, it dawns in full.
-//   Completely relinquish all forms of conceptual focus and grasping,
-//   and constantly settle in equanimity, O yogi!
-// ]
+#quote(block: true, attribution: [Longchenpa, _Finding Rest in the Nature of the Mind_ @trilogy-of-rest-vol-1])[
+  When I watch the thoughts as they arise,\
+  The watcher vanishes.\
+  I search for it but nowhere is it found.\
+  Neither is the searcher seen---\
+  There is just a freedom from conceptual elaboration.\
+  There's no agent; there's no object of its action.
+]
+
+The watcher, or conditioned self, is also known as the 7th aspect of consciousness.
+This is a "thought" in the sense of being a programmed tendency for apprehension.
+For example: "I like ice cream," "My name is John," "My favorite color is red."
+When this reference point is left alone within awareness, there can be equality and evenness
+of the mind, now abiding as awareness in a kind of psychic inversion.
+This is sometimes compared to water being poured into water, or like the space
+inside a vase meeting the space outside the vase when it cracks.
+
+#quote(block: true, attribution: [Pema Karpo @lotsawa-casket])[
+  When settling naturally and without contrivance, realization dawns.
+  When maintaining that state, like the flow of a river, it dawns in full.
+  Completely relinquish all forms of conceptual focus and grasping,
+  and constantly settle in equanimity, O yogi!
+]
+
+True effortlessness can be approached responsibly.
+When we begin seeing our emotions within awareness, they become nourished and finally cared for.
+It's not easy to leave a thought-pattern, habitual tendency, or heavy emotion alone to bathe
+within pure present knowingness, but as we adjust, as we reorientate into a larger scope of mind,
+these things become like ocean waves arising and naturally subsiding while awareness remains
+firm like a mountain.
+As we go about day and night, all actions, all realizations, can be left alone to flourish without conditioning.
 
 // #quote(block: true, attribution: [Tantra of the Enlightenment of Mahāvairocana TODO])[
 //   When abiding in thought-free samadhi,\
@@ -280,14 +303,14 @@ to include all four postures, day, and night.
 // ]
 
 // TODO: I can't find this book. The bib has a version from 2024, but Dawai has one from 1999.
-// #quote(block: true, attribution: [_The Cuckoo of Awareness_ @cuckoo-of-rigpa])[ // p. 174
-//   The nature of the variety of phenomena is non-dual,\
-//   Yet each phenomenon is beyond the limits of the mind.\
-//   The authentic condition as it is does not become a concept,\
-//   Yet it manifests totally in form, always good.\
-//   All being already perfect, overcome the sickness of effort\
-//   And remain naturally in self-perfection: this is Meditation.
-// ]
+#quote(block: true, attribution: [_The Cuckoo of Awareness_ @cuckoo-of-rigpa])[ // p. 174
+  The nature of the variety of phenomena is non-dual,\
+  Yet each phenomenon is beyond the limits of the mind.\
+  The authentic condition as it is does not become a concept,\
+  Yet it manifests totally in form, always good.\
+  All being already perfect, overcome the sickness of effort\
+  And remain naturally in self-perfection: this is Meditation.
+]
 
 // === #todo([The Four Chokshyaks])
 // #include("chokshyaks.typ")

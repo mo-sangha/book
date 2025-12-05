@@ -1,4 +1,4 @@
-personal_ws-1.1 en 128 utf-8
+personal_ws-1.1 en 135 utf-8
 Abhidhamma
 Aryadeva's
 Atisa
@@ -51,6 +51,7 @@ Yogins
 Yukhok
 afflictive
 atiyoga
+avidya
 beginningless
 bhumi
 bhumis
@@ -80,10 +81,12 @@ kalpa
 kaya
 kayas
 knower
+knowingness
 kunsang
 lotsawa
 mahamudra
 manas
+marigpa
 nd
 ngondro
 nirmanakaya
@@ -98,6 +101,7 @@ pristinely
 realizer
 rect
 reifications
+reorientate
 rgb
 rigpa
 rtsal
@@ -108,6 +112,8 @@ samayas
 sambhogakaya
 samsara
 samyaksambuddha
+sem
+semnyi
 suchness
 supermundane
 sutra
@@ -124,6 +130,7 @@ unfabricated
 unobstructedly
 unsurpassable
 vajra
+vidya
 vijnana
 vijñana
 wisdoms
