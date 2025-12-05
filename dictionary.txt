@@ -1,4 +1,4 @@
-personal_ws-1.1 en 121 utf-8
+personal_ws-1.1 en 128 utf-8
 Abhidhamma
 Aryadeva's
 Atisa
@@ -65,13 +65,17 @@ dharmadhatu
 dharmakaya
 dorje
 dualistic
+dualistically
 dzogchen
 egoic
+electro
 equalness
 garab
 garuda
 harasaki
 ieee
+inexpressibility
+insubstantiality
 kalpa
 kaya
 kayas
@@ -80,6 +84,8 @@ kunsang
 lotsawa
 mahamudra
 manas
+nd
+ngondro
 nirmanakaya
 nonconceptual
 nonconceptually
@@ -96,6 +102,7 @@ rgb
 rigpa
 rtsal
 samadhi
+samatha
 samaya
 samayas
 sambhogakaya

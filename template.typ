@@ -108,6 +108,8 @@
   show "Togal": [Tögal]
   show "togyal": [tögal]
   show "Togyal": [Tögal]
+  show "ngondro": [ngöndro]
+  show "Ngondro": [Ngöndro]
 
   doc
 }

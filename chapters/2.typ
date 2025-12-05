@@ -3,6 +3,21 @@
 = #todo([Familiarizing With the View and Effortlessness])
 
 It's most important to remember the recognition you had before.
+If the recognition was vivid enough, then the practitioner can hinge on the recognition,
+taking the fruit as the path, enough to integrate all experiences.
+
+Preliminary dispositions will affect the strength of recognition.
+If someone has done years of meditation, ngondro practices, or even has had life
+changing experiences, it could determine the depth of recognition and familiarization.
+Here the practitioner is not advised to add more practices, vows, or anything else, but
+to simply add awareness to your current disposition. Within a month of short sessions
+repeated often, there will be stability (Dzogchen samatha).
+Ultimately, there are no requirements for integrating awareness into one's life.
+We want our current conditioning (karma) to breathe out rather than creating
+new conditioning.
+This doesn't imply that we become a zombie.
+In the face of self-liberation we still have amazement, magical expression and mystery,
+safety, wisdom, naturalness, and sheer inexpressibility.
 
 #quote(block: true, attribution: [Dudjom Rinpoche, _Heart Jewel of the Fortunate_ @counsels-from-my-heart])[
   // "Oh, in that case," you might think, "there's no need for meditation."
@@ -32,12 +47,49 @@ It's most important to remember the recognition you had before.
 == #todo([Key Point])
 /////////////////////////////////////////////////////////////////////////////////
 
-The key point is integrating the four foundations of mindfulness into recognition
+The key point is integration of the four foundations of mindfulness, internal and external reality, into recognition
 via effortless abiding, gaining confidence in self-liberation. What appears to be liberating?
 The 8 aspects of consciousness, 5 afflictions, 5 elements, 3 poisons, self, and other.
 
 There are several provisional methods we can use to familiarize with the view,
 but effortless abiding is the key point of self-liberation.
+
+#quote(block: true, attribution: [_The Two Segments (Hevajra Tantra)_ @lotsawa-casket])[
+  Thus, not meditating with the conceptual mind\
+  is how everyone should meditate.
+]
+
+One can use the method of looking into the nature of a thought, including emotions and states of consciousness.
+When we're having invasive thoughts, for example, we can turn awareness to the thinking and the thought
+will typically vanish, leaving naked cognizance.
+This is the same as seeing the space in which a thought comes, abides, and ceases.
+Awareness holds a vast spectrum of activity, from thought movement to emotional upheaval.
+
+One of the first "barriers" is the course linguistic mind with its electro-magnetic psychic constraint.
+When we're in thought proliferation it binds us to a smaller dimension of cognition.
+Here, linguistic mind is defined as the inner narrator, story telling,
+imaginations, and ruminations of various types, corresponding with the 6th aspect of
+the 8 aspects of consciousness.
+This could have a somatic location in the brain, indicating itself with a feeling of
+noticeable contraction in the soft tissue of the brain and along the neck.
+Facial indications can also be visible during the psychic contraction
+of course linguistic proliferation.
+
+// TODO: The quote here is quoting another work.
+#quote(block: true, attribution: [Patrul Rinpoche @dalai-lama-dzogchen])[ // p.71
+  So, whether the mind is still, active, or whatever, it is not a question of overcoming
+  each individual negative emotion and thought with its own separate remedy.
+  Instead, the sole remedy for whatever thought or emotion may occur, the one remedy for all,
+  is the recognition of that view which was introduced previously, and that alone.
+  So: "Recognize that dharmakaya you recognized before."
+]
+
+When the mind is busy on these coarse levels, there's no need to try to stop thoughts or analyze content.
+Familiarizing with effortless abiding, the course thoughts will subside and more subtle aspects of mind
+will become exposed within volumetric ever-present awareness.
+At this point, awareness can be nascent, seemingly in the background.
+These coarse narratives have heavier, more noticeable weight, so alleviation is somewhat easy to discern.
+We can feel it when thinking slows down, but also our investment into the thinking can be noticed.
 
 #quote(block: true, attribution: [Tulku Urgyen Rinpoche @as-it-is-2])[ // p.84
   // To get carried away by a thought is the state of a sentient being.
@@ -49,27 +101,16 @@ but effortless abiding is the key point of self-liberation.
   // In one instant of remaining in unfabricated naturalness, a kalpa of negative karma is purified.
 ]
 
-#quote(block: true, attribution: [Longchenpa, _The Basic Space of Phenomena_ @basic-space])[ // p.131
-  If, through the key point of effortlessness, there is familiarity
-  with the very essence of enlightenment---the spontaneous presence of phenomena---although
-  buddhahood is timeless, there is awakening to buddhahood anew.
-  // This is the unsurpassable pinnacle of the vajra heart essence---the vast expanse
-  // of enlightenment, the very essence of the nine progressive approaches.
-]
-
-#quote(block: true, attribution: [_The Two Segments (Hevajra Tantra)_ @lotsawa-casket])[
-  Thus, not meditating with the conceptual mind\
-  is how everyone should meditate.
-]
-
-// TODO: The quote here is quoting another work.
-#quote(block: true, attribution: [Patrul Rinpoche @dalai-lama-dzogchen])[ // p.71
-  So, whether the mind is still, active, or whatever, it is not a question of overcoming
-  each individual negative emotion and thought with its own separate remedy.
-  Instead, the sole remedy for whatever thought or emotion may occur, the one remedy for all,
-  is the recognition of that view which was introduced previously, and that alone.
-  So: "Recognize that dharmakaya you recognized before."
-]
+Emotions (also corresponding with the 6th aspect) are another kind of thought that the mind is having,
+but with more body weight than coarse surface thinking.
+In this approach, there's nothing to do with emotions either: they are left in awareness
+during short sessions and also during the normal day/night.
+They can be left as pure energy in awareness as labeling and analysis subside.
+When, through effortlessness, emotions become lighter and coarse thinking has ceased fusing the mind,
+there are more aspects of experience being exposed.
+Particularly the subjective sense of "the one who is thinking," which is like an emotion yet even more subtle.
+This is what's considered the 7th egoic consciousness, or conditioned self, the watcher, the witness,
+and many other names.
 
 // TODO: The quote here is quoting another work.
 #quote(block: true, attribution: [Patrul Rinpoche @dalai-lama-dzogchen])[ // p.73
@@ -80,9 +121,31 @@ but effortless abiding is the key point of self-liberation.
   "Rest in the aspect of awareness, beyond all description."
 ]
 
+Within awareness are the 3 spheres of conceptual consciousness: subject, action, and object, which
+correspond with the five senses.
+For example, eyes-seeing-birds, ears-hearing-bells.
+The thinking/feeling is based on these interactions, and a sense of self apprehends the thinking/feeling:
+for example, "I like seeing birds."
+If the mind highly favors a particular visual sight, there will be more psychic weight than if no grasping
+were involved, so this weight is naturally discernible within effortlessness.
+Aversion as an inversion will also be discernible within non-referential empty cognizance.
+Within awareness we can notice ourselves holding visual objects, sounds, tastes, thoughts, emotions, etc.,
+but also the one who's seeing, hearing, tasting, etc. becomes exposed as the taproot of duality and confusion.
+When all three spheres are left be, then all four foundations of mindfulness are naturally within
+space-like awareness, being allowed to settle in their own place and revealing ineffable
+ultimate truth transcending concepts.
 
-=== #todo([Garab Dorje's Three Statements])
-#include("garab-dorje.typ")
+#quote(block: true, attribution: [Longchenpa, _The Basic Space of Phenomena_ @basic-space])[ // p.131
+  If, through the key point of effortlessness, there is familiarity
+  with the very essence of enlightenment---the spontaneous presence of phenomena---although
+  buddhahood is timeless, there is awakening to buddhahood anew.
+  // This is the unsurpassable pinnacle of the vajra heart essence---the vast expanse
+  // of enlightenment, the very essence of the nine progressive approaches.
+]
+
+
+// === #todo([Garab Dorje's Three Statements])
+// #include("garab-dorje.typ")
 
 
 /////////////////////////////////////////////////////////////////////////////////
@@ -95,15 +158,6 @@ which facilitates self-liberation.
 Things are starting to liberate in their own place, and this serves as evidence
 for self-liberation, unveiling confidence in the practitioner.
 
-#quote(block: true, attribution: [_Naturally Arising Awareness_ @treasure-trove])[ // p.117
-  In atiyoga, great perfection,\
-  there is no view, meditation, or conduct.\
-  I have revealed this thoroughly, so keep it in mind.\
-  With nothing needing to be done---nothing to achieve, no concerted effort or speculation---\
-  the ultimate meaning of suchness itself has always been spontaneous perfection.\
-  How could there be anything to do or any doing?
-]
-
 #quote(block: true, attribution: [Longchenpa @way-of-abiding])[
   Deliberate action misleads---look at the confusing appearances of samsara.\
   Effort corrupts---think about the machinations of suffering.\
@@ -111,6 +165,26 @@ for self-liberation, unveiling confidence in the practitioner.
   Karma is reinforced, causing one to wander high and low through samsara.\
   There is no opportunity to escape the ocean of conditioned existence.
 ]
+
+Conditioned mind can resolve itself.
+Doing nothing about our experiences isn't easy at first: many people will slowly step into
+effortlessness through validation.
+Within a month of consistent practice, one can verify that, when left alone, there is natural
+resolution to affliction and confusion.
+The plasticity of karmic conditioning can exhaust itself within awareness.
+Referencing the 3 modes of liberation, we know when we're seeing an old habit, greeting them
+like an old friend.
+We may even be stuck in a mood we've had many times, like another old friend.
+Invasive thoughts, bodily aches, and stories can all be considered like that from the point of view of awareness.
+When we're in a mood, holding a perspective, feeling the somatic contractions, this can be relieved
+by just letting be within awareness, so it's like a snake uncoiling itself, the 2nd mode of liberation.
+The conditioned self can be like this as well.
+The 3rd mode of liberation is when thoughts flow naturally as expressions of timeless awareness
+without our grasping, fabricating, and elaboration: like a thief entering an empty house,
+nothing is lost and evenness prevails.
+No matter how relief is appearing, spaciousness, increased visibility, and other indicators like
+clear light, dream yoga, natural compassion, and bliss will all solve as evidence for this
+self-harmonization of consciousness/mind.
 
 #quote(block: true, attribution: [Longchenpa @treasure-trove])[ // p.275
   Understand that ordinary confused mind---which is rooted in the nonrecognition of awareness,
@@ -120,26 +194,44 @@ for self-liberation, unveiling confidence in the practitioner.
   in terms of identity.
 ]
 
-=== #todo([During Daily Activities])
-#todo([TODO: how does familiarization look throughout the day (post-meditation)? Happy states, sad states, etc.])
+This then corresponds with the second part of Garab Dorje's 3 statements:
+the practitioner is gaining confidence in self-liberation to the point of complete release.
+Emptiness/insubstantiality is beginning to naturally blossom as the revelation of luminous oneness:
+wisdom and compassion effortlessly revealed non-dualistically.
+Embracing all beings and the world as a teacher, until it's not.
 
-=== #approval([The Three Modes of Liberation])
-#include("three-modes.typ")
+#quote(block: true, attribution: [_Naturally Arising Awareness_ @treasure-trove])[ // p.117
+  In atiyoga, great perfection,\
+  there is no view, meditation, or conduct.\
+  I have revealed this thoroughly, so keep it in mind.\
+  With nothing needing to be done---nothing to achieve, no concerted effort or speculation---\
+  the ultimate meaning of suchness itself has always been spontaneous perfection.\
+  How could there be anything to do or any doing?
+]
 
-=== #approval([Tilopa's Six Words of Advice])
-#include("six-nails.typ")
+// === #todo([During Daily Activities])
+// #todo([TODO: how does familiarization look throughout the day (post-meditation)? Happy states, sad states, etc.])
+
+// === #approval([The Three Modes of Liberation])
+// #include("three-modes.typ")
+
+// === #approval([Tilopa's Six Words of Advice])
+// #include("six-nails.typ")
 
 
 /////////////////////////////////////////////////////////////////////////////////
 == #todo([Embracing the Larger Scope])
 /////////////////////////////////////////////////////////////////////////////////
 
-Self-liberation is the key to liberation itself.
+As coarse and conditioned mind clears up, the lucid aspect of mind begins showing.
+This can be strengthened by dream experiences/insights as well as togal light practices.
+Enlightened mind will begin to expose itself within non-referential space, in inexpressible ways.
+Normalizing the extraordinary is recommended as the practitioner allows the view to saturate
+conditioned reality.
 
 The practitioner adopts effortlessness as the primary remedy.
-Within effortlessness, mental and emotional conditioning is allowed
-to self-liberate within its own place.
-This includes the conditioned self, which is the primary factor in cyclic existence.
+Mental and emotional conditioning is allowed to self-liberate within its own place.
+This includes the conditioned self, which is the primary anchor for cyclic existence.
 
 Discerning self-liberation enhances natural confidence, leading into pure effortless abiding,
 to include all four postures, day, and night.
@@ -152,55 +244,55 @@ to include all four postures, day, and night.
   state, and confusion to enhance the path is simply to rest in the natural state.
 ]
 
-#quote(block: true, attribution: [Longchenpa, _Finding Rest in the Nature of the Mind_ @trilogy-of-rest-vol-1])[
-  When I watch the thoughts as they arise,\
-  The watcher vanishes.\
-  I search for it but nowhere is it found.\
-  Neither is the searcher seen---\
-  There is just a freedom from conceptual elaboration.\
-  There's no agent; there's no object of its action.
-]
+// #quote(block: true, attribution: [Longchenpa, _Finding Rest in the Nature of the Mind_ @trilogy-of-rest-vol-1])[
+//   When I watch the thoughts as they arise,\
+//   The watcher vanishes.\
+//   I search for it but nowhere is it found.\
+//   Neither is the searcher seen---\
+//   There is just a freedom from conceptual elaboration.\
+//   There's no agent; there's no object of its action.
+// ]
 
-#quote(block: true, attribution: [Pema Karpo @lotsawa-casket])[
-  When settling naturally and without contrivance, realization dawns.
-  When maintaining that state, like the flow of a river, it dawns in full.
-  Completely relinquish all forms of conceptual focus and grasping,
-  and constantly settle in equanimity, O yogi!
-]
+// #quote(block: true, attribution: [Pema Karpo @lotsawa-casket])[
+//   When settling naturally and without contrivance, realization dawns.
+//   When maintaining that state, like the flow of a river, it dawns in full.
+//   Completely relinquish all forms of conceptual focus and grasping,
+//   and constantly settle in equanimity, O yogi!
+// ]
 
-#quote(block: true, attribution: [Tantra of the Enlightenment of Mahāvairocana TODO])[
-  When abiding in thought-free samadhi,\
-  There is sky-like clarity, free of thoughts.
-]
+// #quote(block: true, attribution: [Tantra of the Enlightenment of Mahāvairocana TODO])[
+//   When abiding in thought-free samadhi,\
+//   There is sky-like clarity, free of thoughts.
+// ]
 
-#quote(block: true, attribution: [Longchenpa, _The Basic Space of Phenomena_ @basic-space])[ // p.105
-  When something unwanted falls into your lap, you have a negative reaction,
-  such as anger, dislike, envy, upset, irritation, anxiety, depression,
-  mental anguish, or fear of death and rebirth.
+// #quote(block: true, attribution: [Longchenpa, _The Basic Space of Phenomena_ @basic-space])[ // p.105
+//   When something unwanted falls into your lap, you have a negative reaction,
+//   such as anger, dislike, envy, upset, irritation, anxiety, depression,
+//   mental anguish, or fear of death and rebirth.
 
-  When such reactions arise as a display due to dynamic energy, identify them as such.
-  Do not renounce them, indulge in them, refine them away, transform them, look at them,
-  or meditate on them. Rather, rest spontaneously in the single, naturally settled state
-  of evenness, free of the proliferation and resolution of conceptual frameworks.
+//   When such reactions arise as a display due to dynamic energy, identify them as such.
+//   Do not renounce them, indulge in them, refine them away, transform them, look at them,
+//   or meditate on them. Rather, rest spontaneously in the single, naturally settled state
+//   of evenness, free of the proliferation and resolution of conceptual frameworks.
 
-  Mind as a pure expanse of space, in which things vanish naturally and leave no trace,
-  arises with intensity from within, pristinely lucid.
-]
+//   Mind as a pure expanse of space, in which things vanish naturally and leave no trace,
+//   arises with intensity from within, pristinely lucid.
+// ]
 
 // TODO: I can't find this book. The bib has a version from 2024, but Dawai has one from 1999.
-#quote(block: true, attribution: [_The Cuckoo of Awareness_ @cuckoo-of-rigpa])[ // p. 174
-  The nature of the variety of phenomena is non-dual,\
-  Yet each phenomenon is beyond the limits of the mind.\
-  The authentic condition as it is does not become a concept,\
-  Yet it manifests totally in form, always good.\
-  All being already perfect, overcome the sickness of effort\
-  And remain naturally in self-perfection: this is Meditation.
-]
+// #quote(block: true, attribution: [_The Cuckoo of Awareness_ @cuckoo-of-rigpa])[ // p. 174
+//   The nature of the variety of phenomena is non-dual,\
+//   Yet each phenomenon is beyond the limits of the mind.\
+//   The authentic condition as it is does not become a concept,\
+//   Yet it manifests totally in form, always good.\
+//   All being already perfect, overcome the sickness of effort\
+//   And remain naturally in self-perfection: this is Meditation.
+// ]
 
-=== #todo([The Four Chokshyaks])
-#include("chokshyaks.typ")
+// === #todo([The Four Chokshyaks])
+// #include("chokshyaks.typ")
 
-=== #todo([Distinguishing Consciousness from Wisdom])
+// === #todo([Distinguishing Consciousness from Wisdom])
 
 
 /////////////////////////////////////////////////////////////////////////////////
