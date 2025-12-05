@@ -65,7 +65,7 @@ will typically vanish, leaving naked cognizance.
 This is the same as seeing the space in which a thought comes, abides, and ceases.
 Awareness holds a vast spectrum of activity, from thought movement to emotional upheaval.
 
-One of the first "barriers" is the course linguistic mind with its electro-magnetic psychic constraint.
+One of the first "barriers" is the coarse linguistic mind with its electro-magnetic psychic constraint.
 When we're in thought proliferation it binds us to a smaller dimension of cognition.
 Here, linguistic mind is defined as the inner narrator, storytelling,
 imaginations, and ruminations of various types, corresponding with the 6th aspect of
@@ -73,7 +73,7 @@ the 8 aspects of consciousness.
 This could have a somatic location in the brain, indicating itself with a feeling of
 noticeable contraction in the soft tissue of the brain and along the neck.
 Facial indications can also be visible during the psychic contraction
-of course linguistic proliferation.
+of coarse linguistic proliferation.
 
 // TODO: The quote here is quoting another work.
 #quote(block: true, attribution: [Patrul Rinpoche @dalai-lama-dzogchen])[ // p.71
@@ -85,7 +85,7 @@ of course linguistic proliferation.
 ]
 
 When the mind is busy on these coarse levels, there's no need to try to stop thoughts or analyze content.
-Familiarizing with effortless abiding, the course thoughts will subside and more subtle aspects of mind
+Familiarizing with effortless abiding, the coarse thoughts will subside and more subtle aspects of mind
 will become exposed within volumetric ever-present awareness.
 At this point, awareness can be nascent, seemingly in the background.
 These coarse narratives have heavier, more noticeable weight, so alleviation is somewhat easy to discern.
