@@ -67,7 +67,7 @@ Awareness holds a vast spectrum of activity, from thought movement to emotional 
 
 One of the first "barriers" is the course linguistic mind with its electro-magnetic psychic constraint.
 When we're in thought proliferation it binds us to a smaller dimension of cognition.
-Here, linguistic mind is defined as the inner narrator, story telling,
+Here, linguistic mind is defined as the inner narrator, storytelling,
 imaginations, and ruminations of various types, corresponding with the 6th aspect of
 the 8 aspects of consciousness.
 This could have a somatic location in the brain, indicating itself with a feeling of
