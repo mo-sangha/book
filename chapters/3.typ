@@ -41,7 +41,7 @@ into complete freedom as awareness fully dawns.
   Listen: this is how to apply the teaching.\
   Do not go against what you do,\
   Because doing and not doing are unborn.\
-  By [recognizing] this, whatever you do is the unborn reality. // Source says "knowing".
+  By knowing this, whatever you do is the unborn reality.
 ]
 
 The key point in phase 3 is pure effortless abiding as self-liberation.
