@@ -99,8 +99,14 @@ As the basis for confusion, conditioned agency is relieved and liberated within 
 == #todo([Embracing the Larger Scope])
 /////////////////////////////////////////////////////////////////////////////////
 
-Once karmic cycles are liberated, the enlightened mind is revealed.
+As karmic cycles are liberated, enlightened mind is revealed.
 This includes the four samayas and the five wisdoms in their full fruition.
+There can be a shift here, abandoning the identity we once knew for an known spaciousness
+presenting itself as much more authentic and secure than we could have previously imagined.
+The great triad of kayas are unionizing as pure presence.
+Meaning, the energy of reality, including our own bodies, is realized as nirmanakaya.
+The non-referential cognition is known as sambhogakaya residing in the great spaciousness of dharmakaya.
+Just like we can witness in dreams, there is a co-emergence of cognition and appearances within space.
 
 #quote(block: true, attribution: [Jigme Lingpa @lotsawa-vajra-verses])[
   Remaining genuinely is the dharmakaya,\
@@ -126,18 +132,20 @@ Commenting on the above lines by Jigme Lingpa:
   the inseparability of these qualities.
 ]
 
-=== #todo([The Four Dzogchen Samayas])
-
 
 /////////////////////////////////////////////////////////////////////////////////
 == #todo([Coming to the Decisive Conclusion])
 /////////////////////////////////////////////////////////////////////////////////
 
 Effortlessness is the ultimate remedy.
-One has full confidence in self-liberation. The evidence has presented itself
-in the lack of conditioning. So one continues to release and trust until the
-appearance of an inversion occurs. What was once self-liberating is now seen
-as pure luminosity within a threshold.
+One has full confidence in self-liberation within the context of day and night.
+Like a screen which can display the full cycle of day and night but also a full range of experiences,
+mind is untouched by its own expression.
+
+The evidence for a wider scope of being has presented itself in the lack of conditioning.
+One continues to release and trust until the appearance of an inversion occurs.
+The very mind abiding in awareness is seen as awareness.
+What was once self-liberating is now seen as pure luminosity within a threshold.
 
 This is pure Dzogchen, non-meditation.
 
