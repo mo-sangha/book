@@ -17,7 +17,7 @@
     #set par(justify: false)
     #place(top + center, text(32pt, weight: "bold", book_title))
     #place(horizon + center, image("images/thigle.png", width: 90%))
-    #place(bottom + center, text(24pt, "Lama Dawai Gocha\n& Sangha"))
+    #place(bottom + center, text(24pt, "Lama Dawai Gocha"))
   ]
 )
 
