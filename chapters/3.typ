@@ -101,7 +101,7 @@ As the basis for confusion, conditioned agency is relieved and liberated within 
 
 As karmic cycles are liberated, enlightened mind is revealed.
 This includes the four samayas and the five wisdoms in their full fruition.
-There can be a shift here, abandoning the identity we once knew for an known spaciousness
+There can be a shift here, abandoning the identity we once knew for a known spaciousness
 presenting itself as much more authentic and secure than we could have previously imagined.
 The great triad of kayas are unionizing as pure presence.
 Meaning, the energy of reality, including our own bodies, is realized as nirmanakaya.
