@@ -77,8 +77,8 @@ This can also be termed "cognitive diffusion" and serves as the basis for freedo
   that confused appearance faded into basic space.
 ]
 
-Part of natural confidence within the view is that ineffability is embraced without a need for a view.
-There's no meditation reference to hold or maintain, and conduct is ensured naturally.
+Part of natural confidence within awareness is that ineffability is embraced without a need for holding a view.
+There's no meditation reference to hold or maintain and conduct is ensured naturally.
 This is right view in the pure sense of the eightfold path, which is then accompanied by
 effortless intention, speech, action, livelihood, effort, mindfulness, and concentration.
 As the basis for confusion, conditioned agency is relieved and liberated within its own place.
