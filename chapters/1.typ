@@ -2,16 +2,17 @@
 
 = Revealing the Nature of Mind
 
-Usually a practitioner gets pointing out from an authentic lineage of awareness-realizers,
-whether directly in the face of other people or indirectly from dharma they have published.
-Many teachers are constantly broadcasting this simple truth: we can even find it laced throughout
-sadhanas (practices), mantras, and iconography like thangkas.
-Liberation upon seeing, like in the case of Dakini script, is possible,
-but also hearing, reading, and, perhaps the most direct, a silent mind-to-mind reminder
-from an authentic realized yogi.
-Inquiry discussions can be used to deepen pointing out and really verify.
-Reading primary sources like the Dzogchen scriptures or other related material can
-also serve to remind the practitioner and reveal the nature of mind.
+The nature of mind is your own awareness.
+So simple, like space, we reside within it yet don't realize it as the basis for all experiences.
+Usually a practitioner initially accesses pointing out from an authentic lineage of
+awareness-realizers, whether directly in the face of other people or indirectly from dharma they've published.
+Many teachers are constantly broadcasting this simple truth.
+We can find it laced throughout sadhanas (practices), mantras, and iconography like thangkas.
+Liberation upon seeing, like in the case of Dakini script, but also liberation upon hearing,
+reading, and, perhaps the most direct: a silent mind-to-mind reminder from a realized Yogi.
+Inquiry discussions can be used to deepen pointing out and verify.
+Reading scriptures or other related material can also serve to remind the practitioner,
+cementing recognition of the nature of mind.
 
 #quote(block: true, attribution: [Tulku Urgyen Rinpoche @as-it-is-2])[
   Shantideva said, "Unless you know the secret key point, whatever you do will miss the mark."
