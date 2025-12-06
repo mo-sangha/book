@@ -2,17 +2,15 @@
 
 = Revealing the Nature of Mind
 
-/////////////////////////////////////////////////////////////////////////////////
-== Key Point
-/////////////////////////////////////////////////////////////////////////////////
-
 #quote(block: true, attribution: [Tulku Urgyen Rinpoche @as-it-is-2])[
   Shantideva said, "Unless you know the secret key point, whatever you do will miss the mark."
   The secret key point of mind is that its nature is a self-existing, original wakefulness.
   To identify the key point we need to receive the pointing-out instruction.
 ]
 
-=== The Practitioner is Pointed to the Nature of Mind
+/////////////////////////////////////////////////////////////////////////////////
+== Key Point
+/////////////////////////////////////////////////////////////////////////////////
 
 If pointing out to awareness "as the nature of mind" is successful then there will be an "Ah-ha!" moment,
 even if it's very subtle. Like noticing something that has always been there, we can discern an acknowledgment.
