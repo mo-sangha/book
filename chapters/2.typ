@@ -145,10 +145,6 @@ ultimate truth transcending concepts.
 ]
 
 
-// === #todo([Garab Dorje's Three Statements])
-// #include("garab-dorje.typ")
-
-
 /////////////////////////////////////////////////////////////////////////////////
 == Discerning the Implications
 /////////////////////////////////////////////////////////////////////////////////
@@ -211,15 +207,6 @@ within timeless co-emergence.
   the ultimate meaning of suchness itself has always been spontaneous perfection.\
   How could there be anything to do or any doing?
 ]
-
-// === #todo([During Daily Activities])
-// #todo([TODO: how does familiarization look throughout the day (post-meditation)? Happy states, sad states, etc.])
-
-// === #approval([The Three Modes of Liberation])
-// #include("three-modes.typ")
-
-// === #approval([Tilopa's Six Words of Advice])
-// #include("six-nails.typ")
 
 
 /////////////////////////////////////////////////////////////////////////////////

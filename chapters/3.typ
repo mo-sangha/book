@@ -1,6 +1,6 @@
 #import "../template.typ": *
 
-= #todo([Pure Effortlessness])
+= Pure Effortlessness
 
 Like knowing you have always been at the top of a mountain, there is a release into
 what has always been here: purely present awareness.
@@ -16,7 +16,7 @@ Togal visions 4, 3, and 2 are in this phase.
 This phase may also correspond with bhumis 2-10 and the jhanas, unfolding non-linearly.
 
 /////////////////////////////////////////////////////////////////////////////////
-== #todo([Key Point])
+== Key Point
 /////////////////////////////////////////////////////////////////////////////////
 
 The key point here is that insubstantiality/emptiness is revealed, conditioned self with all its patterns
@@ -59,7 +59,7 @@ With this comes self-liberation of conditioning and the revelation of enlightenm
 
 
 /////////////////////////////////////////////////////////////////////////////////
-== #todo([Discerning the Implications])
+== Discerning the Implications
 /////////////////////////////////////////////////////////////////////////////////
 
 Now we're in the context of total luminosity being exposed as enlightenment.
@@ -96,7 +96,7 @@ As the basis for confusion, conditioned agency is relieved and liberated within 
 
 
 /////////////////////////////////////////////////////////////////////////////////
-== #todo([Embracing the Larger Scope])
+== Embracing the Larger Scope
 /////////////////////////////////////////////////////////////////////////////////
 
 As karmic cycles are liberated, enlightened mind is revealed.
@@ -134,7 +134,7 @@ Commenting on the above lines by Jigme Lingpa:
 
 
 /////////////////////////////////////////////////////////////////////////////////
-== #todo([Coming to the Decisive Conclusion])
+== Coming to the Decisive Conclusion
 /////////////////////////////////////////////////////////////////////////////////
 
 Effortlessness is the ultimate remedy.

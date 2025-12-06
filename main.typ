@@ -51,19 +51,13 @@
 /////////////////////////////////////////////////////////////////////////////////
 
 // Add a little more vertical spacing after the text "Table of Contents".
-#show outline.entry.where(
-  level: 1
-): set block(above: 1.2em)
+// #show outline.entry.where(
+//   level: 1
+// ): set block(above: 1.2em)
 
 #page(
   numbering: "i", // Use a different numbering for the table of contents.
   [
-    Drafting notes:
-    
-    - Sections #todo[in this color] are still in development.
-    - Sections #approval[in this color] need review by Dawai.
-    - Sections in this color have been explicitly approved by Dawai.
-  
     #outline(
       title: [Table of Contents],
       target: heading,
