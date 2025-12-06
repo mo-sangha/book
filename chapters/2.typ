@@ -324,11 +324,21 @@ As we go about day and night, all actions, all realizations, can be left alone t
 
 Confidence in self-liberation begins to come to fruition,
 embracing ineffability and revelation.
+Enough so that the practitioner can now stabilize fully into awareness,
+integrating all experiences, day and night.
 
-Once familiarized, the practitioner embraces effortlessness to a significant degree.
-They are becoming free of inclinations towards antidotes and philosophical views or
-searching for spiritual and mystical remedies.
-While complementary practices may still be used, self-liberation is primary.
+// From the Way of Abiding, p. 131, on the theme of Ineffability.
+#quote(block: true, attribution: [_Kunjed Gyalpo_ @way-of-abiding])[
+  Rest nonconceptually in equipoise, without thinking about anything.
+]
+
+This is Dzogchen samatha stabilization, which takes place when coarse distracting habits
+are relieved, and when distraction from space-like awareness is minimized.
+We can then allow our habit of distraction to resolve itself naturally.
+As stabilization (samatha) blossoms, insight (vipassana) will naturally accompany
+stabilization with wisdom (direct seeing) in the face of non-distraction.
+With further stabilization, the dimensions of visibility increase:
+this is the union of samatha/vipassana.
 
 #quote(block: true, attribution: [Longchenpa @treasure-trove])[
   Your recognition of awareness is challenged when you perceive objects manifesting
@@ -338,6 +348,11 @@ While complementary practices may still be used, self-liberation is primary.
   These can be eliminated by distilling the limpid lucidity of awareness
   and eliciting its unobstructed essence in all its nakedness.
 ]
+
+Once familiarized, the practitioner embraces effortlessness to a significant degree.
+They are becoming free of inclinations towards antidotes and philosophical views or
+searching for spiritual and mystical remedies.
+While complementary practices may still be used, self-liberation is primary.
 
 #quote(block: true, attribution: [Longchenpa @treasure-trove])[ // p.233
   When appearances manifest, when thoughts arise, or at any other time,
@@ -352,6 +367,15 @@ While complementary practices may still be used, self-liberation is primary.
   awareness in all its nakedness.
 ]
 
+Practitioners usually need to get adjusted to pure effortlessness.
+To allow vivid, heavy emotional waves within awareness can be difficult.
+We want to dive into analysis, worry about the emotions, self-judgment, and
+many other distractions from purely present awareness.
+Yet in the very face of that heavy experience, the most vivid recognition
+of awareness can occur.
+When seen as the pure basis for experience, one seemingly reorientates into
+awareness, the 4th time.
+
 #quote(block: true, attribution: [Longchenpa @treasure-trove])[ // p.234
   When something such as an afflictive emotion arises vividly, in letting it arise
   you recognize awareness, elicited in all its nakedness. As you rest without
@@ -360,14 +384,12 @@ While complementary practices may still be used, self-liberation is primary.
   as meditative stability that does not stray from the true nature of phenomena.
 ]
 
-=== #todo([Dzogchen Samatha-Vipassana])
-
-Pith instructions:
-
-// From the Way of Abiding, p. 131, on the theme of Ineffability.
-#quote(block: true, attribution: [_Kunjed Gyalpo_ @way-of-abiding])[
-  Rest nonconceptually in equipoise, without thinking about anything.
-]
+Allowing internal and external realities to be one within space-like awareness is a radical practice.
+We are habitually inclined to "fix" ourselves and pilot reality from the conceptual mind.
+With every ineffable realization comes the conditioned mind trying to squeeze it into an explanation
+or dualistic understanding.
+When realization first occurs, the habit of apprehension claims the realization,
+so continued familiarization is important.
 
 // From Longchenpa, in the context of no need for any mental analysis whatsoever.
 #quote(block: true, attribution: [Longchenpa, _The Basic Space of Phenomena_ @basic-space])[ // p.75
@@ -376,13 +398,22 @@ Pith instructions:
   Let whatever is anything at all be nothing at all.
 ]
 
+We have many ways to observe the weight of our subscriptions into sense objects.
+The subject/action/object spheres are discernible within subtle knowingness.
+So when the mind no longer pulls toward or "grabs" appearances,
+meaning sights, sounds, etc., then there is a great evenness.
+
 #quote(block: true, attribution: [Padmasambhava @self-liberation-through-seeing])[
   Even though these appearances that you perceive do arise,\
   if you do not grasp at them, then that is Buddhahood.
 ]
 
-=== #todo([Togal])
-TODO: "bindus and vajra chains via dream yoga, sky gazing, etc."
+Since introduction to light rays and bindus has taken place, we can begin allowing
+the appearance of internal/external worlds to self-liberate on its own.
+We enter into a path of revelation rather than imputation, of insight rather than inference.
+Just like clear light awareness, we can leave phenomena alone to display the fabric of reality
+as luminosity.
+Visions begin dawning without interference or analysis, normalizing the extraordinary.
 
 #quote(block: true, attribution: [_Reverberation of Sound_ @genuine-meaning])[ // p.158
   In reliance upon genuine bindus, the empty nature of the dharmakaya will be realized.
@@ -390,8 +421,3 @@ TODO: "bindus and vajra chains via dream yoga, sky gazing, etc."
   When familiarity occurs throughout the day and night, visions will effortlessly
   appear as the extent of accomplishment.
 ]
-
-=== #todo([Short Sits])
-=== #todo([Complementary Practices])
-==== #todo([Shifting]) // From recognizing images as awareness, sounds, thoughts, etc etc.
-

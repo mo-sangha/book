@@ -49,6 +49,10 @@ In Mahayana context, this phase corresponds with the 3rd of the 5 paths as state
 ]
 
 In phase 1 we are introduced to the fruit (11th bhumi) as the path.
+This very simple clear light awareness becomes the foundation for one's own refuge
+and serves as the ultimate teacher.
+Dzogchen Guru Yoga means adopting awareness as the Buddha,
+a pure aspect of mind which can be leaned on for the deepest insight.
 
 #quote(block: true, attribution: [Jigme Lingpa @lotsawa-directly-seeing])[
   The essential point of the Great Perfection is this clear, naked awareness---our mind,
@@ -69,6 +73,12 @@ In phase 1 we are introduced to the fruit (11th bhumi) as the path.
 //   within the natural basic space of dharmakaya. The expression "holding to their own place"
 //   refers to recognition of this.
 // ]
+
+Here we have many ways to verify if this simple awareness has been recognized as the nature of mind.
+In the Meditation Online method we don't require preliminaries under the assumption that one has found
+the group and connected in a meaningful way, but also, the person can utilize previous practice,
+even life events, as the preliminary.
+After introduction is verified, it's time to warm to the view.
 
 #quote(block: true, attribution: [His Holiness the 14th Dalai Lama @dalai-lama-dzogchen])[ // p.69
   So, in this present case the view is where you are introduced directly to rigpa,
