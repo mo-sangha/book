@@ -1,9 +1,9 @@
 #import "../template.typ": *
 
-= #todo([Familiarizing With the View and Effortlessness])
+= Familiarizing With the View and Effortlessness
 
 It's most important to remember the recognition you had before.
-If the recognition was vivid enough, then the practitioner can hinge on the recognition,
+If the recognition was vivid enough, then the practitioner can hinge on that recognition,
 taking the fruit as the path, enough to integrate all experiences.
 
 Preliminary dispositions will affect the strength of recognition.
@@ -44,7 +44,7 @@ safety, wisdom, naturalness, and sheer inexpressibility.
 ]
 
 /////////////////////////////////////////////////////////////////////////////////
-== #todo([Key Point])
+== Key Point
 /////////////////////////////////////////////////////////////////////////////////
 
 The key point is integration of the four foundations of mindfulness, internal and external reality, into recognition
@@ -62,7 +62,7 @@ but effortless abiding is the key point of self-liberation.
 One can use the method of looking into the nature of a thought, including emotions and states of consciousness.
 When we're having invasive thoughts, for example, we can turn awareness to the thinking and the thought
 will typically vanish, leaving naked cognizance.
-This is the same as seeing the space in which a thought comes, abides, and ceases.
+This is the same as seeing the space in which thoughts come, abide, and cease.
 Awareness holds a vast spectrum of activity, from thought movement to emotional upheaval.
 
 One of the first "barriers" is the coarse linguistic mind with its electro-magnetic psychic constraint.
@@ -127,8 +127,9 @@ For example, eyes-seeing-birds, ears-hearing-bells.
 The thinking/feeling is based on these interactions, and a sense of self apprehends the thinking/feeling:
 for example, "I like seeing birds."
 If the mind highly favors a particular visual sight, there will be more psychic weight than if no grasping
-were involved, so this weight is naturally discernible within effortlessness.
-Aversion as an inversion will also be discernible within non-referential empty cognizance.
+were involved, so this weight is naturally discernible within effortlessness (see shifting practice, for example).
+
+Aversion as an inversion will also be discernible within non-referential empty cognition.
 Within awareness we can notice ourselves holding visual objects, sounds, tastes, thoughts, emotions, etc.,
 but also the one who's seeing, hearing, tasting, etc. becomes exposed as the taproot of duality and confusion.
 When all three spheres are left be, then all four foundations of mindfulness are naturally within
@@ -149,7 +150,7 @@ ultimate truth transcending concepts.
 
 
 /////////////////////////////////////////////////////////////////////////////////
-== #todo([Discerning the Implications])
+== Discerning the Implications
 /////////////////////////////////////////////////////////////////////////////////
 
 The implications are that we are becoming familiar with the view and effortless abiding,
@@ -158,7 +159,7 @@ which facilitates self-liberation.
 Things are starting to liberate in their own place, and this serves as evidence
 for self-liberation, unveiling confidence in the practitioner.
 
-#quote(block: true, attribution: [Longchenpa @way-of-abiding])[
+#quote(block: true, attribution: [Longchenpa, _The Way of Abiding_ @way-of-abiding])[
   Deliberate action misleads---look at the confusing appearances of samsara.\
   Effort corrupts---think about the machinations of suffering.\
   With virtue and harm, there is an uninterrupted flow of happiness and suffering.\
@@ -172,6 +173,7 @@ effortlessness through validation.
 Within a month of consistent practice, one can verify that, when left alone, there is natural
 resolution to affliction and confusion.
 The plasticity of karmic conditioning can exhaust itself within awareness.
+
 Referencing the 3 modes of liberation, we know when we're seeing an old habit, greeting them
 like an old friend.
 We may even be stuck in a mood we've had many times, like another old friend.
@@ -180,10 +182,10 @@ When we're in a mood, holding a perspective, feeling the somatic contractions, t
 by just letting be within awareness, so it's like a snake uncoiling itself, the 2nd mode of liberation.
 The conditioned self can be like this as well.
 The 3rd mode of liberation is when thoughts flow naturally as expressions of timeless awareness
-without our grasping, fabricating, and elaboration: like a thief entering an empty house,
+without grasping, fabricating, or elaboration: like a thief entering an empty house,
 nothing is lost and evenness prevails.
 No matter how relief is appearing, spaciousness, increased visibility, and other indicators like
-clear light, dream yoga, natural compassion, and bliss will all solve as evidence for this
+clear light, dream yoga, natural compassion, and bliss will all serve as evidence for this
 self-harmonization of consciousness/mind.
 
 #quote(block: true, attribution: [Longchenpa @treasure-trove])[ // p.275
@@ -198,7 +200,8 @@ This then corresponds with the second part of Garab Dorje's 3 statements:
 the practitioner is gaining confidence in self-liberation to the point of complete release.
 Emptiness/insubstantiality is beginning to naturally blossom as the revelation of luminous oneness:
 wisdom and compassion effortlessly revealed non-dualistically.
-Embracing all beings and the world as a teacher, until it's not.
+Embracing all beings and the world, dynamic expressions of awareness, as a teacher, until they're not,
+within timeless co-emergence.
 
 #quote(block: true, attribution: [_Naturally Arising Awareness_ @treasure-trove])[ // p.117
   In atiyoga, great perfection,\
@@ -220,7 +223,7 @@ Embracing all beings and the world as a teacher, until it's not.
 
 
 /////////////////////////////////////////////////////////////////////////////////
-== #todo([Embracing the Larger Scope])
+== Embracing the Larger Scope
 /////////////////////////////////////////////////////////////////////////////////
 
 As coarse and conditioned mind clears up, the lucid aspect of mind begins showing.
@@ -248,7 +251,7 @@ Awareness is now naturally discerning conditioned consciousness (sem, marigpa, a
 from spacious clear wisdom mind (semnyi, rigpa, vidya), self-resolving.
 Spontaneous presence as empty lucidity or empty cognition begins unveiling ultimate truth,
 mind free from division (bodhicitta).
-At first, mind is not empty of subject/object, which are conditioned patterns with momentum.
+At first, mind is not empty of subject and object, which are conditioned karmic patterns with momentum.
 When these patterns exhaust, there is freedom in oneness.
 
 #quote(block: true, attribution: [Longchenpa, _Finding Rest in the Nature of the Mind_ @trilogy-of-rest-vol-1])[
@@ -281,7 +284,8 @@ It's not easy to leave a thought-pattern, habitual tendency, or heavy emotion al
 within pure present knowingness, but as we adjust, as we reorientate into a larger scope of mind,
 these things become like ocean waves arising and naturally subsiding while awareness remains
 firm like a mountain.
-As we go about day and night, all actions, all realizations, can be left alone to flourish without conditioning.
+As we go about day and night, all actions, all realizations, can be left alone to flourish without conditioning
+(the four chokshyaks).
 
 // #quote(block: true, attribution: [Tantra of the Enlightenment of Mahāvairocana TODO])[
 //   When abiding in thought-free samadhi,\
@@ -312,14 +316,9 @@ As we go about day and night, all actions, all realizations, can be left alone t
   And remain naturally in self-perfection: this is Meditation.
 ]
 
-// === #todo([The Four Chokshyaks])
-// #include("chokshyaks.typ")
-
-// === #todo([Distinguishing Consciousness from Wisdom])
-
 
 /////////////////////////////////////////////////////////////////////////////////
-== #todo([Coming to the Decisive Conclusion])
+== Coming to the Decisive Conclusion
 /////////////////////////////////////////////////////////////////////////////////
 
 Confidence in self-liberation begins to come to fruition,
@@ -336,9 +335,9 @@ This is Dzogchen samatha stabilization, which takes place when coarse distractin
 are relieved, and when distraction from space-like awareness is minimized.
 We can then allow our habit of distraction to resolve itself naturally.
 As stabilization (samatha) blossoms, insight (vipassana) will naturally accompany
-stabilization with wisdom (direct seeing) in the face of non-distraction.
+stabilization as wisdom (direct seeing) in the face of non-distraction.
 With further stabilization, the dimensions of visibility increase:
-this is the union of samatha/vipassana.
+this is the union of samatha and vipassana.
 
 #quote(block: true, attribution: [Longchenpa @treasure-trove])[
   Your recognition of awareness is challenged when you perceive objects manifesting
@@ -387,7 +386,7 @@ awareness, the 4th time.
 Allowing internal and external realities to be one within space-like awareness is a radical practice.
 We are habitually inclined to "fix" ourselves and pilot reality from the conceptual mind.
 With every ineffable realization comes the conditioned mind trying to squeeze it into an explanation
-or dualistic understanding.
+or dualistic apprehension.
 When realization first occurs, the habit of apprehension claims the realization,
 so continued familiarization is important.
 
