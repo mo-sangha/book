@@ -1,4 +1,4 @@
-personal_ws-1.1 en 140 utf-8
+personal_ws-1.1 en 145 utf-8
 Abhidhamma
 Aryadeva's
 Atisa
@@ -54,6 +54,7 @@ afflictive
 atiyoga
 avidya
 beginningless
+beingness
 bhumi
 bhumis
 bindus
@@ -65,9 +66,11 @@ chokshyaks
 dalai
 dharmadhatu
 dharmakaya
+dimensionality
 dorje
 dualistic
 dualistically
+dukkha
 dzogchen
 egoic
 eightfold
@@ -97,6 +100,7 @@ nonconceptual
 nonconceptually
 nondual
 obscurations
+omni
 pagebreak
 phet
 png
@@ -119,6 +123,7 @@ samyaksambuddha
 sem
 semnyi
 suchness
+sukha
 supermundane
 sutra
 sutras

@@ -104,6 +104,8 @@
   show "Vidya": [Vidyā]
   show "jhana": [jhāna]
   show "Jhana": [Jhāna]
+  show "tathagata": [tathāgata]
+  show "Tathagata": [Tathāgata]
 
   // Renditions of common Tibetan words.
   show "trekcho": [trekchö]
