@@ -1,4 +1,4 @@
-personal_ws-1.1 en 145 utf-8
+personal_ws-1.1 en 155 utf-8
 Abhidhamma
 Aryadeva's
 Atisa
@@ -6,6 +6,7 @@ Bodhisattvas
 Chatralwa
 Chokshyaks
 Chöying
+Dakini
 Dawai
 Deshek
 Dignaga
@@ -41,8 +42,10 @@ Sangha
 Saraha
 Sera
 Shantideva
+Skt
 Sugata
 TODO
+Tib
 Tilopa's
 Tsewang
 Tulku
@@ -51,6 +54,7 @@ Vipassana
 Yogins
 Yukhok
 afflictive
+ahh
 atiyoga
 avidya
 beginningless
@@ -86,6 +90,7 @@ jhanas
 kalpa
 kaya
 kayas
+kleshas
 knower
 knowingness
 kunsang
@@ -106,6 +111,7 @@ phet
 png
 pristinely
 realizer
+realizers
 rect
 reifications
 reorientate
@@ -113,6 +119,7 @@ reorientates
 rgb
 rigpa
 rtsal
+sadhanas
 samadhi
 samatha
 samaya
@@ -127,8 +134,10 @@ sukha
 supermundane
 sutra
 sutras
+svabhava
 tathagatagarbha
 th
+thangkas
 thigle
 todo
 togal
@@ -144,3 +153,4 @@ vijnana
 vijñana
 vipassana
 wisdoms
+zhin

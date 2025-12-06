@@ -2,6 +2,17 @@
 
 = Revealing the Nature of Mind
 
+Usually a practitioner gets pointing out from an authentic lineage of awareness-realizers,
+whether directly in the face of other people or indirectly from dharma they have published.
+Many teachers are constantly broadcasting this simple truth: we can even find it laced throughout
+sadhanas (practices), mantras, and iconography like thangkas.
+Liberation upon seeing, like in the case of Dakini script, is possible,
+but also hearing, reading, and, perhaps the most direct, a silent mind-to-mind reminder
+from an authentic realized yogi.
+Inquiry discussions can be used to deepen pointing out and really verify.
+Reading primary sources like the Dzogchen scriptures or other related material can
+also serve to remind the practitioner and reveal the nature of mind.
+
 #quote(block: true, attribution: [Tulku Urgyen Rinpoche @as-it-is-2])[
   Shantideva said, "Unless you know the secret key point, whatever you do will miss the mark."
   The secret key point of mind is that its nature is a self-existing, original wakefulness.
@@ -12,45 +23,41 @@
 == Key Point
 /////////////////////////////////////////////////////////////////////////////////
 
-If pointing out to awareness "as the nature of mind" is successful then there will be an "Ah-ha!" moment,
+If pointing out to awareness "as the nature of mind" is successful then there will be an "Ah-ha" moment,
 even if it's very subtle. Like noticing something that has always been there, we can discern an acknowledgment.
-The recognition could also settle in like an emotional "Ah-ha!", but it's undeniable when one
+The recognition could also settle in like an emotional "Ah-ha" or "ahh," but it's undeniable when one
 has recognized naked awareness.
 
 There are many indicators we may use for evidence to verify recognition.
+There can be changes in one's appearance, speech, and thinking in general.
+Recognition can be decoded by acknowledging a subtle awareness now present, even if in the background.
 Beings typically immediately apprehend this recognition, and without guidance could delay
-their familiarization for a significant time. "Apprehend" means we're not leaving it alone
+familiarization for a significant time. "Apprehend" means we're not leaving it alone
 as naked awareness but we form concepts, tell stories about awareness, and lay claim to awareness
 as typical patterned tendencies get mingled in.
 This is why we have a second phase, which is to familiarize with the recognition.
 
-The key point here as the trekcho aspect is that practitioners are pointed to
-awareness as the nature of mind, permeating all experiences.
-
 The togal aspect
 involves introduction to clear light but also to light rays, bindus, and vajra chains,
 which are mind-light phenomena seen by conditioned mind, thereby bridging
-the conditioned mind with pure luminous mind.
-Then conditioned mind is essentially turning in on itself, like water pouring into water,
-as mind recognizing mind.
+the conditioned mind with pure luminosity.
 
 This first phase corresponds to the first of Garab Dorje's three statements:
 "Introducing directly the face of rigpa itself."
+The practitioner has seen clear light awareness: even if a reference emerges,
+this is the basis for the path.
+
 If the practitioner notices bindus (small light spheres within rays) with togal introduction,
 then it corresponds with the first togal vision.
+Now one has been introduced to two aspects of reality never seen before.
+Natural patterns of labeling and apprehending these things will emerge, but ultimately
+we can adjust to leaving these two aspects alone after recognition.
 
-In Mahayana context, this phase corresponds with the 3rd of the 5 paths as stated by Patrul Rinpoche:
-
-#quote(block: true, attribution: [_A Brief Guide to the Stages and Paths of the Bodhisattvas_ @lotsawa-bodhisattva-stages])[
-  The path of seeing is so called because it is the stage at which we first see
-  the supermundane wisdom of the noble ones.
-]
-
-In phase 1 we are introduced to the fruit (11th bhumi) as the path.
+In phase 1 we are introduced to the fruit as the path.
 This very simple clear light awareness becomes the foundation for one's own refuge
 and serves as the ultimate teacher.
 Dzogchen Guru Yoga means adopting awareness as the Buddha,
-a pure aspect of mind which can be leaned on for the deepest insight.
+a pure aspect of mind which can be leaned on for direct insight.
 
 #quote(block: true, attribution: [Jigme Lingpa @lotsawa-directly-seeing])[
   The essential point of the Great Perfection is this clear, naked awareness---our mind,
@@ -95,16 +102,30 @@ After introduction is verified, it's time to warm to the view.
 == Discerning the Implications
 /////////////////////////////////////////////////////////////////////////////////
 
-You are taking the pure aspect of mind, awareness, as the path,
-traditionally called "taking the fruit as the path."
+You have seen the unconditioned clarity aspect of mind (Tib: _rang zhin_, Skt: _svabhava_),
+synonymous with sambhogakaya.
+This enables one to take the pure aspect of mind, awareness, as the path, traditionally called
+"taking the fruit as the path."
 
 The implications of this pointing out are that you now have a foundation for self-liberation.
-You have broken free of karmic practices and the conceptual mind, taking awareness as the path.
+The recognition included "empty cognizance," but the emptiness aspect did not last very long
+due to the immediate apprehension.
+Stories, labels, and other inferences are mixed in shortly after initial recognition.
+Even still, you have loosened from karmic practices and the conceptual mind, seeing awareness as the path.
+Although analysis and speculation may continue, they are seen as inferior to this recognition.
+The conceptual mind itself concedes to the logic of its own limitations,
+acknowledging language constraints and the ever-changing aspect of conceptual existentialism.
 
 #quote(block: true, attribution: [Dignaga @treasure-trove])[
   Conceptualization is the ultimate nonrecognition of awareness.\
   It causes one to fall into the ocean of samsara.
 ]
+
+Once seen and confirmed, there is a very special connection which is undeniable.
+It becomes difficult for anyone to fall back from this recognition as it conventionally
+serves as the ripening of all good deeds, all compassion and honesty.
+The feeling can be like that of seeing one's home after a long time.
+Purely present awareness is then planted into the ground of mind as an unforgettable signpost.
 
 #quote(block: true, attribution: [Longchenpa @treasure-trove])[ // p.28
   _The Compendium_ states:
@@ -112,6 +133,19 @@ You have broken free of karmic practices and the conceptual mind, taking awarene
   However many beings there are, whether inferior, middling, or superior,
   the Sugata has stated that they all come from the nonrecognition of awareness.
 ]
+
+One can easily discern the difference between abiding in a constant train of thought or emotion,
+versus spacious clear cognition.
+Until recognition, a being is confined to smaller dimensions of consciousness
+(thoughts, emotions, body, sense interaction).
+Yet within every thought is awareness, within every sound, emotion, and within
+every sense interaction, there is the same clear knowingness.
+Once recognized, it opens the mind to a dimension free of confinement.
+A mind confused like a person who's heavily intoxicated is now introduced to a refreshing sobriety
+free from the intoxication of afflictions (kleshas).
+One is finally introduced to an alternative to cyclic existence.
+Like drinking water for the first time after a long thirst, it can be very refreshing,
+and the practitioner often bursts into laughter.
 
 #quote(block: true, attribution: [Longchenpa, _The Basic Space of Phenomena_ @basic-space])[
   The world of myriad ways in which beings perceive---and
@@ -132,16 +166,18 @@ You have broken free of karmic practices and the conceptual mind, taking awarene
 == Embracing the Larger Scope
 /////////////////////////////////////////////////////////////////////////////////
 
-In our approach, this recognition sets the precedent and premise for all further engagement,
+In the Meditation Online approach, this recognition sets the precedent and premise for all further engagement,
 including effortlessness and familiarization with your whole mind as the heart essence.
 
-Here we are introduced to ultimate wisdom and compassion, bodhicitta, which in turn blossoms with familiarization
-while karmic conditioning is self-liberated.
+Here we are introduced to ultimate wisdom and compassion, bodhicitta, which in turn blossoms with familiarization,
+while karmic conditioning liberates.
 
 Even if the practitioner only has a slight glimpse, they are introduced to their enlightened
 mind and to the four great Dzogchen samayas. They have fully recognized empty cognizance.
 
 Although true recognition has been ensured, in many cases the view will be apprehended by conditioned mind.
+The larger scope includes being diligent and returning to this recognition.
+At this point, the practitioner has made a profound lineage and mandala connection.
 
 
 /////////////////////////////////////////////////////////////////////////////////
@@ -153,6 +189,9 @@ You have recognized the nature of mind and are ready to move to phase 2.
 You are comfortable enough in your recognition to begin familiarizing with the nature
 of mind, departing from conditioned reality.
 Since recognition has occurred, now cognitive diffusion, or the unbinding of mind, can take place.
+Typically practitioners are inclined to investigate their freedom,
+leading to further immersion into this approach,
+with short sits repeated often, inquiry discussions, and text explorations.
 
 #quote(block: true, attribution: [Longchenpa @treasure-trove])[
   With respect to the very essence of timeless awareness, free of elaboration,

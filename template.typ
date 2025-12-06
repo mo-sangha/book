@@ -106,6 +106,10 @@
   show "Jhana": [Jhāna]
   show "tathagata": [tathāgata]
   show "Tathagata": [Tathāgata]
+  show "sadhana": [sādhanā]
+  show "Sadhana": [Sādhanā]
+  show "svabhava": [svabhāva]
+  show "Svabhava": [Svabhāva]
 
   // Renditions of common Tibetan words.
   show "trekcho": [trekchö]
