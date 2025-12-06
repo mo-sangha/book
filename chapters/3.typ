@@ -2,20 +2,39 @@
 
 = #todo([Pure Effortlessness])
 
-Now the four togal visions have reversed since awareness is "taking over."
-Visions 4, 3, and 2 are in this phase.
-This phase may also correspond with bhumis 2-10, unfolding non-linearly.
+Like knowing you have always been at the top of a mountain, there is a release into
+what has always been here: purely present awareness.
+Like letting a fire die out by itself, we can now allow mental/emotional conditioned patterns,
+including the root pattern of egoic apprehension, to exhaust.
+Previously, we were orientated into the fire, but now we are like space itself in which the fire is burning.
+Pure effortless abiding is accompanied by constant self-liberation or self-harmonization.
+Now the very mind which was seeking is allowed to invert as awareness, non-dual mind.
 
+In regards to the elements and reality itself, now the four togal visions have reversed and
+awareness is beginning to saturate body, speech, mind, and reality as it was once known.
+Togal visions 4, 3, and 2 are in this phase.
+This phase may also correspond with bhumis 2-10 and the jhanas, unfolding non-linearly.
 
 /////////////////////////////////////////////////////////////////////////////////
 == #todo([Key Point])
 /////////////////////////////////////////////////////////////////////////////////
 
-The key point in phase 3 is pure effortless abiding as self-liberation.
+The key point here is that insubstantiality/emptiness is revealed, conditioned self with all its patterns
+is liberated in its own place, like a piece of ice melting back into a lake.
+The 8 consciousnesses and 5 elements turn to five non-referential aspects of pure mind, known as the 5 wisdoms.
 
-The practitioner has familiarized with effortless abiding without the need
-for any other practices. With this comes self-liberation of conditioning and
-the revelation of enlightenment.
+#quote(block: true, attribution: [_Naturally Arising Awareness_ @treasure-trove])[ // p.119
+  In atiyoga, great perfection,\
+  it is said that there is no fruition to achieve.\
+  The fruition is not created, but occurs naturally.
+]
+
+Referentiality is being allowed to subside as the way of abiding, free of karmic conditioning.
+Here the discernment between purity and conditioning is a stark contrast, like knowing whether the hand
+is making a fist or not.
+Liberation is allowed to naturally take place in the face of non-doing.
+Like a flower slowly being illuminated by the sunrise, the practitioner is taken
+into complete freedom as awareness fully dawns.
 
 // In the section "Making Your Free Behavior the Path"
 #quote(block: true, attribution: [Longchenpa, _The Jewel Ship_ @you-are-the-eyes-of-the-world])[
@@ -25,33 +44,30 @@ the revelation of enlightenment.
   By [recognizing] this, whatever you do is the unborn reality. // Source says "knowing".
 ]
 
-=== #todo([The Third Mode of Liberation TODO: Different title?])
-The three modes of liberation are taking place naturally, and one
-enters into the stream of nirvana for the natural exhaustion of conditioning.
+The key point in phase 3 is pure effortless abiding as self-liberation.
+The practitioner has familiarized with effortless abiding without the need for any other practices.
+With this comes self-liberation of conditioning and the revelation of enlightenment.
 
 #quote(block: true, attribution: [Longchenpa, _The Way of Abiding_ @way-of-abiding])[
-  Whatever appears and whatever arises,\
+  Whatever appears and whatever arises,
   all things that proliferate and abide as dynamic expressions of awareness---such
   as the five emotional poisons---no matter how they arise, even as they do so
   there is recognition, perfection of their dynamic energy, and their natural
   fading, leaving no trace.
 ]
 
-#quote(block: true, attribution: [_Naturally Arising Awareness_ @treasure-trove])[ // p.119
-  In atiyoga, great perfection,\
-  it is said that there is no fruition to achieve.\
-  The fruition is not created, but occurs naturally.
-]
 
 
 /////////////////////////////////////////////////////////////////////////////////
 == #todo([Discerning the Implications])
 /////////////////////////////////////////////////////////////////////////////////
 
+Now we're in the context of total luminosity being exposed as enlightenment.
 The implications are that conditioning is allowed to be freed in its own place.
 Due to a lack of effort, there is a lack of karma.
 The ultimate implication is that one becomes free of karma altogether,
 unbinding from conditioned existence.
+This can also be termed "cognitive diffusion" and serves as the basis for freedom.
 
 #quote(block: true, attribution: [Sera Khandro @lotsawa-excellent-path])[
   I relaxed momentarily\
@@ -60,6 +76,12 @@ unbinding from conditioned existence.
   And like a dream,\
   that confused appearance faded into basic space.
 ]
+
+Part of natural confidence within the view is that ineffability is embraced without a need for a view.
+There's no meditation reference to hold or maintain, and conduct is ensured naturally.
+This is right view in the pure sense of the eightfold path, which is then accompanied by
+effortless intention, speech, action, livelihood, effort, mindfulness, and concentration.
+As the basis for confusion, conditioned agency is relieved and liberated within its own place.
 
 #quote(block: true, attribution: [Jigme Lingpa @lotsawa-vajra-verses])[
   Rigpa has always been free from conceptual elaboration.\

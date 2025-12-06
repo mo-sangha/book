@@ -102,6 +102,8 @@
   show "Mahayana": [Mahāyāna]
   show "vidya": [vidyā]
   show "Vidya": [Vidyā]
+  show "jhana": [jhāna]
+  show "Jhana": [Jhāna]
 
   // Renditions of common Tibetan words.
   show "trekcho": [trekchö]
