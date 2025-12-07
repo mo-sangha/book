@@ -153,7 +153,7 @@ This is pure Dzogchen, non-meditation.
   I have revealed that there is no view to cultivate in meditation.\
   I have revealed that there is no samaya to uphold.\
   I have revealed that there is no enlightened activity involving effort.\
-  I have revealed that three are no paths to traverse.\
+  I have revealed that there are no paths to traverse.\
   I have revealed that there are no levels of realization to determine.\
   Timeless awareness does not entail concepts and involves no specific conduct.\
   The true nature of phenomena, just as it is, cannot be contrived.
