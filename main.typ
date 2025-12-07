@@ -40,6 +40,8 @@
     Copyright © #datetime.today().display("[year]"), Lama Dawai Gocha.
 
     Licensed under CC BY-NC-SA 4.0.
+
+    No AI was used in the making of this text.
   ]
 )
 
