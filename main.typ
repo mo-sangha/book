@@ -15,9 +15,9 @@
   margin: auto,
   [
     #set par(justify: false)
-    #place(top + center, text(32pt, weight: "bold", book_title))
+    #place(top + center, text(40pt, weight: "bold", book_title))
     #place(horizon + center, image("images/thigle.png", width: 90%))
-    #place(bottom + center, text(24pt, "Lama Dawai Gocha"))
+    #place(bottom + center, text(30pt, "Lama Dawai Gocha"))
   ]
 )
 
