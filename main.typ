@@ -14,8 +14,13 @@
   numbering: none,
   margin: auto,
   [
+    #set par(spacing: 0em)
     #set par(justify: false)
-    #place(top + center, text(40pt, weight: "bold", book_title))
+    #place(top + center, [
+      #text(40pt, weight: "bold", "Beyond Recognition")\
+      #v(4pt)\
+      #text(28pt, weight: "bold", "Four Phases of Freedom")
+    ])
     #place(horizon + center, image("images/thigle.png", width: 90%))
     #place(bottom + center, text(30pt, "Lama Dawai Gocha"))
   ]
