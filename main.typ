@@ -21,7 +21,10 @@
       #v(4pt)\
       #text(28pt, weight: "bold", "Four Phases of Freedom")
     ])
-    #place(horizon + center, image("images/thigle.png", width: 90%))
+    #place(horizon + center, [
+      #v(40pt)
+      #image("images/thigle.png", width: 90%)
+    ])
     #place(bottom + center, text(30pt, "Lama Dawai Gocha"))
   ]
 )
