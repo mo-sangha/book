@@ -7,8 +7,8 @@ If the recognition was vivid enough, then the practitioner can hinge on that rec
 taking the fruit as the path, enough to integrate all experiences.
 
 Preliminary dispositions will affect the strength of recognition.
-If someone has done years of meditation, ngondro practices, or even has had life
-changing experiences, it could determine the depth of recognition and familiarization.
+If someone has done years of meditation, ngondro practices, or even has had
+life-changing experiences, it could determine the depth of recognition and familiarization.
 Here the practitioner is not advised to add more practices, vows, or anything else, but
 to simply add awareness to your current disposition. Within a month of short sessions
 repeated often, there will be stability (Dzogchen samatha).
