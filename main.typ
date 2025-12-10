@@ -92,8 +92,11 @@
 #counter(page).update(1) // For the rest of the book, switch back to "1, 2, 3" page numbering.
 
 #include("chapters/1.typ")
+#pagebreak(weak: true)
 #include("chapters/2.typ")
+#pagebreak(weak: true)
 #include("chapters/3.typ")
+#pagebreak(weak: true)
 #include("chapters/4.typ")
 
 /////////////////////////////////////////////////////////////////////////////////
