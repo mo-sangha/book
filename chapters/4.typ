@@ -10,7 +10,7 @@
 Enlightenment in its full fruition.
 The taproot of conditioned existence, which is the conditioned self, has been uprooted.
 Appearances involving identity are liberated as luminosity unconfined by reification.
-The ignorance/confusion that initiates cyclic existence and the 12 links
+The ignorance/confusion that initiates cyclic existence and the twelve links
 of dependent origination has been totally exhausted.
 One's mind is no longer fabricating mind-luminosity into the reifications of the elements.
 One is embraced within tathagatagarbha, the womb and absolute basis, which
@@ -18,9 +18,9 @@ completely exposes itself as a pure consciousness dimension (pure land).
 This is traditionally known as the heart essence because non-referential compassion
 naturally unveils itself. Wisdom and compassion have come to their full fruition.
 
-The first vision is realized as true emptiness/freedom from the conditioned self (11th bhumi)
+The first vision is realized as true emptiness/freedom from the conditioned self (eleventh bhumi)
 and is synonymous with samyaksaṃbuddha, full enlightenment. More specifically, this phase describes complete
-freedom of the 7th egoic consciousness (mānas-vijñāna)/the conditioned pattern of apprehending
+freedom of the seventh egoic consciousness (mānas-vijñāna)/the conditioned pattern of apprehending
 and dividing.
 
 #quote(block: true, attribution: [Atiśa @lotsawa-casket])[
@@ -49,7 +49,7 @@ discernment, all-accomplishing, mirror-like, and dharmadhatu as a counterpart to
 poisons, five elements, and the reifications of conditioned mind in ten directions.
 
 Time and space have lost their identity as pure presence, infinitely open,
-is allowed to flourish as all-encompassing (fruition of the 4 Dzogchen samayas).
+is allowed to flourish as all-encompassing (fruition of the four Dzogchen samayas).
 Wisdom, or super-cognition, shines in a volumetric way which ensures the first wisdom of equality,
 meaning awareness is omni-present in and as people, as objects both animate and inanimate.
 Wisdom of discernment without effort is ensured even in the appearance of conventional effort

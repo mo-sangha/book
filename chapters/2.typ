@@ -49,7 +49,7 @@ safety, wisdom, naturalness, and sheer inexpressibility.
 
 The key point is integration of the four foundations of mindfulness, internal and external reality, into recognition
 via effortless abiding, gaining confidence in self-liberation. What appears to be liberating?
-The 8 aspects of consciousness, 5 afflictions, 5 elements, 3 poisons, self, and other.
+The eight aspects of consciousness, five afflictions, five elements, three poisons, self, and other.
 
 There are several provisional methods we can use to familiarize with the view,
 but effortless abiding is the key point of self-liberation.
@@ -68,8 +68,8 @@ Awareness holds a vast spectrum of activity, from thought movement to emotional 
 One of the first "barriers" is the coarse linguistic mind with its electro-magnetic psychic constraint.
 When we're in thought proliferation it binds us to a smaller dimension of cognition.
 Here, linguistic mind is defined as the inner narrator, storytelling,
-imaginations, and ruminations of various types, corresponding with the 6th aspect of
-the 8 aspects of consciousness.
+imaginations, and ruminations of various types, corresponding with the sixth aspect of
+the eight aspects of consciousness.
 This could have a somatic location in the brain, indicating itself with a feeling of
 noticeable contraction in the soft tissue of the brain and along the neck.
 Facial indications can also be visible during the psychic contraction
@@ -101,7 +101,7 @@ We can feel it when thinking slows down, but also our investment into the thinki
   // In one instant of remaining in unfabricated naturalness, a kalpa of negative karma is purified.
 ]
 
-Emotions (also corresponding with the 6th aspect) are another kind of thought that the mind is having,
+Emotions (also corresponding with the sixth aspect) are another kind of thought that the mind is having,
 but with more body weight than coarse surface thinking.
 In this approach, there's nothing to do with emotions either: they are left in awareness
 during short sessions and also during the normal day/night.
@@ -109,7 +109,7 @@ They can be left as pure energy in awareness as labeling and analysis subside.
 When, through effortlessness, emotions become lighter and coarse thinking has ceased fusing the mind,
 there are more aspects of experience being exposed.
 Particularly the subjective sense of "the one who is thinking," which is like an emotion yet even more subtle.
-This is what's considered the 7th egoic consciousness, or conditioned self, the watcher, the witness,
+This is what's considered the seventh egoic consciousness, or conditioned self, the watcher, the witness,
 and many other names.
 
 // TODO: The quote here is quoting another work.
@@ -121,7 +121,7 @@ and many other names.
   "Rest in the aspect of awareness, beyond all description."
 ]
 
-Within awareness are the 3 spheres of conceptual consciousness: subject, action, and object, which
+Within awareness are the three spheres of conceptual consciousness: subject, action, and object, which
 correspond with the five senses.
 For example, eyes-seeing-birds, ears-hearing-bells.
 The thinking/feeling is based on these interactions, and a sense of self apprehends the thinking/feeling:
@@ -170,14 +170,14 @@ Within a month of consistent practice, one can verify that, when left alone, the
 resolution to affliction and confusion.
 The plasticity of karmic conditioning can exhaust itself within awareness.
 
-Referencing the 3 modes of liberation, we know when we're seeing an old habit, greeting them
+Referencing the three modes of liberation, we know when we're seeing an old habit, greeting them
 like an old friend.
 We may even be stuck in a mood we've had many times, like another old friend.
 Invasive thoughts, bodily aches, and stories can all be considered like that from the point of view of awareness.
 When we're in a mood, holding a perspective, feeling the somatic contractions, this can be relieved
-by just letting be within awareness, so it's like a snake uncoiling itself, the 2nd mode of liberation.
+by just letting be within awareness, so it's like a snake uncoiling itself, the second mode of liberation.
 The conditioned self can be like this as well.
-The 3rd mode of liberation is when thoughts flow naturally as expressions of timeless awareness
+The third mode of liberation is when thoughts flow naturally as expressions of timeless awareness
 without grasping, fabricating, or elaboration: like a thief entering an empty house,
 nothing is lost and evenness prevails.
 No matter how relief is appearing, spaciousness, increased visibility, and other indicators like
@@ -192,7 +192,7 @@ self-harmonization of consciousness/mind.
   in terms of identity.
 ]
 
-This then corresponds with the second part of Garab Dorje's 3 statements:
+This then corresponds with the second part of Garab Dorje's three statements:
 the practitioner is gaining confidence in self-liberation to the point of complete release.
 Emptiness/insubstantiality is beginning to naturally blossom as the revelation of luminous oneness:
 wisdom and compassion effortlessly revealed non-dualistically.
@@ -250,7 +250,7 @@ When these patterns exhaust, there is freedom in oneness.
   There's no agent; there's no object of its action.
 ]
 
-The watcher, or conditioned self, is also known as the 7th aspect of consciousness.
+The watcher, or conditioned self, is also known as the seventh aspect of consciousness.
 This is a "thought" in the sense of being a programmed tendency for apprehension.
 For example: "I like ice cream," "My name is John," "My favorite color is red."
 When this reference point is left alone within awareness, there can be equality and evenness
@@ -360,7 +360,7 @@ many other distractions from purely present awareness.
 Yet in the very face of that heavy experience, the most vivid recognition
 of awareness can occur.
 When seen as the pure basis for experience, one seemingly reorientates into
-awareness, the 4th time.
+awareness, the fourth time.
 
 #quote(block: true, attribution: [Longchenpa @treasure-trove])[ // p.234
   When something such as an afflictive emotion arises vividly, in letting it arise

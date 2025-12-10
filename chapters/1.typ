@@ -55,7 +55,7 @@ Now one has been introduced to two aspects of reality never seen before.
 Natural patterns of labeling and apprehending these things will emerge, but ultimately
 we can adjust to leaving these two aspects alone after recognition.
 
-In phase 1 we are introduced to the fruit as the path.
+In phase one we are introduced to the fruit as the path.
 This very simple clear light awareness becomes the foundation for one's own refuge
 and serves as the ultimate teacher.
 Dzogchen Guru Yoga means adopting awareness as the Buddha,
@@ -186,7 +186,7 @@ At this point, the practitioner has made a profound lineage and mandala connecti
 == Coming to the Decisive Conclusion
 /////////////////////////////////////////////////////////////////////////////////
 
-You have recognized the nature of mind and are ready to move to phase 2.
+You have recognized the nature of mind and are ready to move to phase two.
 
 You are comfortable enough in your recognition to begin familiarizing with the nature
 of mind, departing from conditioned reality.

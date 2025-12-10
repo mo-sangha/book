@@ -12,7 +12,7 @@ Now the very mind which was seeking is allowed to invert as awareness, non-dual 
 
 In regards to the elements and reality itself, now the four togal visions have reversed and
 awareness is beginning to saturate body, speech, mind, and reality as it was once known.
-Togal visions 4, 3, and 2 are in this phase.
+Togal visions four, three, and two are in this phase.
 This phase may also correspond with bhumis 2-10 and the jhanas, unfolding non-linearly.
 
 /////////////////////////////////////////////////////////////////////////////////
@@ -21,7 +21,8 @@ This phase may also correspond with bhumis 2-10 and the jhanas, unfolding non-li
 
 The key point here is that insubstantiality/emptiness is revealed, conditioned self with all its patterns
 is liberated in its own place, like a piece of ice melting back into a lake.
-The 8 consciousnesses and 5 elements turn to five non-referential aspects of pure mind, known as the 5 wisdoms.
+The eight consciousnesses and five elements turn to five non-referential aspects of pure mind,
+known as the five wisdoms.
 
 #quote(block: true, attribution: [_Naturally Arising Awareness_ @treasure-trove])[ // p.119
   In atiyoga, great perfection,\
@@ -44,7 +45,7 @@ into complete freedom as awareness fully dawns.
   By knowing this, whatever you do is the unborn reality.
 ]
 
-The key point in phase 3 is pure effortless abiding as self-liberation.
+The key point in phase three is pure effortless abiding as self-liberation.
 The practitioner has familiarized with effortless abiding without the need for any other practices.
 With this comes self-liberation of conditioning and the revelation of enlightenment.
 
