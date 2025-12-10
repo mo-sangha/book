@@ -18,7 +18,7 @@ is cognition looking into cognition.
 
 Just like looking at a thought, there is a feeling of a watcher, an observer,
 which can also be looked at with awareness.
-This corresponds to the 7th aspect of consciousness in the Abhidhamma, known
+This corresponds to the seventh aspect of consciousness in the Abhidhamma, known
 as manas-vijnana.
 When this aspect of consciousness settles in its own place, it's like water
 being poured into water, since awareness is cognition looking at cognition.
