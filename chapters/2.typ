@@ -1,6 +1,6 @@
 #import "../template.typ": *
 
-= Familiarizing With the View and Effortlessness
+= Familiarizing with the View and Effortlessness
 
 It's most important to remember the recognition you had before.
 If the recognition was vivid enough, then the practitioner can hinge on that recognition,
