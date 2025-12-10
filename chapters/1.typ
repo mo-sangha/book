@@ -4,6 +4,7 @@
 
 The nature of mind is your own awareness.
 So simple, like space, we reside within it yet don't realize it as the basis for all experiences.
+
 Usually a practitioner initially accesses pointing out from an authentic lineage of
 awareness-realizers, whether directly in the face of other people or indirectly from dharma they've published.
 Many teachers are constantly broadcasting this simple truth.

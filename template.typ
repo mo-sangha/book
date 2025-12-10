@@ -20,6 +20,10 @@
   text(fill: purple, [#words])
 }
 
+// Shorthand for headings that don't appear in the numbering, like the foreword.
+// Example usage: `#no_outline[= Heading]`
+#let no_outline(it) = {set heading(numbering: none, outlined: false); it}
+
 /////////////////////////////////////////////////////////////////////////////////
 // Style and Layout
 /////////////////////////////////////////////////////////////////////////////////

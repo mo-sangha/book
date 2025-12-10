@@ -6,6 +6,7 @@ all:
 # Adding terms in aspell will automatically add to dictionary.txt.
 .PHONY: spell
 spell:
+	LANG=en_US.utf8 aspell --home-dir=. --personal=dictionary.txt check chapters/foreword.typ
 	LANG=en_US.utf8 aspell --home-dir=. --personal=dictionary.txt check chapters/1.typ
 	LANG=en_US.utf8 aspell --home-dir=. --personal=dictionary.txt check chapters/pointing-out.typ
 	LANG=en_US.utf8 aspell --home-dir=. --personal=dictionary.txt check chapters/2.typ
