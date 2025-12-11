@@ -110,7 +110,7 @@ When, through effortlessness, emotions become lighter and coarse thinking has ce
 there are more aspects of experience being exposed.
 Particularly the subjective sense of "the one who is thinking," which is like an emotion yet even more subtle.
 This is what's considered the seventh egoic consciousness, or conditioned self, the watcher, the witness,
-and many other names.
+and goes by many other names.
 
 // TODO: The quote here is quoting another work.
 #quote(block: true, attribution: [Patrul Rinpoche @dalai-lama-dzogchen])[ // p.73
@@ -182,7 +182,7 @@ without grasping, fabricating, or elaboration: like a thief entering an empty ho
 nothing is lost and evenness prevails.
 No matter how relief is appearing, spaciousness, increased visibility, and other indicators like
 clear light, dream yoga, natural compassion, and bliss will all serve as evidence for this
-self-harmonization of consciousness/mind.
+self-harmonization of mind.
 
 #quote(block: true, attribution: [Longchenpa @treasure-trove])[ // p.275
   Understand that ordinary confused mind---which is rooted in the nonrecognition of awareness,
@@ -196,8 +196,7 @@ This then corresponds with the second part of Garab Dorje's three statements:
 the practitioner is gaining confidence in self-liberation to the point of complete release.
 Emptiness/insubstantiality is beginning to naturally blossom as the revelation of luminous oneness:
 wisdom and compassion effortlessly revealed non-dualistically.
-Embracing all beings and the world, dynamic expressions of awareness, as a teacher, until they're not,
-within timeless co-emergence.
+Warmly embracing all beings and the world, dynamic expressions of awareness, as timeless co-emergence.
 
 #quote(block: true, attribution: [_Naturally Arising Awareness_ @treasure-trove])[ // p.117
   In atiyoga, great perfection,\
@@ -234,11 +233,14 @@ to include all four postures, day, and night.
   state, and confusion to enhance the path is simply to rest in the natural state.
 ]
 
-Awareness is now naturally discerning conditioned consciousness (sem, marigpa, avidya)
-from spacious clear wisdom mind (semnyi, rigpa, vidya), self-resolving.
+Awareness is now naturally discerning and self-resolving conditioned consciousness (sem, marigpa, avidya)
+from spacious pure cognition (semnyi, rigpa, vidya).
 Spontaneous presence as empty lucidity or empty cognition begins unveiling ultimate truth,
 mind free from division (bodhicitta).
-At first, mind is not empty of subject and object, which are conditioned karmic patterns with momentum.
+In the beginning, mind is divided with an orientation into subject and object,
+conditioned by programming, or karmic patterns.
+Like throwing a rock in the air, these patterns have momentum and will oscillate throughout
+sky-like awareness, eventually losing strength in the face of effortlessness.
 When these patterns exhaust, there is freedom in oneness.
 
 #quote(block: true, attribution: [Longchenpa, _Finding Rest in the Nature of the Mind_ @trilogy-of-rest-vol-1])[
@@ -318,12 +320,14 @@ integrating all experiences, day and night.
   Rest nonconceptually in equipoise, without thinking about anything.
 ]
 
-This is Dzogchen samatha stabilization, which takes place when coarse distracting habits
-are relieved, and when distraction from space-like awareness is minimized.
+This is Dzogchen samatha stabilization, inseparable from vipassana insight,
+which takes place when coarse distracting habits
+are relieved and distraction from space-like awareness is minimized.
 We can then allow our habit of distraction to resolve itself naturally.
-As stabilization (samatha) blossoms, insight (vipassana) will naturally accompany
-stabilization as wisdom (direct seeing) in the face of non-distraction.
-With further stabilization, the dimensions of visibility increase:
+As stabilization (samatha) blossoms, insight (vipassana) will naturally arise (direct seeing)
+in the face of non-distraction.
+With further stabilization, the dimensions of visibility increase
+and the spectrum of cognition becomes limitless:
 this is the union of samatha and vipassana.
 
 #quote(block: true, attribution: [Longchenpa @treasure-trove])[
@@ -335,10 +339,13 @@ this is the union of samatha and vipassana.
   and eliciting its unobstructed essence in all its nakedness.
 ]
 
-Once familiarized, the practitioner embraces effortlessness to a significant degree.
-They are becoming free of inclinations towards antidotes and philosophical views or
-searching for spiritual and mystical remedies.
-While complementary practices may still be used, self-liberation is primary.
+When completely embraced from start to finish, these cycles lose their power.
+There can be insight when triggers begin as subtle thoughts,
+leading into a contraction of consciousness as a kind of pre-production.
+At times, we may get led into an old cycle, the production, which captivates the mind,
+but awareness will still be present as the basis.
+In post-production, we may have shame and regret, but these energies are also left
+alone, so the entire cycle may exhaust (nirvana).
 
 #quote(block: true, attribution: [Longchenpa @treasure-trove])[ // p.233
   When appearances manifest, when thoughts arise, or at any other time,
@@ -355,12 +362,12 @@ While complementary practices may still be used, self-liberation is primary.
 
 Practitioners usually need to get adjusted to pure effortlessness.
 To allow vivid, heavy emotional waves within awareness can be difficult.
-We want to dive into analysis, worry about the emotions, self-judgment, and
-many other distractions from purely present awareness.
+We habitually dive into analysis, worry about the emotions, self-judge, and
+take part in many other distractions from purely present awareness.
 Yet in the very face of that heavy experience, the most vivid recognition
 of awareness can occur.
-When seen as the pure basis for experience, one seemingly reorientates into
-awareness, the fourth time.
+We begin to truly realize the pure basis of all experience.
+One seemingly reorientates into pure consciousness: empty cognizance as the fourth time.
 
 #quote(block: true, attribution: [Longchenpa @treasure-trove])[ // p.234
   When something such as an afflictive emotion arises vividly, in letting it arise
