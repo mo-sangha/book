@@ -16,16 +16,16 @@ mahasandhi, dzogchen, and many more.
 
 If you take the example of a cup of coffee: then it's like we've spent countless years thinking
 we are the coffee instead of the water.
-During recognition we have a moment, an instant of seeing pure water, but the coffee soon returns.
+During recognition we have an instance of seeing pure water, but our involvement into the coffee soon returns.
 What remains is the recognition of water as the basis, and now that the practitioner has caught a glimpse,
 it doesn't go away.
 Metaphorically speaking, we reorientate from the coffee into the water, allowing the coffee
-to naturally disappear on its own.
+to naturally disappear on its own as self-liberation.
 Coffee is a metaphor for karma, or conditioned mind.
-If we reside in the karma then we're creating even more:
-cycling, stirring conditioning while contracting into movement, we get lost.
-We build worlds within the turbulence of stirring mind only to have impermanence show the futility.
-Pointing out the nature of mind finally shows us the exit.
+If we reside in the karma then we're creating more
+cycling, stirring, conditioning while contracting into movement.
+We build worlds within the turbulence of stirring mind only to have impermanence show us futility.
+Pointing out the nature of mind finally shows us an alternative.
 
 Usually a practitioner initially accesses pointing out from an authentic lineage of
 awareness-realizers, whether directly in the face of other people or indirectly from dharma they've published.
@@ -35,7 +35,7 @@ Liberation upon seeing, like in the case of Dakini script, but also liberation u
 reading, and, perhaps the most direct: a silent mind-to-mind reminder from a realized Yogi.
 Inquiry discussions can be used to deepen pointing out and verify.
 Reading scriptures or other related material can also serve to remind the practitioner,
-cementing recognition of the nature of mind.
+strengthening recognition of the nature of mind.
 
 #quote(block: true, attribution: [Tulku Urgyen Rinpoche @as-it-is-2])[
   Shantideva said, "Unless you know the secret key point, whatever you do will miss the mark."
@@ -73,8 +73,11 @@ this is the basis for the path.
 
 If the practitioner notices bindus (small light spheres within rays) with togal introduction,
 then it corresponds with the first togal vision.
-Now one has been introduced to two aspects of reality never seen before.
-Natural patterns of labeling and apprehending these things will emerge, but ultimately
+This serves as pointing out the nature within phenomena.
+Now one has been introduced to two aspects of reality, which are one and the same:
+the nature of subjective cognition and the nature of the sense world.
+This is the precedent for both spectrums to release from conditioning.
+Natural patterns of labeling and apprehending will emerge, but ultimately
 we can adjust to leaving these two aspects alone after recognition.
 
 In phase one we are introduced to the fruit as the path.
@@ -107,7 +110,9 @@ Here we have many ways to verify if this simple awareness has been recognized as
 In the Meditation Online method we don't require preliminaries under the assumption that one has found
 the group and connected in a meaningful way, but also, the person can utilize previous practice,
 even life events, as the preliminary.
-After introduction is verified, it's time to warm to the view.
+
+After introduction is verified, we can familiarize with pure consciousness,
+embracing the ineffability of our recognition and allowing freedom to unfold.
 
 #quote(block: true, attribution: [His Holiness the 14th Dalai Lama @dalai-lama-dzogchen])[ // p.69
   So, in this present case the view is where you are introduced directly to rigpa,
@@ -208,14 +213,15 @@ At this point, the practitioner has made a profound lineage and mandala connecti
 == Coming to the Decisive Conclusion
 /////////////////////////////////////////////////////////////////////////////////
 
-You have recognized the nature of mind and are ready to move to phase two.
+You have broken the link that previously chained you to conditioned reality.
+You are comfortable enough in your recognition to begin familiarizing with the nature of mind.
 
-You are comfortable enough in your recognition to begin familiarizing with the nature
-of mind, departing from conditioned reality.
-Since recognition has occurred, now cognitive diffusion, or the unbinding of mind, can take place.
-Typically practitioners are inclined to investigate their freedom,
-leading to further immersion into this approach,
-with short sits repeated often, inquiry discussions, and text explorations.
+Since recognition has occurred, cognitive diffusion, or the unbinding of mind, can take place.
+Self-liberation has a foundation in awareness.
+
+Further immersion into this approach can be found with short sits repeated often,
+inquiry discussions, and text explorations.
+Integration of the view with one's day and night is the highest benefit to oneself and others.
 
 #quote(block: true, attribution: [Longchenpa @treasure-trove])[
   With respect to the very essence of timeless awareness, free of elaboration,
