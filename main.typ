@@ -54,16 +54,25 @@
 )
 
 #pagebreak()
-#counter(page).update(1) // Don't count this page either
 
 /////////////////////////////////////////////////////////////////////////////////
-// Foreword
+// Acknowledgements, Foreword, etc.
 /////////////////////////////////////////////////////////////////////////////////
 
-#include("chapters/foreword.typ")
+#counter(page).update(1)
 
-#pagebreak(weak: true)
-#counter(page).update(1) // Don't count this page either
+#page(
+  numbering: "i",
+  [
+    #include("chapters/acknowledgements.typ")
+    #pagebreak(weak: true)
+
+    #include("chapters/foreword.typ")
+    #pagebreak(weak: true)
+  ]
+)
+
+
 
 /////////////////////////////////////////////////////////////////////////////////
 // Table of Contents

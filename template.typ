@@ -116,6 +116,8 @@
   show "Svabhava": [Svabhāva]
   show "Mahasandhi": [Mahāsaṅdhi]
   show "mahasandhi": [mahāsaṅdhi]
+  show "yana": [yāna]
+  show "Yana": [Yāna]
 
   // Renditions of common Tibetan words.
   show "trekcho": [trekchö]
