@@ -11,7 +11,7 @@ No matter which type of emotion, thought pattern, or bodily sensation oscillates
 it remains like space, unchanging and purely present.
 
 The recognition of this aspect of your mind can be familiar, since it has been like this since beginningless time.
-A warm embrace that goes by ancient names like Buddha-nature, tathagatagarbha, svabhava, sahaja,
+A warm embrace that goes by ancient names like tathagatagarbha (Buddha-nature), svabhava, sahaja,
 mahasandhi, dzogchen, and many more.
 
 If you take the example of a cup of coffee: then it's like we've spent countless years thinking

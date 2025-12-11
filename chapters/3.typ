@@ -11,9 +11,9 @@ Pure effortless abiding is accompanied by constant self-liberation or self-harmo
 Now the very mind which was seeking is allowed to invert as awareness, non-dual mind.
 
 In regards to the elements and reality itself, now the four togal visions have reversed and
-awareness is beginning to saturate body, speech, mind, and reality as it was once known.
+awareness is beginning to saturate body, speech, mind, and conditioned reality.
 Togal visions four, three, and two are in this phase.
-This phase may also correspond with bhumis 2-10 and the jhanas, unfolding non-linearly.
+This phase may also correspond with bhumis 2-10 and the jhanas, unfolding non-linearly and asymmetrically.
 
 /////////////////////////////////////////////////////////////////////////////////
 == Key Point

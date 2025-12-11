@@ -1,4 +1,4 @@
-personal_ws-1.1 en 160 utf-8
+personal_ws-1.1 en 161 utf-8
 Abhidhamma
 Aryadeva's
 Atisa
@@ -147,6 +147,7 @@ thigle
 todo
 togal
 trekcho
+trichotomy
 typ
 uncontrived
 unfabricated

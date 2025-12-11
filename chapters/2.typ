@@ -392,9 +392,10 @@ so continued familiarization is important.
 ]
 
 We have many ways to observe the weight of our subscriptions into sense objects.
-The subject/action/object spheres are discernible within subtle knowingness.
-So when the mind no longer pulls toward or "grabs" appearances,
-meaning sights, sounds, etc., then there is a great evenness.
+The subject/action/object spheres are discernible within subtle knowingness,
+and this trichotomy begins softening.
+When the mind no longer pulls toward or "grabs" objects,
+when the magnetism of subjectivity has softened, there is great evenness.
 
 #quote(block: true, attribution: [Padmasambhava @self-liberation-through-seeing])[
   Even though these appearances that you perceive do arise,\
