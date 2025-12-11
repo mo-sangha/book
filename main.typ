@@ -39,8 +39,6 @@
 #page(
   numbering: none, // Copyright page does not get a page number.
   [
-    Draft copy.
-
     Published #datetime.today().display("[year]-[month]-[day]").
 
     This text is self-secret and self-protected.
