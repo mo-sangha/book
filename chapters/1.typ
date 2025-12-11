@@ -19,7 +19,7 @@ we are the coffee instead of the water.
 During recognition we have a moment, an instant of seeing pure water, but the coffee soon returns.
 What remains is the recognition of water as the basis, and now that the practitioner has caught a glimpse,
 it doesn't go away.
-Metaphorically speaking, we re-orientate from the coffee into the water, allowing the coffee
+Metaphorically speaking, we reorientate from the coffee into the water, allowing the coffee
 to naturally disappear on its own.
 Coffee is a metaphor for karma, or conditioned mind.
 If we reside in the karma then we're creating even more:
