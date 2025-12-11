@@ -1,4 +1,4 @@
-personal_ws-1.1 en 156 utf-8
+personal_ws-1.1 en 158 utf-8
 Abhidhamma
 Aryadeva's
 Atisa
@@ -97,6 +97,7 @@ knowingness
 kunsang
 lotsawa
 mahamudra
+mahasandhi
 manas
 marigpa
 nd
@@ -121,6 +122,7 @@ rgb
 rigpa
 rtsal
 sadhanas
+sahaja
 samadhi
 samatha
 samaya

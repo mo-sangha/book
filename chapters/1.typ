@@ -3,7 +3,29 @@
 = Revealing the Nature of Mind
 
 The nature of mind is your own awareness.
-So simple, like space, we reside within it yet don't realize it as the basis for all experiences.
+So simple, like space, we reside within it yet don't realize awareness as the basis for all experiences.
+
+The very mind which is reading this text right now is the enlightened mind.
+Like a moth distracted by light, beings tend to attract into the movement of experience.
+No matter which type of emotion, thought pattern, or bodily sensation oscillates through awareness,
+it remains like space, unchanging and purely present.
+
+The recognition of this aspect of your mind can be familiar, since it has been like this since beginningless time.
+A warm embrace that goes by ancient names like Buddha-nature, tathagatagarbha, svabhava, sahaja,
+mahasandhi, dzogchen, and many more.
+
+If you take the example of a cup of coffee: then it's like we've spent countless years thinking
+we are the coffee instead of the water.
+During recognition we have a moment, an instant of seeing pure water, but the coffee soon returns.
+What remains is the recognition of water as the basis, and now that the practitioner has caught a glimpse,
+it doesn't go away.
+Metaphorically speaking, we re-orientate from the coffee into the water, allowing the coffee
+to naturally disappear on its own.
+Coffee is a metaphor for karma, or conditioned mind.
+If we reside in the karma then we're creating even more:
+cycling, stirring conditioning while contracting into movement, we get lost.
+We build worlds within the turbulence of stirring mind only to have impermanence show the futility.
+Pointing out the nature of mind finally shows us the exit.
 
 Usually a practitioner initially accesses pointing out from an authentic lineage of
 awareness-realizers, whether directly in the face of other people or indirectly from dharma they've published.

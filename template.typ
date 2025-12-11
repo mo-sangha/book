@@ -114,6 +114,8 @@
   show "Sadhana": [Sādhanā]
   show "svabhava": [svabhāva]
   show "Svabhava": [Svabhāva]
+  show "Mahasandhi": [Mahāsaṅdhi]
+  show "mahasandhi": [mahāsaṅdhi]
 
   // Renditions of common Tibetan words.
   show "trekcho": [trekchö]
