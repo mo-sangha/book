@@ -131,10 +131,10 @@ embracing the ineffability of our recognition and allowing freedom to unfold.
 == Discerning the Implications
 /////////////////////////////////////////////////////////////////////////////////
 
-You have seen the unconditioned clarity aspect of mind (Tib: _rang zhin_, Skt: _svabhava_),
-synonymous with sambhogakaya.
-This enables one to take the pure aspect of mind, awareness, as the path, traditionally called
-"taking the fruit as the path."
+You have seen the unconditioned clarity aspect of mind (Tib: _rang zhin_, Skt: _svabhava_).
+According to many masters, the Dharmakaya emptiness aspect is present in recognition,
+but the cognitive Sambhogakaya aspect is what usually remains noticeable.
+Seeing this aspect of mind enables one to take pure awareness as the path.
 
 The implications of this pointing out are that you now have a foundation for self-liberation.
 The recognition included "empty cognizance," but the emptiness aspect did not last very long
