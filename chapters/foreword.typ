@@ -10,7 +10,7 @@ short sessions, inquiry discussions, and text/media explorations.
 These correspond with secret, inner, and outer aspects of the view.
 
 Much of this text is meant to be accompanied by a teacher, teachings, and group of practitioners.
-The style outlines post-recognition of the nature of mind and how to release into complete freedom.
+The style deals with recognition of the nature of mind, post-recognition, and release into complete freedom.
 The three kayas as essence, nature, and energy become revealed using practices passed through
 timeless traditions.
 
