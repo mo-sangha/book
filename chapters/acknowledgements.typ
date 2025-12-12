@@ -15,6 +15,6 @@ HH Karma Kuchen, Khenchen Tsewang Gyatso, Gyatrul Rinpoche, His Eminence Khentul
 Tulku Dawa Gyalpo, Khenpo Tenzin Norgay, and the Palyul lamas.
 Deep appreciation goes to Venerable Lama Karma Dorje, who gave blessing and inspired me to teach the highest yana.
 
-Without our very special group of practitioners, this text would not have happened.
+Without our very special group of practitioners this text would not have happened.
 They were the basis for this approach coming together, but many also helped with putting together this book.
 So I'd like to also sincerely thank Dorje Lekpa, Masam Chönyi, Ösal Long-gyé, Nyimé Yeshé, Scott, Makye, and Yeshe.
