@@ -38,7 +38,12 @@
     date: auto,
   )
 
+  // Chapter headings.
   set heading(numbering: "1.1.")
+  show heading.where(level: 1): set align(center)
+  show heading.where(level: 1): set block(below: 1.2em)
+  show heading.where(level: 1): set text(size: 20pt, hyphenate: false)
+  show heading.where(level: 1): set par(justify: false)
 
   // This font is in the fonts/ folder. The Makefile supplies that path by default.
   // This is the closest freely-licensed font that mimics the style of The Way of Abiding.
