@@ -44,7 +44,7 @@
 
 #context {
   let copyright_text = [
-    Published #datetime.today().display("[year]-[month]-[day]").\
+    Published 2025-12-28 and updated #datetime.today().display("[year]-[month]-[day]").\
     This text is self-secret and self-protected.
 
     Copyright © #datetime.today().display("[year]"), Lama Dawai Gocha.\
@@ -56,7 +56,7 @@
 
   if target() == "paged" {
     set page(numbering: none) // Copyright page does not get a page number.
-    copyright_text
+    place(bottom + left, copyright_text)
     pagebreak()
   } else if target() == "html" {
     copyright_text
